@@ -1,0 +1,27 @@
+[package]
+name = "ullage"
+version = "0.1.0"
+edition = "2021"
+authors = ["Aneesh Krishna Parthasarathy <aneeshkrishnaparthasarathy@gmail.com>"]
+description = "Cryogenic rocket propellant management, tank ullage pressurization dynamics, turbopump chilldown automation, and hot-fire test executive in Rhai and Rust"
+license = "ISC"
+
+[dependencies]
+rhai = { version = "1.27.0", features = ["sync"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+byteorder = "1.5"
+
+[lib]
+name = "ullage"
+path = "src/lib.rs"
+
+[[bin]]
+name = "ullage"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
