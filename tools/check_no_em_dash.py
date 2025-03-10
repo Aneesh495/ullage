@@ -11,8 +11,8 @@ Licensed under the ISC License.
 import os
 import sys
 
-EXCLUDE_DIRS = {".git", "bin", "build", "__pycache__", ".zig-cache"}
-EXCLUDE_EXTS = {".png", ".jpg", ".jpeg", ".ico", ".pdf", ".pyc", ".o", ".a", ".so", ".dylib", ".DS_Store"}
+EXCLUDE_DIRS = {".git", "target", "bin", "build", "__pycache__", ".zig-cache"}
+EXCLUDE_EXTS = {".png", ".jpg", ".jpeg", ".ico", ".pdf", ".pyc", ".o", ".a", ".so", ".dylib", ".DS_Store", ".rmeta", ".rlib", ".d"}
 
 def scan_directory(root_dir):
     violations = []

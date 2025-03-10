@@ -1,14 +1,15 @@
 //! Rhai script module loader and file system resolver
 
-use rhai::{Engine, Module, Scope, AST};
+use rhai::{Engine, Scope, AST};
 use std::collections::HashMap;
 use std::fs;
 use std::path::{Path, PathBuf};
-use std::sync::{Arc, Mutex};
+use std::sync::Mutex;
 
 /// Caching module loader for Rhai script trees
 pub struct ScriptModuleLoader {
     base_dir: PathBuf,
+    #[allow(dead_code)]
     compiled_cache: Mutex<HashMap<String, AST>>,
 }
 

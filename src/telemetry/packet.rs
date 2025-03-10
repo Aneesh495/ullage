@@ -83,7 +83,7 @@ mod tests {
 
     #[test]
     fn test_invalid_sync() {
-        let mut buf = [0u8; PACKET_SIZE_BYTES];
+        let buf = [0u8; PACKET_SIZE_BYTES];
         assert!(TelemetryPacket::deserialize(&buf).is_err());
     }
 }
