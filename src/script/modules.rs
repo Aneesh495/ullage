@@ -23,10 +23,24 @@ impl ScriptModuleLoader {
 
     /// Load, parse, and compile a script file into an AST
     pub fn compile_file(&self, engine: &Engine, rel_path: &str) -> Result<AST, String> {
-        let mut full_path = self.base_dir.join(rel_path);
-        if !full_path.exists() && !rel_path.ends_with(".rhai") {
-            full_path = self.base_dir.join(format!("{}.rhai", rel_path));
-        }
+        let direct_path = Path::new(rel_path);
+        let full_path = if direct_path.exists() {
+            direct_path.to_path_buf()
+        } else {
+            let base_candidate = self.base_dir.join(rel_path);
+            if base_candidate.exists() {
+                base_candidate
+            } else if !rel_path.ends_with(".rhai") {
+                let with_ext = self.base_dir.join(format!("{}.rhai", rel_path));
+                if with_ext.exists() {
+                    with_ext
+                } else {
+                    base_candidate
+                }
+            } else {
+                base_candidate
+            }
+        };
 
         if !full_path.exists() {
             return Err(format!("Script file not found: {}", full_path.display()));
