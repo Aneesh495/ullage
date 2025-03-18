@@ -3,11 +3,29 @@
 use crate::dsp::statistics::ChamberAcousticModel;
 use crate::safety::interlock::AbortReason;
 use crate::script::context::{SharedContext, SharedHal};
-use rhai::{Array, Dynamic, Engine, Scope};
+use rhai::Engine;
 use std::time::Duration;
 
 /// Register all native propulsion bindings into a Rhai Engine instance
 pub fn register_bindings(engine: &mut Engine, ctx: SharedContext, hal: SharedHal) {
+    // Mathematical and transcendental primitives on f64
+    engine.register_fn("powf", |x: f64, y: f64| -> f64 { x.powf(y) });
+    engine.register_fn("pow", |x: f64, y: f64| -> f64 { x.powf(y) });
+    engine.register_fn("sqrt", |x: f64| -> f64 { x.max(0.0).sqrt() });
+    engine.register_fn("exp", |x: f64| -> f64 { x.exp() });
+    engine.register_fn("ln", |x: f64| -> f64 { if x > 0.0 { x.ln() } else { 0.0 } });
+    engine.register_fn("log10", |x: f64| -> f64 { if x > 0.0 { x.log10() } else { 0.0 } });
+    engine.register_fn("sin", |x: f64| -> f64 { x.sin() });
+    engine.register_fn("cos", |x: f64| -> f64 { x.cos() });
+    engine.register_fn("tan", |x: f64| -> f64 { x.tan() });
+    engine.register_fn("asin", |x: f64| -> f64 { x.clamp(-1.0, 1.0).asin() });
+    engine.register_fn("acos", |x: f64| -> f64 { x.clamp(-1.0, 1.0).acos() });
+    engine.register_fn("atan", |x: f64| -> f64 { x.atan() });
+    engine.register_fn("atan2", |y: f64, x: f64| -> f64 { y.atan2(x) });
+    engine.register_fn("abs", |x: f64| -> f64 { x.abs() });
+    engine.register_fn("max", |a: f64, b: f64| -> f64 { a.max(b) });
+    engine.register_fn("min", |a: f64, b: f64| -> f64 { a.min(b) });
+
     // Logging binding
     {
         let ctx = ctx.clone();
