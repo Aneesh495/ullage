@@ -25,6 +25,14 @@ pub fn register_bindings(engine: &mut Engine, ctx: SharedContext, hal: SharedHal
     engine.register_fn("abs", |x: f64| -> f64 { x.abs() });
     engine.register_fn("max", |a: f64, b: f64| -> f64 { a.max(b) });
     engine.register_fn("min", |a: f64, b: f64| -> f64 { a.min(b) });
+    engine.register_fn("clamp", |x: f64, lo: f64, hi: f64| -> f64 { x.clamp(lo, hi) });
+    engine.register_fn("math_clamp", |x: f64, lo: f64, hi: f64| -> f64 { x.clamp(lo, hi) });
+    engine.register_fn("math_sign", |x: f64| -> f64 { if x > 0.0 { 1.0 } else if x < 0.0 { -1.0 } else { 0.0 } });
+    engine.register_fn("math_abs", |x: f64| -> f64 { x.abs() });
+    engine.register_fn("smoothstep", |e0: f64, e1: f64, x: f64| -> f64 {
+        let t = ((x - e0) / (e1 - e0)).clamp(0.0, 1.0);
+        t * t * (3.0 - 2.0 * t)
+    });
 
     // Logging binding
     {
