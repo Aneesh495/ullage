@@ -143,3 +143,123 @@ fn deep_throttle_notch_43() {
 fn deep_throttle_notch_44() {
     #{"notch": 44, "pct": 25.0 + 44 * 0.5}
 }
+fn deep_throttle_notch_45() {
+    #{"notch": 45, "pct": 25.0 + 45 * 0.5}
+}
+fn deep_throttle_notch_46() {
+    #{"notch": 46, "pct": 25.0 + 46 * 0.5}
+}
+fn deep_throttle_notch_47() {
+    #{"notch": 47, "pct": 25.0 + 47 * 0.5}
+}
+fn deep_throttle_notch_48() {
+    #{"notch": 48, "pct": 25.0 + 48 * 0.5}
+}
+fn deep_throttle_notch_49() {
+    #{"notch": 49, "pct": 25.0 + 49 * 0.5}
+}
+fn deep_throttle_notch_50() {
+    #{"notch": 50, "pct": 25.0 + 50 * 0.5}
+}
+fn deep_throttle_notch_51() {
+    #{"notch": 51, "pct": 25.0 + 51 * 0.5}
+}
+fn deep_throttle_notch_52() {
+    #{"notch": 52, "pct": 25.0 + 52 * 0.5}
+}
+fn deep_throttle_notch_53() {
+    #{"notch": 53, "pct": 25.0 + 53 * 0.5}
+}
+fn deep_throttle_notch_54() {
+    #{"notch": 54, "pct": 25.0 + 54 * 0.5}
+}
+fn deep_throttle_notch_55() {
+    #{"notch": 55, "pct": 25.0 + 55 * 0.5}
+}
+fn deep_throttle_notch_56() {
+    #{"notch": 56, "pct": 25.0 + 56 * 0.5}
+}
+fn deep_throttle_notch_57() {
+    #{"notch": 57, "pct": 25.0 + 57 * 0.5}
+}
+fn deep_throttle_notch_58() {
+    #{"notch": 58, "pct": 25.0 + 58 * 0.5}
+}
+fn deep_throttle_notch_59() {
+    #{"notch": 59, "pct": 25.0 + 59 * 0.5}
+}
+fn deep_throttle_notch_60() {
+    #{"notch": 60, "pct": 25.0 + 60 * 0.5}
+}
+fn deep_throttle_notch_61() {
+    #{"notch": 61, "pct": 25.0 + 61 * 0.5}
+}
+fn deep_throttle_notch_62() {
+    #{"notch": 62, "pct": 25.0 + 62 * 0.5}
+}
+fn deep_throttle_notch_63() {
+    #{"notch": 63, "pct": 25.0 + 63 * 0.5}
+}
+fn deep_throttle_notch_64() {
+    #{"notch": 64, "pct": 25.0 + 64 * 0.5}
+}
+fn deep_throttle_notch_65() {
+    #{"notch": 65, "pct": 25.0 + 65 * 0.5}
+}
+fn deep_throttle_notch_66() {
+    #{"notch": 66, "pct": 25.0 + 66 * 0.5}
+}
+fn deep_throttle_notch_67() {
+    #{"notch": 67, "pct": 25.0 + 67 * 0.5}
+}
+fn deep_throttle_notch_68() {
+    #{"notch": 68, "pct": 25.0 + 68 * 0.5}
+}
+fn deep_throttle_notch_69() {
+    #{"notch": 69, "pct": 25.0 + 69 * 0.5}
+}
+fn deep_throttle_notch_70() {
+    #{"notch": 70, "pct": 25.0 + 70 * 0.5}
+}
+fn deep_throttle_notch_71() {
+    #{"notch": 71, "pct": 25.0 + 71 * 0.5}
+}
+fn deep_throttle_notch_72() {
+    #{"notch": 72, "pct": 25.0 + 72 * 0.5}
+}
+fn deep_throttle_notch_73() {
+    #{"notch": 73, "pct": 25.0 + 73 * 0.5}
+}
+fn deep_throttle_notch_74() {
+    #{"notch": 74, "pct": 25.0 + 74 * 0.5}
+}
+fn deep_throttle_notch_75() {
+    #{"notch": 75, "pct": 25.0 + 75 * 0.5}
+}
+fn deep_throttle_notch_76() {
+    #{"notch": 76, "pct": 25.0 + 76 * 0.5}
+}
+fn deep_throttle_notch_77() {
+    #{"notch": 77, "pct": 25.0 + 77 * 0.5}
+}
+fn deep_throttle_notch_78() {
+    #{"notch": 78, "pct": 25.0 + 78 * 0.5}
+}
+fn deep_throttle_notch_79() {
+    #{"notch": 79, "pct": 25.0 + 79 * 0.5}
+}
+fn deep_throttle_notch_80() {
+    #{"notch": 80, "pct": 25.0 + 80 * 0.5}
+}
+fn deep_throttle_notch_81() {
+    #{"notch": 81, "pct": 25.0 + 81 * 0.5}
+}
+fn deep_throttle_notch_82() {
+    #{"notch": 82, "pct": 25.0 + 82 * 0.5}
+}
+fn deep_throttle_notch_83() {
+    #{"notch": 83, "pct": 25.0 + 83 * 0.5}
+}
+fn deep_throttle_notch_84() {
+    #{"notch": 84, "pct": 25.0 + 84 * 0.5}
+}

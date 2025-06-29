@@ -149,3 +149,123 @@ fn atp_telemetry_checkpoint_43(t_s) {
 fn atp_telemetry_checkpoint_44(t_s) {
     #{"checkpoint": 44, "expected_pc": 80.0, "active": t_s >= 44 * 0.3}
 }
+fn atp_telemetry_checkpoint_45(t_s) {
+    #{"checkpoint": 45, "expected_pc": 80.0, "active": t_s >= 45 * 0.3}
+}
+fn atp_telemetry_checkpoint_46(t_s) {
+    #{"checkpoint": 46, "expected_pc": 80.0, "active": t_s >= 46 * 0.3}
+}
+fn atp_telemetry_checkpoint_47(t_s) {
+    #{"checkpoint": 47, "expected_pc": 80.0, "active": t_s >= 47 * 0.3}
+}
+fn atp_telemetry_checkpoint_48(t_s) {
+    #{"checkpoint": 48, "expected_pc": 80.0, "active": t_s >= 48 * 0.3}
+}
+fn atp_telemetry_checkpoint_49(t_s) {
+    #{"checkpoint": 49, "expected_pc": 80.0, "active": t_s >= 49 * 0.3}
+}
+fn atp_telemetry_checkpoint_50(t_s) {
+    #{"checkpoint": 50, "expected_pc": 80.0, "active": t_s >= 50 * 0.3}
+}
+fn atp_telemetry_checkpoint_51(t_s) {
+    #{"checkpoint": 51, "expected_pc": 80.0, "active": t_s >= 51 * 0.3}
+}
+fn atp_telemetry_checkpoint_52(t_s) {
+    #{"checkpoint": 52, "expected_pc": 80.0, "active": t_s >= 52 * 0.3}
+}
+fn atp_telemetry_checkpoint_53(t_s) {
+    #{"checkpoint": 53, "expected_pc": 80.0, "active": t_s >= 53 * 0.3}
+}
+fn atp_telemetry_checkpoint_54(t_s) {
+    #{"checkpoint": 54, "expected_pc": 80.0, "active": t_s >= 54 * 0.3}
+}
+fn atp_telemetry_checkpoint_55(t_s) {
+    #{"checkpoint": 55, "expected_pc": 80.0, "active": t_s >= 55 * 0.3}
+}
+fn atp_telemetry_checkpoint_56(t_s) {
+    #{"checkpoint": 56, "expected_pc": 80.0, "active": t_s >= 56 * 0.3}
+}
+fn atp_telemetry_checkpoint_57(t_s) {
+    #{"checkpoint": 57, "expected_pc": 80.0, "active": t_s >= 57 * 0.3}
+}
+fn atp_telemetry_checkpoint_58(t_s) {
+    #{"checkpoint": 58, "expected_pc": 80.0, "active": t_s >= 58 * 0.3}
+}
+fn atp_telemetry_checkpoint_59(t_s) {
+    #{"checkpoint": 59, "expected_pc": 80.0, "active": t_s >= 59 * 0.3}
+}
+fn atp_telemetry_checkpoint_60(t_s) {
+    #{"checkpoint": 60, "expected_pc": 80.0, "active": t_s >= 60 * 0.3}
+}
+fn atp_telemetry_checkpoint_61(t_s) {
+    #{"checkpoint": 61, "expected_pc": 80.0, "active": t_s >= 61 * 0.3}
+}
+fn atp_telemetry_checkpoint_62(t_s) {
+    #{"checkpoint": 62, "expected_pc": 80.0, "active": t_s >= 62 * 0.3}
+}
+fn atp_telemetry_checkpoint_63(t_s) {
+    #{"checkpoint": 63, "expected_pc": 80.0, "active": t_s >= 63 * 0.3}
+}
+fn atp_telemetry_checkpoint_64(t_s) {
+    #{"checkpoint": 64, "expected_pc": 80.0, "active": t_s >= 64 * 0.3}
+}
+fn atp_telemetry_checkpoint_65(t_s) {
+    #{"checkpoint": 65, "expected_pc": 80.0, "active": t_s >= 65 * 0.3}
+}
+fn atp_telemetry_checkpoint_66(t_s) {
+    #{"checkpoint": 66, "expected_pc": 80.0, "active": t_s >= 66 * 0.3}
+}
+fn atp_telemetry_checkpoint_67(t_s) {
+    #{"checkpoint": 67, "expected_pc": 80.0, "active": t_s >= 67 * 0.3}
+}
+fn atp_telemetry_checkpoint_68(t_s) {
+    #{"checkpoint": 68, "expected_pc": 80.0, "active": t_s >= 68 * 0.3}
+}
+fn atp_telemetry_checkpoint_69(t_s) {
+    #{"checkpoint": 69, "expected_pc": 80.0, "active": t_s >= 69 * 0.3}
+}
+fn atp_telemetry_checkpoint_70(t_s) {
+    #{"checkpoint": 70, "expected_pc": 80.0, "active": t_s >= 70 * 0.3}
+}
+fn atp_telemetry_checkpoint_71(t_s) {
+    #{"checkpoint": 71, "expected_pc": 80.0, "active": t_s >= 71 * 0.3}
+}
+fn atp_telemetry_checkpoint_72(t_s) {
+    #{"checkpoint": 72, "expected_pc": 80.0, "active": t_s >= 72 * 0.3}
+}
+fn atp_telemetry_checkpoint_73(t_s) {
+    #{"checkpoint": 73, "expected_pc": 80.0, "active": t_s >= 73 * 0.3}
+}
+fn atp_telemetry_checkpoint_74(t_s) {
+    #{"checkpoint": 74, "expected_pc": 80.0, "active": t_s >= 74 * 0.3}
+}
+fn atp_telemetry_checkpoint_75(t_s) {
+    #{"checkpoint": 75, "expected_pc": 80.0, "active": t_s >= 75 * 0.3}
+}
+fn atp_telemetry_checkpoint_76(t_s) {
+    #{"checkpoint": 76, "expected_pc": 80.0, "active": t_s >= 76 * 0.3}
+}
+fn atp_telemetry_checkpoint_77(t_s) {
+    #{"checkpoint": 77, "expected_pc": 80.0, "active": t_s >= 77 * 0.3}
+}
+fn atp_telemetry_checkpoint_78(t_s) {
+    #{"checkpoint": 78, "expected_pc": 80.0, "active": t_s >= 78 * 0.3}
+}
+fn atp_telemetry_checkpoint_79(t_s) {
+    #{"checkpoint": 79, "expected_pc": 80.0, "active": t_s >= 79 * 0.3}
+}
+fn atp_telemetry_checkpoint_80(t_s) {
+    #{"checkpoint": 80, "expected_pc": 80.0, "active": t_s >= 80 * 0.3}
+}
+fn atp_telemetry_checkpoint_81(t_s) {
+    #{"checkpoint": 81, "expected_pc": 80.0, "active": t_s >= 81 * 0.3}
+}
+fn atp_telemetry_checkpoint_82(t_s) {
+    #{"checkpoint": 82, "expected_pc": 80.0, "active": t_s >= 82 * 0.3}
+}
+fn atp_telemetry_checkpoint_83(t_s) {
+    #{"checkpoint": 83, "expected_pc": 80.0, "active": t_s >= 83 * 0.3}
+}
+fn atp_telemetry_checkpoint_84(t_s) {
+    #{"checkpoint": 84, "expected_pc": 80.0, "active": t_s >= 84 * 0.3}
+}

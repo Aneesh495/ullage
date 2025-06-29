@@ -147,3 +147,123 @@ fn pulse_burst_segment_43() {
 fn pulse_burst_segment_44() {
     #{"burst": 44, "pulse_ms": 2000 + 44 * 20}
 }
+fn pulse_burst_segment_45() {
+    #{"burst": 45, "pulse_ms": 2000 + 45 * 20}
+}
+fn pulse_burst_segment_46() {
+    #{"burst": 46, "pulse_ms": 2000 + 46 * 20}
+}
+fn pulse_burst_segment_47() {
+    #{"burst": 47, "pulse_ms": 2000 + 47 * 20}
+}
+fn pulse_burst_segment_48() {
+    #{"burst": 48, "pulse_ms": 2000 + 48 * 20}
+}
+fn pulse_burst_segment_49() {
+    #{"burst": 49, "pulse_ms": 2000 + 49 * 20}
+}
+fn pulse_burst_segment_50() {
+    #{"burst": 50, "pulse_ms": 2000 + 50 * 20}
+}
+fn pulse_burst_segment_51() {
+    #{"burst": 51, "pulse_ms": 2000 + 51 * 20}
+}
+fn pulse_burst_segment_52() {
+    #{"burst": 52, "pulse_ms": 2000 + 52 * 20}
+}
+fn pulse_burst_segment_53() {
+    #{"burst": 53, "pulse_ms": 2000 + 53 * 20}
+}
+fn pulse_burst_segment_54() {
+    #{"burst": 54, "pulse_ms": 2000 + 54 * 20}
+}
+fn pulse_burst_segment_55() {
+    #{"burst": 55, "pulse_ms": 2000 + 55 * 20}
+}
+fn pulse_burst_segment_56() {
+    #{"burst": 56, "pulse_ms": 2000 + 56 * 20}
+}
+fn pulse_burst_segment_57() {
+    #{"burst": 57, "pulse_ms": 2000 + 57 * 20}
+}
+fn pulse_burst_segment_58() {
+    #{"burst": 58, "pulse_ms": 2000 + 58 * 20}
+}
+fn pulse_burst_segment_59() {
+    #{"burst": 59, "pulse_ms": 2000 + 59 * 20}
+}
+fn pulse_burst_segment_60() {
+    #{"burst": 60, "pulse_ms": 2000 + 60 * 20}
+}
+fn pulse_burst_segment_61() {
+    #{"burst": 61, "pulse_ms": 2000 + 61 * 20}
+}
+fn pulse_burst_segment_62() {
+    #{"burst": 62, "pulse_ms": 2000 + 62 * 20}
+}
+fn pulse_burst_segment_63() {
+    #{"burst": 63, "pulse_ms": 2000 + 63 * 20}
+}
+fn pulse_burst_segment_64() {
+    #{"burst": 64, "pulse_ms": 2000 + 64 * 20}
+}
+fn pulse_burst_segment_65() {
+    #{"burst": 65, "pulse_ms": 2000 + 65 * 20}
+}
+fn pulse_burst_segment_66() {
+    #{"burst": 66, "pulse_ms": 2000 + 66 * 20}
+}
+fn pulse_burst_segment_67() {
+    #{"burst": 67, "pulse_ms": 2000 + 67 * 20}
+}
+fn pulse_burst_segment_68() {
+    #{"burst": 68, "pulse_ms": 2000 + 68 * 20}
+}
+fn pulse_burst_segment_69() {
+    #{"burst": 69, "pulse_ms": 2000 + 69 * 20}
+}
+fn pulse_burst_segment_70() {
+    #{"burst": 70, "pulse_ms": 2000 + 70 * 20}
+}
+fn pulse_burst_segment_71() {
+    #{"burst": 71, "pulse_ms": 2000 + 71 * 20}
+}
+fn pulse_burst_segment_72() {
+    #{"burst": 72, "pulse_ms": 2000 + 72 * 20}
+}
+fn pulse_burst_segment_73() {
+    #{"burst": 73, "pulse_ms": 2000 + 73 * 20}
+}
+fn pulse_burst_segment_74() {
+    #{"burst": 74, "pulse_ms": 2000 + 74 * 20}
+}
+fn pulse_burst_segment_75() {
+    #{"burst": 75, "pulse_ms": 2000 + 75 * 20}
+}
+fn pulse_burst_segment_76() {
+    #{"burst": 76, "pulse_ms": 2000 + 76 * 20}
+}
+fn pulse_burst_segment_77() {
+    #{"burst": 77, "pulse_ms": 2000 + 77 * 20}
+}
+fn pulse_burst_segment_78() {
+    #{"burst": 78, "pulse_ms": 2000 + 78 * 20}
+}
+fn pulse_burst_segment_79() {
+    #{"burst": 79, "pulse_ms": 2000 + 79 * 20}
+}
+fn pulse_burst_segment_80() {
+    #{"burst": 80, "pulse_ms": 2000 + 80 * 20}
+}
+fn pulse_burst_segment_81() {
+    #{"burst": 81, "pulse_ms": 2000 + 81 * 20}
+}
+fn pulse_burst_segment_82() {
+    #{"burst": 82, "pulse_ms": 2000 + 82 * 20}
+}
+fn pulse_burst_segment_83() {
+    #{"burst": 83, "pulse_ms": 2000 + 83 * 20}
+}
+fn pulse_burst_segment_84() {
+    #{"burst": 84, "pulse_ms": 2000 + 84 * 20}
+}

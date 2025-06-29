@@ -188,3 +188,163 @@ fn annular_gap_velocity_44(mdot, rho) {
     let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 44 * 0.01), 0.85);
     #{"slot": 44, "velocity": v}
 }
+fn annular_gap_velocity_45(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 45 * 0.01), 0.85);
+    #{"slot": 45, "velocity": v}
+}
+fn annular_gap_velocity_46(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 46 * 0.01), 0.85);
+    #{"slot": 46, "velocity": v}
+}
+fn annular_gap_velocity_47(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 47 * 0.01), 0.85);
+    #{"slot": 47, "velocity": v}
+}
+fn annular_gap_velocity_48(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 48 * 0.01), 0.85);
+    #{"slot": 48, "velocity": v}
+}
+fn annular_gap_velocity_49(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 49 * 0.01), 0.85);
+    #{"slot": 49, "velocity": v}
+}
+fn annular_gap_velocity_50(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 50 * 0.01), 0.85);
+    #{"slot": 50, "velocity": v}
+}
+fn annular_gap_velocity_51(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 51 * 0.01), 0.85);
+    #{"slot": 51, "velocity": v}
+}
+fn annular_gap_velocity_52(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 52 * 0.01), 0.85);
+    #{"slot": 52, "velocity": v}
+}
+fn annular_gap_velocity_53(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 53 * 0.01), 0.85);
+    #{"slot": 53, "velocity": v}
+}
+fn annular_gap_velocity_54(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 54 * 0.01), 0.85);
+    #{"slot": 54, "velocity": v}
+}
+fn annular_gap_velocity_55(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 55 * 0.01), 0.85);
+    #{"slot": 55, "velocity": v}
+}
+fn annular_gap_velocity_56(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 56 * 0.01), 0.85);
+    #{"slot": 56, "velocity": v}
+}
+fn annular_gap_velocity_57(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 57 * 0.01), 0.85);
+    #{"slot": 57, "velocity": v}
+}
+fn annular_gap_velocity_58(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 58 * 0.01), 0.85);
+    #{"slot": 58, "velocity": v}
+}
+fn annular_gap_velocity_59(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 59 * 0.01), 0.85);
+    #{"slot": 59, "velocity": v}
+}
+fn annular_gap_velocity_60(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 60 * 0.01), 0.85);
+    #{"slot": 60, "velocity": v}
+}
+fn annular_gap_velocity_61(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 61 * 0.01), 0.85);
+    #{"slot": 61, "velocity": v}
+}
+fn annular_gap_velocity_62(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 62 * 0.01), 0.85);
+    #{"slot": 62, "velocity": v}
+}
+fn annular_gap_velocity_63(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 63 * 0.01), 0.85);
+    #{"slot": 63, "velocity": v}
+}
+fn annular_gap_velocity_64(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 64 * 0.01), 0.85);
+    #{"slot": 64, "velocity": v}
+}
+fn annular_gap_velocity_65(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 65 * 0.01), 0.85);
+    #{"slot": 65, "velocity": v}
+}
+fn annular_gap_velocity_66(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 66 * 0.01), 0.85);
+    #{"slot": 66, "velocity": v}
+}
+fn annular_gap_velocity_67(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 67 * 0.01), 0.85);
+    #{"slot": 67, "velocity": v}
+}
+fn annular_gap_velocity_68(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 68 * 0.01), 0.85);
+    #{"slot": 68, "velocity": v}
+}
+fn annular_gap_velocity_69(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 69 * 0.01), 0.85);
+    #{"slot": 69, "velocity": v}
+}
+fn annular_gap_velocity_70(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 70 * 0.01), 0.85);
+    #{"slot": 70, "velocity": v}
+}
+fn annular_gap_velocity_71(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 71 * 0.01), 0.85);
+    #{"slot": 71, "velocity": v}
+}
+fn annular_gap_velocity_72(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 72 * 0.01), 0.85);
+    #{"slot": 72, "velocity": v}
+}
+fn annular_gap_velocity_73(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 73 * 0.01), 0.85);
+    #{"slot": 73, "velocity": v}
+}
+fn annular_gap_velocity_74(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 74 * 0.01), 0.85);
+    #{"slot": 74, "velocity": v}
+}
+fn annular_gap_velocity_75(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 75 * 0.01), 0.85);
+    #{"slot": 75, "velocity": v}
+}
+fn annular_gap_velocity_76(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 76 * 0.01), 0.85);
+    #{"slot": 76, "velocity": v}
+}
+fn annular_gap_velocity_77(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 77 * 0.01), 0.85);
+    #{"slot": 77, "velocity": v}
+}
+fn annular_gap_velocity_78(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 78 * 0.01), 0.85);
+    #{"slot": 78, "velocity": v}
+}
+fn annular_gap_velocity_79(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 79 * 0.01), 0.85);
+    #{"slot": 79, "velocity": v}
+}
+fn annular_gap_velocity_80(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 80 * 0.01), 0.85);
+    #{"slot": 80, "velocity": v}
+}
+fn annular_gap_velocity_81(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 81 * 0.01), 0.85);
+    #{"slot": 81, "velocity": v}
+}
+fn annular_gap_velocity_82(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 82 * 0.01), 0.85);
+    #{"slot": 82, "velocity": v}
+}
+fn annular_gap_velocity_83(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 83 * 0.01), 0.85);
+    #{"slot": 83, "velocity": v}
+}
+fn annular_gap_velocity_84(mdot, rho) {
+    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + 84 * 0.01), 0.85);
+    #{"slot": 84, "velocity": v}
+}

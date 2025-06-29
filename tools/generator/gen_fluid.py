@@ -46,7 +46,7 @@ def gen_properties():
     lines.append("}")
     lines.append("if verify_properties() { log_info(\"[FLUID::PROPERTIES] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn property_dispatch_channel_{i}(fluid, p_bar, t_k) {{")
         lines.append(f"    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);")
         lines.append(f"    #{{\"channel\": {i}, \"margin_k\": margin, \"operational\": margin > 2.0}}")
@@ -99,7 +99,7 @@ def gen_lox_eos():
     lines.append("}")
     lines.append("if verify_lox_eos() { log_info(\"[FLUID::LOX_EOS] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn lox_state_point_{i}(p_bar, t_k) {{")
         lines.append(f"    let rho = lox_subcooled_density(t_k + {i} * 0.1, p_bar);")
         lines.append(f"    let a = lox_speed_of_sound(t_k);")
@@ -137,7 +137,7 @@ def gen_methane_eos():
     lines.append("}")
     lines.append("if verify_methane_eos() { log_info(\"[FLUID::METHANE_EOS] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn lch4_state_point_{i}(p_bar, t_k) {{")
         lines.append(f"    let rho = lch4_subcooled_density(t_k, p_bar + {i} * 0.2);")
         lines.append(f"    let mu = lch4_dynamic_viscosity(t_k);")
@@ -173,7 +173,7 @@ def gen_helium_ullage():
     lines.append("}")
     lines.append("if verify_helium_ullage() { log_info(\"[FLUID::HELIUM_ULLAGE] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn ullage_pressurant_budget_{i}(vol_m3, target_p_bar) {{")
         lines.append(f"    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + {i} * 2.0);")
         lines.append(f"    #{{\"step\": {i}, \"mass_kg\": mass}}")
@@ -206,7 +206,7 @@ def gen_two_phase():
     lines.append("}")
     lines.append("if verify_two_phase() { log_info(\"[FLUID::TWO_PHASE] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn two_phase_slice_{i}(x_qual) {{")
         lines.append(f"    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + {i} * 0.1);")
         lines.append(f"    #{{\"slice\": {i}, \"rho_effective\": rho_eff}}")
@@ -232,7 +232,7 @@ def gen_boiling_curves():
     lines.append("}")
     lines.append("if verify_boiling() { log_info(\"[FLUID::BOILING_CURVES] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn boiling_regime_point_{i}(delta_t_wall) {{")
         lines.append(f"    let q_flux = 5000.0 * (delta_t_wall + {i} * 0.5).powf(1.8);")
         lines.append(f"    #{{\"node\": {i}, \"heat_flux_w_m2\": q_flux}}")
@@ -266,7 +266,7 @@ def gen_pressure_drop():
     lines.append("}")
     lines.append("if verify_pressure_drop() { log_info(\"[FLUID::PRESSURE_DROP] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn line_segment_loss_{i}(flow_rate_kg_s) {{")
         lines.append(f"    let dp = 0.05 * (flow_rate_kg_s + {i} * 0.1).powf(1.85);")
         lines.append(f"    #{{\"segment\": {i}, \"delta_p_bar\": dp}}")
@@ -297,7 +297,7 @@ def gen_cavitating_venturi():
     lines.append("}")
     lines.append("if verify_venturi() { log_info(\"[FLUID::CAVITATING_VENTURI] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn venturi_calibration_point_{i}(p_feed_bar) {{")
         lines.append(f"    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + {i} * 0.5, 1.0);")
         lines.append(f"    #{{\"venturi\": {i}, \"mass_flow_kg_s\": m}}")
@@ -323,7 +323,7 @@ def gen_orificing():
     lines.append("}")
     lines.append("if verify_orificing() { log_info(\"[FLUID::ORIFICING] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn orifice_plate_spec_{i}(dp) {{")
         lines.append(f"    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + {i} * 0.02), 1141.0, dp);")
         lines.append(f"    #{{\"plate\": {i}, \"flow\": f}}")
@@ -355,7 +355,7 @@ def gen_pipe_flow():
     lines.append("}")
     lines.append("if verify_pipe_flow() { log_info(\"[FLUID::PIPE_FLOW] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn transient_line_pulse_{i}(delta_v) {{")
         lines.append(f"    let s = joukowsky_surge_bar(1141.0, 1000.0 + {i} * 5.0, delta_v);")
         lines.append(f"    #{{\"station\": {i}, \"surge_bar\": s}}")

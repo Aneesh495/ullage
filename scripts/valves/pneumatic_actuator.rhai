@@ -190,3 +190,163 @@ fn pneumatic_stroke_step_44(p_bar) {
     let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 44 * 0.001);
     #{"step": 44, "net_force_n": f}
 }
+fn pneumatic_stroke_step_45(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 45 * 0.001);
+    #{"step": 45, "net_force_n": f}
+}
+fn pneumatic_stroke_step_46(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 46 * 0.001);
+    #{"step": 46, "net_force_n": f}
+}
+fn pneumatic_stroke_step_47(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 47 * 0.001);
+    #{"step": 47, "net_force_n": f}
+}
+fn pneumatic_stroke_step_48(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 48 * 0.001);
+    #{"step": 48, "net_force_n": f}
+}
+fn pneumatic_stroke_step_49(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 49 * 0.001);
+    #{"step": 49, "net_force_n": f}
+}
+fn pneumatic_stroke_step_50(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 50 * 0.001);
+    #{"step": 50, "net_force_n": f}
+}
+fn pneumatic_stroke_step_51(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 51 * 0.001);
+    #{"step": 51, "net_force_n": f}
+}
+fn pneumatic_stroke_step_52(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 52 * 0.001);
+    #{"step": 52, "net_force_n": f}
+}
+fn pneumatic_stroke_step_53(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 53 * 0.001);
+    #{"step": 53, "net_force_n": f}
+}
+fn pneumatic_stroke_step_54(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 54 * 0.001);
+    #{"step": 54, "net_force_n": f}
+}
+fn pneumatic_stroke_step_55(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 55 * 0.001);
+    #{"step": 55, "net_force_n": f}
+}
+fn pneumatic_stroke_step_56(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 56 * 0.001);
+    #{"step": 56, "net_force_n": f}
+}
+fn pneumatic_stroke_step_57(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 57 * 0.001);
+    #{"step": 57, "net_force_n": f}
+}
+fn pneumatic_stroke_step_58(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 58 * 0.001);
+    #{"step": 58, "net_force_n": f}
+}
+fn pneumatic_stroke_step_59(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 59 * 0.001);
+    #{"step": 59, "net_force_n": f}
+}
+fn pneumatic_stroke_step_60(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 60 * 0.001);
+    #{"step": 60, "net_force_n": f}
+}
+fn pneumatic_stroke_step_61(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 61 * 0.001);
+    #{"step": 61, "net_force_n": f}
+}
+fn pneumatic_stroke_step_62(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 62 * 0.001);
+    #{"step": 62, "net_force_n": f}
+}
+fn pneumatic_stroke_step_63(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 63 * 0.001);
+    #{"step": 63, "net_force_n": f}
+}
+fn pneumatic_stroke_step_64(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 64 * 0.001);
+    #{"step": 64, "net_force_n": f}
+}
+fn pneumatic_stroke_step_65(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 65 * 0.001);
+    #{"step": 65, "net_force_n": f}
+}
+fn pneumatic_stroke_step_66(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 66 * 0.001);
+    #{"step": 66, "net_force_n": f}
+}
+fn pneumatic_stroke_step_67(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 67 * 0.001);
+    #{"step": 67, "net_force_n": f}
+}
+fn pneumatic_stroke_step_68(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 68 * 0.001);
+    #{"step": 68, "net_force_n": f}
+}
+fn pneumatic_stroke_step_69(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 69 * 0.001);
+    #{"step": 69, "net_force_n": f}
+}
+fn pneumatic_stroke_step_70(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 70 * 0.001);
+    #{"step": 70, "net_force_n": f}
+}
+fn pneumatic_stroke_step_71(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 71 * 0.001);
+    #{"step": 71, "net_force_n": f}
+}
+fn pneumatic_stroke_step_72(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 72 * 0.001);
+    #{"step": 72, "net_force_n": f}
+}
+fn pneumatic_stroke_step_73(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 73 * 0.001);
+    #{"step": 73, "net_force_n": f}
+}
+fn pneumatic_stroke_step_74(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 74 * 0.001);
+    #{"step": 74, "net_force_n": f}
+}
+fn pneumatic_stroke_step_75(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 75 * 0.001);
+    #{"step": 75, "net_force_n": f}
+}
+fn pneumatic_stroke_step_76(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 76 * 0.001);
+    #{"step": 76, "net_force_n": f}
+}
+fn pneumatic_stroke_step_77(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 77 * 0.001);
+    #{"step": 77, "net_force_n": f}
+}
+fn pneumatic_stroke_step_78(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 78 * 0.001);
+    #{"step": 78, "net_force_n": f}
+}
+fn pneumatic_stroke_step_79(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 79 * 0.001);
+    #{"step": 79, "net_force_n": f}
+}
+fn pneumatic_stroke_step_80(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 80 * 0.001);
+    #{"step": 80, "net_force_n": f}
+}
+fn pneumatic_stroke_step_81(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 81 * 0.001);
+    #{"step": 81, "net_force_n": f}
+}
+fn pneumatic_stroke_step_82(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 82 * 0.001);
+    #{"step": 82, "net_force_n": f}
+}
+fn pneumatic_stroke_step_83(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 83 * 0.001);
+    #{"step": 83, "net_force_n": f}
+}
+fn pneumatic_stroke_step_84(p_bar) {
+    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, 84 * 0.001);
+    #{"step": 84, "net_force_n": f}
+}

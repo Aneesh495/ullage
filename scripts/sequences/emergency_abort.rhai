@@ -148,3 +148,123 @@ fn abort_path_evaluator_43() {
 fn abort_path_evaluator_44() {
     #{"path": 44, "priority": 44 * 2}
 }
+fn abort_path_evaluator_45() {
+    #{"path": 45, "priority": 45 * 2}
+}
+fn abort_path_evaluator_46() {
+    #{"path": 46, "priority": 46 * 2}
+}
+fn abort_path_evaluator_47() {
+    #{"path": 47, "priority": 47 * 2}
+}
+fn abort_path_evaluator_48() {
+    #{"path": 48, "priority": 48 * 2}
+}
+fn abort_path_evaluator_49() {
+    #{"path": 49, "priority": 49 * 2}
+}
+fn abort_path_evaluator_50() {
+    #{"path": 50, "priority": 50 * 2}
+}
+fn abort_path_evaluator_51() {
+    #{"path": 51, "priority": 51 * 2}
+}
+fn abort_path_evaluator_52() {
+    #{"path": 52, "priority": 52 * 2}
+}
+fn abort_path_evaluator_53() {
+    #{"path": 53, "priority": 53 * 2}
+}
+fn abort_path_evaluator_54() {
+    #{"path": 54, "priority": 54 * 2}
+}
+fn abort_path_evaluator_55() {
+    #{"path": 55, "priority": 55 * 2}
+}
+fn abort_path_evaluator_56() {
+    #{"path": 56, "priority": 56 * 2}
+}
+fn abort_path_evaluator_57() {
+    #{"path": 57, "priority": 57 * 2}
+}
+fn abort_path_evaluator_58() {
+    #{"path": 58, "priority": 58 * 2}
+}
+fn abort_path_evaluator_59() {
+    #{"path": 59, "priority": 59 * 2}
+}
+fn abort_path_evaluator_60() {
+    #{"path": 60, "priority": 60 * 2}
+}
+fn abort_path_evaluator_61() {
+    #{"path": 61, "priority": 61 * 2}
+}
+fn abort_path_evaluator_62() {
+    #{"path": 62, "priority": 62 * 2}
+}
+fn abort_path_evaluator_63() {
+    #{"path": 63, "priority": 63 * 2}
+}
+fn abort_path_evaluator_64() {
+    #{"path": 64, "priority": 64 * 2}
+}
+fn abort_path_evaluator_65() {
+    #{"path": 65, "priority": 65 * 2}
+}
+fn abort_path_evaluator_66() {
+    #{"path": 66, "priority": 66 * 2}
+}
+fn abort_path_evaluator_67() {
+    #{"path": 67, "priority": 67 * 2}
+}
+fn abort_path_evaluator_68() {
+    #{"path": 68, "priority": 68 * 2}
+}
+fn abort_path_evaluator_69() {
+    #{"path": 69, "priority": 69 * 2}
+}
+fn abort_path_evaluator_70() {
+    #{"path": 70, "priority": 70 * 2}
+}
+fn abort_path_evaluator_71() {
+    #{"path": 71, "priority": 71 * 2}
+}
+fn abort_path_evaluator_72() {
+    #{"path": 72, "priority": 72 * 2}
+}
+fn abort_path_evaluator_73() {
+    #{"path": 73, "priority": 73 * 2}
+}
+fn abort_path_evaluator_74() {
+    #{"path": 74, "priority": 74 * 2}
+}
+fn abort_path_evaluator_75() {
+    #{"path": 75, "priority": 75 * 2}
+}
+fn abort_path_evaluator_76() {
+    #{"path": 76, "priority": 76 * 2}
+}
+fn abort_path_evaluator_77() {
+    #{"path": 77, "priority": 77 * 2}
+}
+fn abort_path_evaluator_78() {
+    #{"path": 78, "priority": 78 * 2}
+}
+fn abort_path_evaluator_79() {
+    #{"path": 79, "priority": 79 * 2}
+}
+fn abort_path_evaluator_80() {
+    #{"path": 80, "priority": 80 * 2}
+}
+fn abort_path_evaluator_81() {
+    #{"path": 81, "priority": 81 * 2}
+}
+fn abort_path_evaluator_82() {
+    #{"path": 82, "priority": 82 * 2}
+}
+fn abort_path_evaluator_83() {
+    #{"path": 83, "priority": 83 * 2}
+}
+fn abort_path_evaluator_84() {
+    #{"path": 84, "priority": 84 * 2}
+}

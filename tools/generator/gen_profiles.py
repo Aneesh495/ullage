@@ -31,7 +31,7 @@ def gen_acceptance_test():
     lines.append("}")
     lines.append("if verify_atp_profile() { log_info(\"[PROFILES::ATP] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn atp_telemetry_checkpoint_{i}(t_s) {{")
         lines.append(f"    #{{\"checkpoint\": {i}, \"expected_pc\": 80.0, \"active\": t_s >= {i} * 0.3}}")
         lines.append(f"}}")
@@ -60,7 +60,7 @@ def gen_qualification_burn():
     lines.append("}")
     lines.append("if verify_qualification_burn() { log_info(\"[PROFILES::QUAL_BURN] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn qual_burn_slice_{i}() {{")
         lines.append(f"    #{{\"slice\": {i}, \"duration_s\": {i} * 2.5}}")
         lines.append(f"}}")
@@ -83,7 +83,7 @@ def gen_deep_throttle_profile():
     lines.append("}")
     lines.append("if verify_deep_throttle() { log_info(\"[PROFILES::DEEP_THROTTLE] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn deep_throttle_notch_{i}() {{")
         lines.append(f"    #{{\"notch\": {i}, \"pct\": 25.0 + {i} * 0.5}}")
         lines.append(f"}}")
@@ -110,7 +110,7 @@ def gen_pulse_firing_profile():
     lines.append("}")
     lines.append("if verify_pulse_firing() { log_info(\"[PROFILES::PULSE_FIRING] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn pulse_burst_segment_{i}() {{")
         lines.append(f"    #{{\"burst\": {i}, \"pulse_ms\": 2000 + {i} * 20}}")
         lines.append(f"}}")
@@ -133,7 +133,7 @@ def gen_gimbal_slew_profile():
     lines.append("}")
     lines.append("if verify_gimbal_slew() { log_info(\"[PROFILES::GIMBAL_SLEW] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn gimbal_circle_waypoint_{i}(t_s) {{")
         lines.append(f"    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + {i} * 0.01);")
         lines.append(f"    #{{\"wp\": {i}, \"pitch\": 5.0 * ang.sin(), \"yaw\": 5.0 * ang.cos()}}")
@@ -157,7 +157,7 @@ def gen_propellant_depletion():
     lines.append("}")
     lines.append("if verify_depletion() { log_info(\"[PROFILES::DEPLETION] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn suction_pressure_descent_{i}(t_s) {{")
         lines.append(f"    let p = 5.0 - t_s * (0.2 + {i} * 0.005);")
         lines.append(f"    #{{\"sample\": {i}, \"inlet_p_bar\": p.max(0.5)}}")
@@ -182,7 +182,7 @@ def gen_aborted_hotfire():
     lines.append("}")
     lines.append("if verify_aborted_hotfire() { log_info(\"[PROFILES::ABORTED_HOTFIRE] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn fault_injection_event_{i}() {{")
         lines.append(f"    #{{\"fault_id\": {i}, \"trigger_time_ms\": 1200 + {i} * 10}}")
         lines.append(f"}}")

@@ -207,3 +207,163 @@ fn adaptive_boundary_channel_44(phase, throttle) {
     let r = get_envelope_redlines(phase, throttle);
     #{"channel": 44, "pc_limit": r.pc_max_bar + 44 * 0.1}
 }
+fn adaptive_boundary_channel_45(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 45, "pc_limit": r.pc_max_bar + 45 * 0.1}
+}
+fn adaptive_boundary_channel_46(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 46, "pc_limit": r.pc_max_bar + 46 * 0.1}
+}
+fn adaptive_boundary_channel_47(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 47, "pc_limit": r.pc_max_bar + 47 * 0.1}
+}
+fn adaptive_boundary_channel_48(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 48, "pc_limit": r.pc_max_bar + 48 * 0.1}
+}
+fn adaptive_boundary_channel_49(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 49, "pc_limit": r.pc_max_bar + 49 * 0.1}
+}
+fn adaptive_boundary_channel_50(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 50, "pc_limit": r.pc_max_bar + 50 * 0.1}
+}
+fn adaptive_boundary_channel_51(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 51, "pc_limit": r.pc_max_bar + 51 * 0.1}
+}
+fn adaptive_boundary_channel_52(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 52, "pc_limit": r.pc_max_bar + 52 * 0.1}
+}
+fn adaptive_boundary_channel_53(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 53, "pc_limit": r.pc_max_bar + 53 * 0.1}
+}
+fn adaptive_boundary_channel_54(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 54, "pc_limit": r.pc_max_bar + 54 * 0.1}
+}
+fn adaptive_boundary_channel_55(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 55, "pc_limit": r.pc_max_bar + 55 * 0.1}
+}
+fn adaptive_boundary_channel_56(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 56, "pc_limit": r.pc_max_bar + 56 * 0.1}
+}
+fn adaptive_boundary_channel_57(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 57, "pc_limit": r.pc_max_bar + 57 * 0.1}
+}
+fn adaptive_boundary_channel_58(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 58, "pc_limit": r.pc_max_bar + 58 * 0.1}
+}
+fn adaptive_boundary_channel_59(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 59, "pc_limit": r.pc_max_bar + 59 * 0.1}
+}
+fn adaptive_boundary_channel_60(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 60, "pc_limit": r.pc_max_bar + 60 * 0.1}
+}
+fn adaptive_boundary_channel_61(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 61, "pc_limit": r.pc_max_bar + 61 * 0.1}
+}
+fn adaptive_boundary_channel_62(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 62, "pc_limit": r.pc_max_bar + 62 * 0.1}
+}
+fn adaptive_boundary_channel_63(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 63, "pc_limit": r.pc_max_bar + 63 * 0.1}
+}
+fn adaptive_boundary_channel_64(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 64, "pc_limit": r.pc_max_bar + 64 * 0.1}
+}
+fn adaptive_boundary_channel_65(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 65, "pc_limit": r.pc_max_bar + 65 * 0.1}
+}
+fn adaptive_boundary_channel_66(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 66, "pc_limit": r.pc_max_bar + 66 * 0.1}
+}
+fn adaptive_boundary_channel_67(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 67, "pc_limit": r.pc_max_bar + 67 * 0.1}
+}
+fn adaptive_boundary_channel_68(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 68, "pc_limit": r.pc_max_bar + 68 * 0.1}
+}
+fn adaptive_boundary_channel_69(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 69, "pc_limit": r.pc_max_bar + 69 * 0.1}
+}
+fn adaptive_boundary_channel_70(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 70, "pc_limit": r.pc_max_bar + 70 * 0.1}
+}
+fn adaptive_boundary_channel_71(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 71, "pc_limit": r.pc_max_bar + 71 * 0.1}
+}
+fn adaptive_boundary_channel_72(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 72, "pc_limit": r.pc_max_bar + 72 * 0.1}
+}
+fn adaptive_boundary_channel_73(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 73, "pc_limit": r.pc_max_bar + 73 * 0.1}
+}
+fn adaptive_boundary_channel_74(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 74, "pc_limit": r.pc_max_bar + 74 * 0.1}
+}
+fn adaptive_boundary_channel_75(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 75, "pc_limit": r.pc_max_bar + 75 * 0.1}
+}
+fn adaptive_boundary_channel_76(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 76, "pc_limit": r.pc_max_bar + 76 * 0.1}
+}
+fn adaptive_boundary_channel_77(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 77, "pc_limit": r.pc_max_bar + 77 * 0.1}
+}
+fn adaptive_boundary_channel_78(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 78, "pc_limit": r.pc_max_bar + 78 * 0.1}
+}
+fn adaptive_boundary_channel_79(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 79, "pc_limit": r.pc_max_bar + 79 * 0.1}
+}
+fn adaptive_boundary_channel_80(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 80, "pc_limit": r.pc_max_bar + 80 * 0.1}
+}
+fn adaptive_boundary_channel_81(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 81, "pc_limit": r.pc_max_bar + 81 * 0.1}
+}
+fn adaptive_boundary_channel_82(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 82, "pc_limit": r.pc_max_bar + 82 * 0.1}
+}
+fn adaptive_boundary_channel_83(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 83, "pc_limit": r.pc_max_bar + 83 * 0.1}
+}
+fn adaptive_boundary_channel_84(phase, throttle) {
+    let r = get_envelope_redlines(phase, throttle);
+    #{"channel": 84, "pc_limit": r.pc_max_bar + 84 * 0.1}
+}

@@ -187,3 +187,163 @@ fn safing_checkpoint_44(p_chamber) {
     let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
     #{"check": 44, "safe": s}
 }
+fn safing_checkpoint_45(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 45, "safe": s}
+}
+fn safing_checkpoint_46(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 46, "safe": s}
+}
+fn safing_checkpoint_47(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 47, "safe": s}
+}
+fn safing_checkpoint_48(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 48, "safe": s}
+}
+fn safing_checkpoint_49(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 49, "safe": s}
+}
+fn safing_checkpoint_50(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 50, "safe": s}
+}
+fn safing_checkpoint_51(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 51, "safe": s}
+}
+fn safing_checkpoint_52(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 52, "safe": s}
+}
+fn safing_checkpoint_53(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 53, "safe": s}
+}
+fn safing_checkpoint_54(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 54, "safe": s}
+}
+fn safing_checkpoint_55(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 55, "safe": s}
+}
+fn safing_checkpoint_56(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 56, "safe": s}
+}
+fn safing_checkpoint_57(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 57, "safe": s}
+}
+fn safing_checkpoint_58(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 58, "safe": s}
+}
+fn safing_checkpoint_59(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 59, "safe": s}
+}
+fn safing_checkpoint_60(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 60, "safe": s}
+}
+fn safing_checkpoint_61(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 61, "safe": s}
+}
+fn safing_checkpoint_62(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 62, "safe": s}
+}
+fn safing_checkpoint_63(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 63, "safe": s}
+}
+fn safing_checkpoint_64(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 64, "safe": s}
+}
+fn safing_checkpoint_65(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 65, "safe": s}
+}
+fn safing_checkpoint_66(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 66, "safe": s}
+}
+fn safing_checkpoint_67(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 67, "safe": s}
+}
+fn safing_checkpoint_68(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 68, "safe": s}
+}
+fn safing_checkpoint_69(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 69, "safe": s}
+}
+fn safing_checkpoint_70(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 70, "safe": s}
+}
+fn safing_checkpoint_71(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 71, "safe": s}
+}
+fn safing_checkpoint_72(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 72, "safe": s}
+}
+fn safing_checkpoint_73(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 73, "safe": s}
+}
+fn safing_checkpoint_74(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 74, "safe": s}
+}
+fn safing_checkpoint_75(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 75, "safe": s}
+}
+fn safing_checkpoint_76(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 76, "safe": s}
+}
+fn safing_checkpoint_77(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 77, "safe": s}
+}
+fn safing_checkpoint_78(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 78, "safe": s}
+}
+fn safing_checkpoint_79(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 79, "safe": s}
+}
+fn safing_checkpoint_80(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 80, "safe": s}
+}
+fn safing_checkpoint_81(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 81, "safe": s}
+}
+fn safing_checkpoint_82(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 82, "safe": s}
+}
+fn safing_checkpoint_83(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 83, "safe": s}
+}
+fn safing_checkpoint_84(p_chamber) {
+    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);
+    #{"check": 84, "safe": s}
+}

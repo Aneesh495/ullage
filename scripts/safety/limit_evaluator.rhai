@@ -192,3 +192,163 @@ fn limit_check_station_44(val) {
     let r = evaluate_limit(val, 0.0, 100.0 + 44 * 0.5, 0, 2);
     #{"station": 44, "tripped": r.tripped}
 }
+fn limit_check_station_45(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 45 * 0.5, 0, 2);
+    #{"station": 45, "tripped": r.tripped}
+}
+fn limit_check_station_46(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 46 * 0.5, 0, 2);
+    #{"station": 46, "tripped": r.tripped}
+}
+fn limit_check_station_47(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 47 * 0.5, 0, 2);
+    #{"station": 47, "tripped": r.tripped}
+}
+fn limit_check_station_48(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 48 * 0.5, 0, 2);
+    #{"station": 48, "tripped": r.tripped}
+}
+fn limit_check_station_49(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 49 * 0.5, 0, 2);
+    #{"station": 49, "tripped": r.tripped}
+}
+fn limit_check_station_50(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 50 * 0.5, 0, 2);
+    #{"station": 50, "tripped": r.tripped}
+}
+fn limit_check_station_51(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 51 * 0.5, 0, 2);
+    #{"station": 51, "tripped": r.tripped}
+}
+fn limit_check_station_52(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 52 * 0.5, 0, 2);
+    #{"station": 52, "tripped": r.tripped}
+}
+fn limit_check_station_53(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 53 * 0.5, 0, 2);
+    #{"station": 53, "tripped": r.tripped}
+}
+fn limit_check_station_54(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 54 * 0.5, 0, 2);
+    #{"station": 54, "tripped": r.tripped}
+}
+fn limit_check_station_55(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 55 * 0.5, 0, 2);
+    #{"station": 55, "tripped": r.tripped}
+}
+fn limit_check_station_56(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 56 * 0.5, 0, 2);
+    #{"station": 56, "tripped": r.tripped}
+}
+fn limit_check_station_57(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 57 * 0.5, 0, 2);
+    #{"station": 57, "tripped": r.tripped}
+}
+fn limit_check_station_58(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 58 * 0.5, 0, 2);
+    #{"station": 58, "tripped": r.tripped}
+}
+fn limit_check_station_59(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 59 * 0.5, 0, 2);
+    #{"station": 59, "tripped": r.tripped}
+}
+fn limit_check_station_60(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 60 * 0.5, 0, 2);
+    #{"station": 60, "tripped": r.tripped}
+}
+fn limit_check_station_61(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 61 * 0.5, 0, 2);
+    #{"station": 61, "tripped": r.tripped}
+}
+fn limit_check_station_62(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 62 * 0.5, 0, 2);
+    #{"station": 62, "tripped": r.tripped}
+}
+fn limit_check_station_63(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 63 * 0.5, 0, 2);
+    #{"station": 63, "tripped": r.tripped}
+}
+fn limit_check_station_64(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 64 * 0.5, 0, 2);
+    #{"station": 64, "tripped": r.tripped}
+}
+fn limit_check_station_65(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 65 * 0.5, 0, 2);
+    #{"station": 65, "tripped": r.tripped}
+}
+fn limit_check_station_66(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 66 * 0.5, 0, 2);
+    #{"station": 66, "tripped": r.tripped}
+}
+fn limit_check_station_67(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 67 * 0.5, 0, 2);
+    #{"station": 67, "tripped": r.tripped}
+}
+fn limit_check_station_68(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 68 * 0.5, 0, 2);
+    #{"station": 68, "tripped": r.tripped}
+}
+fn limit_check_station_69(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 69 * 0.5, 0, 2);
+    #{"station": 69, "tripped": r.tripped}
+}
+fn limit_check_station_70(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 70 * 0.5, 0, 2);
+    #{"station": 70, "tripped": r.tripped}
+}
+fn limit_check_station_71(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 71 * 0.5, 0, 2);
+    #{"station": 71, "tripped": r.tripped}
+}
+fn limit_check_station_72(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 72 * 0.5, 0, 2);
+    #{"station": 72, "tripped": r.tripped}
+}
+fn limit_check_station_73(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 73 * 0.5, 0, 2);
+    #{"station": 73, "tripped": r.tripped}
+}
+fn limit_check_station_74(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 74 * 0.5, 0, 2);
+    #{"station": 74, "tripped": r.tripped}
+}
+fn limit_check_station_75(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 75 * 0.5, 0, 2);
+    #{"station": 75, "tripped": r.tripped}
+}
+fn limit_check_station_76(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 76 * 0.5, 0, 2);
+    #{"station": 76, "tripped": r.tripped}
+}
+fn limit_check_station_77(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 77 * 0.5, 0, 2);
+    #{"station": 77, "tripped": r.tripped}
+}
+fn limit_check_station_78(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 78 * 0.5, 0, 2);
+    #{"station": 78, "tripped": r.tripped}
+}
+fn limit_check_station_79(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 79 * 0.5, 0, 2);
+    #{"station": 79, "tripped": r.tripped}
+}
+fn limit_check_station_80(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 80 * 0.5, 0, 2);
+    #{"station": 80, "tripped": r.tripped}
+}
+fn limit_check_station_81(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 81 * 0.5, 0, 2);
+    #{"station": 81, "tripped": r.tripped}
+}
+fn limit_check_station_82(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 82 * 0.5, 0, 2);
+    #{"station": 82, "tripped": r.tripped}
+}
+fn limit_check_station_83(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 83 * 0.5, 0, 2);
+    #{"station": 83, "tripped": r.tripped}
+}
+fn limit_check_station_84(val) {
+    let r = evaluate_limit(val, 0.0, 100.0 + 84 * 0.5, 0, 2);
+    #{"station": 84, "tripped": r.tripped}
+}

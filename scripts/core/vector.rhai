@@ -169,3 +169,203 @@ fn vector_transform_pipeline_34(v, factor) {
     let scaled = vec3_scale(v, factor + 34 * 0.05);
     vec3_add(scaled, vec3_new(34 * 0.1, 0.0, 0.0))
 }
+fn vector_transform_pipeline_35(v, factor) {
+    let scaled = vec3_scale(v, factor + 35 * 0.05);
+    vec3_add(scaled, vec3_new(35 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_36(v, factor) {
+    let scaled = vec3_scale(v, factor + 36 * 0.05);
+    vec3_add(scaled, vec3_new(36 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_37(v, factor) {
+    let scaled = vec3_scale(v, factor + 37 * 0.05);
+    vec3_add(scaled, vec3_new(37 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_38(v, factor) {
+    let scaled = vec3_scale(v, factor + 38 * 0.05);
+    vec3_add(scaled, vec3_new(38 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_39(v, factor) {
+    let scaled = vec3_scale(v, factor + 39 * 0.05);
+    vec3_add(scaled, vec3_new(39 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_40(v, factor) {
+    let scaled = vec3_scale(v, factor + 40 * 0.05);
+    vec3_add(scaled, vec3_new(40 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_41(v, factor) {
+    let scaled = vec3_scale(v, factor + 41 * 0.05);
+    vec3_add(scaled, vec3_new(41 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_42(v, factor) {
+    let scaled = vec3_scale(v, factor + 42 * 0.05);
+    vec3_add(scaled, vec3_new(42 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_43(v, factor) {
+    let scaled = vec3_scale(v, factor + 43 * 0.05);
+    vec3_add(scaled, vec3_new(43 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_44(v, factor) {
+    let scaled = vec3_scale(v, factor + 44 * 0.05);
+    vec3_add(scaled, vec3_new(44 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_45(v, factor) {
+    let scaled = vec3_scale(v, factor + 45 * 0.05);
+    vec3_add(scaled, vec3_new(45 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_46(v, factor) {
+    let scaled = vec3_scale(v, factor + 46 * 0.05);
+    vec3_add(scaled, vec3_new(46 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_47(v, factor) {
+    let scaled = vec3_scale(v, factor + 47 * 0.05);
+    vec3_add(scaled, vec3_new(47 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_48(v, factor) {
+    let scaled = vec3_scale(v, factor + 48 * 0.05);
+    vec3_add(scaled, vec3_new(48 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_49(v, factor) {
+    let scaled = vec3_scale(v, factor + 49 * 0.05);
+    vec3_add(scaled, vec3_new(49 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_50(v, factor) {
+    let scaled = vec3_scale(v, factor + 50 * 0.05);
+    vec3_add(scaled, vec3_new(50 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_51(v, factor) {
+    let scaled = vec3_scale(v, factor + 51 * 0.05);
+    vec3_add(scaled, vec3_new(51 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_52(v, factor) {
+    let scaled = vec3_scale(v, factor + 52 * 0.05);
+    vec3_add(scaled, vec3_new(52 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_53(v, factor) {
+    let scaled = vec3_scale(v, factor + 53 * 0.05);
+    vec3_add(scaled, vec3_new(53 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_54(v, factor) {
+    let scaled = vec3_scale(v, factor + 54 * 0.05);
+    vec3_add(scaled, vec3_new(54 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_55(v, factor) {
+    let scaled = vec3_scale(v, factor + 55 * 0.05);
+    vec3_add(scaled, vec3_new(55 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_56(v, factor) {
+    let scaled = vec3_scale(v, factor + 56 * 0.05);
+    vec3_add(scaled, vec3_new(56 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_57(v, factor) {
+    let scaled = vec3_scale(v, factor + 57 * 0.05);
+    vec3_add(scaled, vec3_new(57 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_58(v, factor) {
+    let scaled = vec3_scale(v, factor + 58 * 0.05);
+    vec3_add(scaled, vec3_new(58 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_59(v, factor) {
+    let scaled = vec3_scale(v, factor + 59 * 0.05);
+    vec3_add(scaled, vec3_new(59 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_60(v, factor) {
+    let scaled = vec3_scale(v, factor + 60 * 0.05);
+    vec3_add(scaled, vec3_new(60 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_61(v, factor) {
+    let scaled = vec3_scale(v, factor + 61 * 0.05);
+    vec3_add(scaled, vec3_new(61 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_62(v, factor) {
+    let scaled = vec3_scale(v, factor + 62 * 0.05);
+    vec3_add(scaled, vec3_new(62 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_63(v, factor) {
+    let scaled = vec3_scale(v, factor + 63 * 0.05);
+    vec3_add(scaled, vec3_new(63 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_64(v, factor) {
+    let scaled = vec3_scale(v, factor + 64 * 0.05);
+    vec3_add(scaled, vec3_new(64 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_65(v, factor) {
+    let scaled = vec3_scale(v, factor + 65 * 0.05);
+    vec3_add(scaled, vec3_new(65 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_66(v, factor) {
+    let scaled = vec3_scale(v, factor + 66 * 0.05);
+    vec3_add(scaled, vec3_new(66 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_67(v, factor) {
+    let scaled = vec3_scale(v, factor + 67 * 0.05);
+    vec3_add(scaled, vec3_new(67 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_68(v, factor) {
+    let scaled = vec3_scale(v, factor + 68 * 0.05);
+    vec3_add(scaled, vec3_new(68 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_69(v, factor) {
+    let scaled = vec3_scale(v, factor + 69 * 0.05);
+    vec3_add(scaled, vec3_new(69 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_70(v, factor) {
+    let scaled = vec3_scale(v, factor + 70 * 0.05);
+    vec3_add(scaled, vec3_new(70 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_71(v, factor) {
+    let scaled = vec3_scale(v, factor + 71 * 0.05);
+    vec3_add(scaled, vec3_new(71 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_72(v, factor) {
+    let scaled = vec3_scale(v, factor + 72 * 0.05);
+    vec3_add(scaled, vec3_new(72 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_73(v, factor) {
+    let scaled = vec3_scale(v, factor + 73 * 0.05);
+    vec3_add(scaled, vec3_new(73 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_74(v, factor) {
+    let scaled = vec3_scale(v, factor + 74 * 0.05);
+    vec3_add(scaled, vec3_new(74 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_75(v, factor) {
+    let scaled = vec3_scale(v, factor + 75 * 0.05);
+    vec3_add(scaled, vec3_new(75 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_76(v, factor) {
+    let scaled = vec3_scale(v, factor + 76 * 0.05);
+    vec3_add(scaled, vec3_new(76 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_77(v, factor) {
+    let scaled = vec3_scale(v, factor + 77 * 0.05);
+    vec3_add(scaled, vec3_new(77 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_78(v, factor) {
+    let scaled = vec3_scale(v, factor + 78 * 0.05);
+    vec3_add(scaled, vec3_new(78 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_79(v, factor) {
+    let scaled = vec3_scale(v, factor + 79 * 0.05);
+    vec3_add(scaled, vec3_new(79 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_80(v, factor) {
+    let scaled = vec3_scale(v, factor + 80 * 0.05);
+    vec3_add(scaled, vec3_new(80 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_81(v, factor) {
+    let scaled = vec3_scale(v, factor + 81 * 0.05);
+    vec3_add(scaled, vec3_new(81 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_82(v, factor) {
+    let scaled = vec3_scale(v, factor + 82 * 0.05);
+    vec3_add(scaled, vec3_new(82 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_83(v, factor) {
+    let scaled = vec3_scale(v, factor + 83 * 0.05);
+    vec3_add(scaled, vec3_new(83 * 0.1, 0.0, 0.0))
+}
+fn vector_transform_pipeline_84(v, factor) {
+    let scaled = vec3_scale(v, factor + 84 * 0.05);
+    vec3_add(scaled, vec3_new(84 * 0.1, 0.0, 0.0))
+}

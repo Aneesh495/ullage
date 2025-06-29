@@ -187,3 +187,163 @@ fn gimbal_circle_waypoint_44(t_s) {
     let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 44 * 0.01);
     #{"wp": 44, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
 }
+fn gimbal_circle_waypoint_45(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 45 * 0.01);
+    #{"wp": 45, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_46(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 46 * 0.01);
+    #{"wp": 46, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_47(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 47 * 0.01);
+    #{"wp": 47, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_48(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 48 * 0.01);
+    #{"wp": 48, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_49(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 49 * 0.01);
+    #{"wp": 49, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_50(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 50 * 0.01);
+    #{"wp": 50, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_51(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 51 * 0.01);
+    #{"wp": 51, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_52(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 52 * 0.01);
+    #{"wp": 52, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_53(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 53 * 0.01);
+    #{"wp": 53, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_54(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 54 * 0.01);
+    #{"wp": 54, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_55(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 55 * 0.01);
+    #{"wp": 55, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_56(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 56 * 0.01);
+    #{"wp": 56, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_57(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 57 * 0.01);
+    #{"wp": 57, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_58(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 58 * 0.01);
+    #{"wp": 58, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_59(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 59 * 0.01);
+    #{"wp": 59, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_60(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 60 * 0.01);
+    #{"wp": 60, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_61(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 61 * 0.01);
+    #{"wp": 61, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_62(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 62 * 0.01);
+    #{"wp": 62, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_63(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 63 * 0.01);
+    #{"wp": 63, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_64(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 64 * 0.01);
+    #{"wp": 64, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_65(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 65 * 0.01);
+    #{"wp": 65, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_66(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 66 * 0.01);
+    #{"wp": 66, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_67(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 67 * 0.01);
+    #{"wp": 67, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_68(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 68 * 0.01);
+    #{"wp": 68, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_69(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 69 * 0.01);
+    #{"wp": 69, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_70(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 70 * 0.01);
+    #{"wp": 70, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_71(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 71 * 0.01);
+    #{"wp": 71, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_72(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 72 * 0.01);
+    #{"wp": 72, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_73(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 73 * 0.01);
+    #{"wp": 73, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_74(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 74 * 0.01);
+    #{"wp": 74, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_75(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 75 * 0.01);
+    #{"wp": 75, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_76(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 76 * 0.01);
+    #{"wp": 76, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_77(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 77 * 0.01);
+    #{"wp": 77, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_78(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 78 * 0.01);
+    #{"wp": 78, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_79(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 79 * 0.01);
+    #{"wp": 79, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_80(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 80 * 0.01);
+    #{"wp": 80, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_81(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 81 * 0.01);
+    #{"wp": 81, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_82(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 82 * 0.01);
+    #{"wp": 82, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_83(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 83 * 0.01);
+    #{"wp": 83, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}
+fn gimbal_circle_waypoint_84(t_s) {
+    let ang = t_s * 2.0 * 3.1415926535 * (0.5 + 84 * 0.01);
+    #{"wp": 84, "pitch": 5.0 * ang.sin(), "yaw": 5.0 * ang.cos()}
+}

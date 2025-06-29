@@ -193,3 +193,163 @@ fn chug_stability_check_44(dp, pc) {
     let f = chug_frequency_hz(dp + 44 * 0.1, pc, 0.002, 1800.0);
     #{"mode": 44, "freq_hz": f}
 }
+fn chug_stability_check_45(dp, pc) {
+    let f = chug_frequency_hz(dp + 45 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 45, "freq_hz": f}
+}
+fn chug_stability_check_46(dp, pc) {
+    let f = chug_frequency_hz(dp + 46 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 46, "freq_hz": f}
+}
+fn chug_stability_check_47(dp, pc) {
+    let f = chug_frequency_hz(dp + 47 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 47, "freq_hz": f}
+}
+fn chug_stability_check_48(dp, pc) {
+    let f = chug_frequency_hz(dp + 48 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 48, "freq_hz": f}
+}
+fn chug_stability_check_49(dp, pc) {
+    let f = chug_frequency_hz(dp + 49 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 49, "freq_hz": f}
+}
+fn chug_stability_check_50(dp, pc) {
+    let f = chug_frequency_hz(dp + 50 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 50, "freq_hz": f}
+}
+fn chug_stability_check_51(dp, pc) {
+    let f = chug_frequency_hz(dp + 51 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 51, "freq_hz": f}
+}
+fn chug_stability_check_52(dp, pc) {
+    let f = chug_frequency_hz(dp + 52 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 52, "freq_hz": f}
+}
+fn chug_stability_check_53(dp, pc) {
+    let f = chug_frequency_hz(dp + 53 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 53, "freq_hz": f}
+}
+fn chug_stability_check_54(dp, pc) {
+    let f = chug_frequency_hz(dp + 54 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 54, "freq_hz": f}
+}
+fn chug_stability_check_55(dp, pc) {
+    let f = chug_frequency_hz(dp + 55 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 55, "freq_hz": f}
+}
+fn chug_stability_check_56(dp, pc) {
+    let f = chug_frequency_hz(dp + 56 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 56, "freq_hz": f}
+}
+fn chug_stability_check_57(dp, pc) {
+    let f = chug_frequency_hz(dp + 57 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 57, "freq_hz": f}
+}
+fn chug_stability_check_58(dp, pc) {
+    let f = chug_frequency_hz(dp + 58 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 58, "freq_hz": f}
+}
+fn chug_stability_check_59(dp, pc) {
+    let f = chug_frequency_hz(dp + 59 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 59, "freq_hz": f}
+}
+fn chug_stability_check_60(dp, pc) {
+    let f = chug_frequency_hz(dp + 60 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 60, "freq_hz": f}
+}
+fn chug_stability_check_61(dp, pc) {
+    let f = chug_frequency_hz(dp + 61 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 61, "freq_hz": f}
+}
+fn chug_stability_check_62(dp, pc) {
+    let f = chug_frequency_hz(dp + 62 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 62, "freq_hz": f}
+}
+fn chug_stability_check_63(dp, pc) {
+    let f = chug_frequency_hz(dp + 63 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 63, "freq_hz": f}
+}
+fn chug_stability_check_64(dp, pc) {
+    let f = chug_frequency_hz(dp + 64 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 64, "freq_hz": f}
+}
+fn chug_stability_check_65(dp, pc) {
+    let f = chug_frequency_hz(dp + 65 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 65, "freq_hz": f}
+}
+fn chug_stability_check_66(dp, pc) {
+    let f = chug_frequency_hz(dp + 66 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 66, "freq_hz": f}
+}
+fn chug_stability_check_67(dp, pc) {
+    let f = chug_frequency_hz(dp + 67 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 67, "freq_hz": f}
+}
+fn chug_stability_check_68(dp, pc) {
+    let f = chug_frequency_hz(dp + 68 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 68, "freq_hz": f}
+}
+fn chug_stability_check_69(dp, pc) {
+    let f = chug_frequency_hz(dp + 69 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 69, "freq_hz": f}
+}
+fn chug_stability_check_70(dp, pc) {
+    let f = chug_frequency_hz(dp + 70 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 70, "freq_hz": f}
+}
+fn chug_stability_check_71(dp, pc) {
+    let f = chug_frequency_hz(dp + 71 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 71, "freq_hz": f}
+}
+fn chug_stability_check_72(dp, pc) {
+    let f = chug_frequency_hz(dp + 72 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 72, "freq_hz": f}
+}
+fn chug_stability_check_73(dp, pc) {
+    let f = chug_frequency_hz(dp + 73 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 73, "freq_hz": f}
+}
+fn chug_stability_check_74(dp, pc) {
+    let f = chug_frequency_hz(dp + 74 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 74, "freq_hz": f}
+}
+fn chug_stability_check_75(dp, pc) {
+    let f = chug_frequency_hz(dp + 75 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 75, "freq_hz": f}
+}
+fn chug_stability_check_76(dp, pc) {
+    let f = chug_frequency_hz(dp + 76 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 76, "freq_hz": f}
+}
+fn chug_stability_check_77(dp, pc) {
+    let f = chug_frequency_hz(dp + 77 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 77, "freq_hz": f}
+}
+fn chug_stability_check_78(dp, pc) {
+    let f = chug_frequency_hz(dp + 78 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 78, "freq_hz": f}
+}
+fn chug_stability_check_79(dp, pc) {
+    let f = chug_frequency_hz(dp + 79 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 79, "freq_hz": f}
+}
+fn chug_stability_check_80(dp, pc) {
+    let f = chug_frequency_hz(dp + 80 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 80, "freq_hz": f}
+}
+fn chug_stability_check_81(dp, pc) {
+    let f = chug_frequency_hz(dp + 81 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 81, "freq_hz": f}
+}
+fn chug_stability_check_82(dp, pc) {
+    let f = chug_frequency_hz(dp + 82 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 82, "freq_hz": f}
+}
+fn chug_stability_check_83(dp, pc) {
+    let f = chug_frequency_hz(dp + 83 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 83, "freq_hz": f}
+}
+fn chug_stability_check_84(dp, pc) {
+    let f = chug_frequency_hz(dp + 84 * 0.1, pc, 0.002, 1800.0);
+    #{"mode": 84, "freq_hz": f}
+}

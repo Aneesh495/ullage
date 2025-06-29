@@ -193,3 +193,163 @@ fn acoustic_mode_spectrum_44(diam) {
     let f = cavity_eigenfrequency_1t(diam, 1100.0 + 44 * 10.0);
     #{"mode_index": 44, "freq_1t": f}
 }
+fn acoustic_mode_spectrum_45(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 45 * 10.0);
+    #{"mode_index": 45, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_46(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 46 * 10.0);
+    #{"mode_index": 46, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_47(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 47 * 10.0);
+    #{"mode_index": 47, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_48(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 48 * 10.0);
+    #{"mode_index": 48, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_49(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 49 * 10.0);
+    #{"mode_index": 49, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_50(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 50 * 10.0);
+    #{"mode_index": 50, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_51(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 51 * 10.0);
+    #{"mode_index": 51, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_52(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 52 * 10.0);
+    #{"mode_index": 52, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_53(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 53 * 10.0);
+    #{"mode_index": 53, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_54(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 54 * 10.0);
+    #{"mode_index": 54, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_55(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 55 * 10.0);
+    #{"mode_index": 55, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_56(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 56 * 10.0);
+    #{"mode_index": 56, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_57(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 57 * 10.0);
+    #{"mode_index": 57, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_58(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 58 * 10.0);
+    #{"mode_index": 58, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_59(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 59 * 10.0);
+    #{"mode_index": 59, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_60(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 60 * 10.0);
+    #{"mode_index": 60, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_61(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 61 * 10.0);
+    #{"mode_index": 61, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_62(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 62 * 10.0);
+    #{"mode_index": 62, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_63(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 63 * 10.0);
+    #{"mode_index": 63, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_64(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 64 * 10.0);
+    #{"mode_index": 64, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_65(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 65 * 10.0);
+    #{"mode_index": 65, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_66(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 66 * 10.0);
+    #{"mode_index": 66, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_67(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 67 * 10.0);
+    #{"mode_index": 67, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_68(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 68 * 10.0);
+    #{"mode_index": 68, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_69(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 69 * 10.0);
+    #{"mode_index": 69, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_70(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 70 * 10.0);
+    #{"mode_index": 70, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_71(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 71 * 10.0);
+    #{"mode_index": 71, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_72(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 72 * 10.0);
+    #{"mode_index": 72, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_73(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 73 * 10.0);
+    #{"mode_index": 73, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_74(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 74 * 10.0);
+    #{"mode_index": 74, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_75(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 75 * 10.0);
+    #{"mode_index": 75, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_76(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 76 * 10.0);
+    #{"mode_index": 76, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_77(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 77 * 10.0);
+    #{"mode_index": 77, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_78(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 78 * 10.0);
+    #{"mode_index": 78, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_79(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 79 * 10.0);
+    #{"mode_index": 79, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_80(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 80 * 10.0);
+    #{"mode_index": 80, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_81(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 81 * 10.0);
+    #{"mode_index": 81, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_82(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 82 * 10.0);
+    #{"mode_index": 82, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_83(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 83 * 10.0);
+    #{"mode_index": 83, "freq_1t": f}
+}
+fn acoustic_mode_spectrum_84(diam) {
+    let f = cavity_eigenfrequency_1t(diam, 1100.0 + 84 * 10.0);
+    #{"mode_index": 84, "freq_1t": f}
+}

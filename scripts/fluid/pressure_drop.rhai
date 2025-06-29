@@ -197,3 +197,163 @@ fn line_segment_loss_44(flow_rate_kg_s) {
     let dp = 0.05 * (flow_rate_kg_s + 44 * 0.1).powf(1.85);
     #{"segment": 44, "delta_p_bar": dp}
 }
+fn line_segment_loss_45(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 45 * 0.1).powf(1.85);
+    #{"segment": 45, "delta_p_bar": dp}
+}
+fn line_segment_loss_46(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 46 * 0.1).powf(1.85);
+    #{"segment": 46, "delta_p_bar": dp}
+}
+fn line_segment_loss_47(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 47 * 0.1).powf(1.85);
+    #{"segment": 47, "delta_p_bar": dp}
+}
+fn line_segment_loss_48(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 48 * 0.1).powf(1.85);
+    #{"segment": 48, "delta_p_bar": dp}
+}
+fn line_segment_loss_49(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 49 * 0.1).powf(1.85);
+    #{"segment": 49, "delta_p_bar": dp}
+}
+fn line_segment_loss_50(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 50 * 0.1).powf(1.85);
+    #{"segment": 50, "delta_p_bar": dp}
+}
+fn line_segment_loss_51(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 51 * 0.1).powf(1.85);
+    #{"segment": 51, "delta_p_bar": dp}
+}
+fn line_segment_loss_52(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 52 * 0.1).powf(1.85);
+    #{"segment": 52, "delta_p_bar": dp}
+}
+fn line_segment_loss_53(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 53 * 0.1).powf(1.85);
+    #{"segment": 53, "delta_p_bar": dp}
+}
+fn line_segment_loss_54(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 54 * 0.1).powf(1.85);
+    #{"segment": 54, "delta_p_bar": dp}
+}
+fn line_segment_loss_55(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 55 * 0.1).powf(1.85);
+    #{"segment": 55, "delta_p_bar": dp}
+}
+fn line_segment_loss_56(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 56 * 0.1).powf(1.85);
+    #{"segment": 56, "delta_p_bar": dp}
+}
+fn line_segment_loss_57(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 57 * 0.1).powf(1.85);
+    #{"segment": 57, "delta_p_bar": dp}
+}
+fn line_segment_loss_58(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 58 * 0.1).powf(1.85);
+    #{"segment": 58, "delta_p_bar": dp}
+}
+fn line_segment_loss_59(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 59 * 0.1).powf(1.85);
+    #{"segment": 59, "delta_p_bar": dp}
+}
+fn line_segment_loss_60(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 60 * 0.1).powf(1.85);
+    #{"segment": 60, "delta_p_bar": dp}
+}
+fn line_segment_loss_61(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 61 * 0.1).powf(1.85);
+    #{"segment": 61, "delta_p_bar": dp}
+}
+fn line_segment_loss_62(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 62 * 0.1).powf(1.85);
+    #{"segment": 62, "delta_p_bar": dp}
+}
+fn line_segment_loss_63(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 63 * 0.1).powf(1.85);
+    #{"segment": 63, "delta_p_bar": dp}
+}
+fn line_segment_loss_64(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 64 * 0.1).powf(1.85);
+    #{"segment": 64, "delta_p_bar": dp}
+}
+fn line_segment_loss_65(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 65 * 0.1).powf(1.85);
+    #{"segment": 65, "delta_p_bar": dp}
+}
+fn line_segment_loss_66(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 66 * 0.1).powf(1.85);
+    #{"segment": 66, "delta_p_bar": dp}
+}
+fn line_segment_loss_67(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 67 * 0.1).powf(1.85);
+    #{"segment": 67, "delta_p_bar": dp}
+}
+fn line_segment_loss_68(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 68 * 0.1).powf(1.85);
+    #{"segment": 68, "delta_p_bar": dp}
+}
+fn line_segment_loss_69(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 69 * 0.1).powf(1.85);
+    #{"segment": 69, "delta_p_bar": dp}
+}
+fn line_segment_loss_70(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 70 * 0.1).powf(1.85);
+    #{"segment": 70, "delta_p_bar": dp}
+}
+fn line_segment_loss_71(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 71 * 0.1).powf(1.85);
+    #{"segment": 71, "delta_p_bar": dp}
+}
+fn line_segment_loss_72(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 72 * 0.1).powf(1.85);
+    #{"segment": 72, "delta_p_bar": dp}
+}
+fn line_segment_loss_73(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 73 * 0.1).powf(1.85);
+    #{"segment": 73, "delta_p_bar": dp}
+}
+fn line_segment_loss_74(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 74 * 0.1).powf(1.85);
+    #{"segment": 74, "delta_p_bar": dp}
+}
+fn line_segment_loss_75(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 75 * 0.1).powf(1.85);
+    #{"segment": 75, "delta_p_bar": dp}
+}
+fn line_segment_loss_76(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 76 * 0.1).powf(1.85);
+    #{"segment": 76, "delta_p_bar": dp}
+}
+fn line_segment_loss_77(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 77 * 0.1).powf(1.85);
+    #{"segment": 77, "delta_p_bar": dp}
+}
+fn line_segment_loss_78(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 78 * 0.1).powf(1.85);
+    #{"segment": 78, "delta_p_bar": dp}
+}
+fn line_segment_loss_79(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 79 * 0.1).powf(1.85);
+    #{"segment": 79, "delta_p_bar": dp}
+}
+fn line_segment_loss_80(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 80 * 0.1).powf(1.85);
+    #{"segment": 80, "delta_p_bar": dp}
+}
+fn line_segment_loss_81(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 81 * 0.1).powf(1.85);
+    #{"segment": 81, "delta_p_bar": dp}
+}
+fn line_segment_loss_82(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 82 * 0.1).powf(1.85);
+    #{"segment": 82, "delta_p_bar": dp}
+}
+fn line_segment_loss_83(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 83 * 0.1).powf(1.85);
+    #{"segment": 83, "delta_p_bar": dp}
+}
+fn line_segment_loss_84(flow_rate_kg_s) {
+    let dp = 0.05 * (flow_rate_kg_s + 84 * 0.1).powf(1.85);
+    #{"segment": 84, "delta_p_bar": dp}
+}

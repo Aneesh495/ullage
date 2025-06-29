@@ -146,3 +146,123 @@ fn spectral_window_43(val) {
 fn spectral_window_44(val) {
     #{"band": 44, "center_hz": 44 * 250.0, "energy": val * (1.0 + 44 * 0.01)}
 }
+fn spectral_window_45(val) {
+    #{"band": 45, "center_hz": 45 * 250.0, "energy": val * (1.0 + 45 * 0.01)}
+}
+fn spectral_window_46(val) {
+    #{"band": 46, "center_hz": 46 * 250.0, "energy": val * (1.0 + 46 * 0.01)}
+}
+fn spectral_window_47(val) {
+    #{"band": 47, "center_hz": 47 * 250.0, "energy": val * (1.0 + 47 * 0.01)}
+}
+fn spectral_window_48(val) {
+    #{"band": 48, "center_hz": 48 * 250.0, "energy": val * (1.0 + 48 * 0.01)}
+}
+fn spectral_window_49(val) {
+    #{"band": 49, "center_hz": 49 * 250.0, "energy": val * (1.0 + 49 * 0.01)}
+}
+fn spectral_window_50(val) {
+    #{"band": 50, "center_hz": 50 * 250.0, "energy": val * (1.0 + 50 * 0.01)}
+}
+fn spectral_window_51(val) {
+    #{"band": 51, "center_hz": 51 * 250.0, "energy": val * (1.0 + 51 * 0.01)}
+}
+fn spectral_window_52(val) {
+    #{"band": 52, "center_hz": 52 * 250.0, "energy": val * (1.0 + 52 * 0.01)}
+}
+fn spectral_window_53(val) {
+    #{"band": 53, "center_hz": 53 * 250.0, "energy": val * (1.0 + 53 * 0.01)}
+}
+fn spectral_window_54(val) {
+    #{"band": 54, "center_hz": 54 * 250.0, "energy": val * (1.0 + 54 * 0.01)}
+}
+fn spectral_window_55(val) {
+    #{"band": 55, "center_hz": 55 * 250.0, "energy": val * (1.0 + 55 * 0.01)}
+}
+fn spectral_window_56(val) {
+    #{"band": 56, "center_hz": 56 * 250.0, "energy": val * (1.0 + 56 * 0.01)}
+}
+fn spectral_window_57(val) {
+    #{"band": 57, "center_hz": 57 * 250.0, "energy": val * (1.0 + 57 * 0.01)}
+}
+fn spectral_window_58(val) {
+    #{"band": 58, "center_hz": 58 * 250.0, "energy": val * (1.0 + 58 * 0.01)}
+}
+fn spectral_window_59(val) {
+    #{"band": 59, "center_hz": 59 * 250.0, "energy": val * (1.0 + 59 * 0.01)}
+}
+fn spectral_window_60(val) {
+    #{"band": 60, "center_hz": 60 * 250.0, "energy": val * (1.0 + 60 * 0.01)}
+}
+fn spectral_window_61(val) {
+    #{"band": 61, "center_hz": 61 * 250.0, "energy": val * (1.0 + 61 * 0.01)}
+}
+fn spectral_window_62(val) {
+    #{"band": 62, "center_hz": 62 * 250.0, "energy": val * (1.0 + 62 * 0.01)}
+}
+fn spectral_window_63(val) {
+    #{"band": 63, "center_hz": 63 * 250.0, "energy": val * (1.0 + 63 * 0.01)}
+}
+fn spectral_window_64(val) {
+    #{"band": 64, "center_hz": 64 * 250.0, "energy": val * (1.0 + 64 * 0.01)}
+}
+fn spectral_window_65(val) {
+    #{"band": 65, "center_hz": 65 * 250.0, "energy": val * (1.0 + 65 * 0.01)}
+}
+fn spectral_window_66(val) {
+    #{"band": 66, "center_hz": 66 * 250.0, "energy": val * (1.0 + 66 * 0.01)}
+}
+fn spectral_window_67(val) {
+    #{"band": 67, "center_hz": 67 * 250.0, "energy": val * (1.0 + 67 * 0.01)}
+}
+fn spectral_window_68(val) {
+    #{"band": 68, "center_hz": 68 * 250.0, "energy": val * (1.0 + 68 * 0.01)}
+}
+fn spectral_window_69(val) {
+    #{"band": 69, "center_hz": 69 * 250.0, "energy": val * (1.0 + 69 * 0.01)}
+}
+fn spectral_window_70(val) {
+    #{"band": 70, "center_hz": 70 * 250.0, "energy": val * (1.0 + 70 * 0.01)}
+}
+fn spectral_window_71(val) {
+    #{"band": 71, "center_hz": 71 * 250.0, "energy": val * (1.0 + 71 * 0.01)}
+}
+fn spectral_window_72(val) {
+    #{"band": 72, "center_hz": 72 * 250.0, "energy": val * (1.0 + 72 * 0.01)}
+}
+fn spectral_window_73(val) {
+    #{"band": 73, "center_hz": 73 * 250.0, "energy": val * (1.0 + 73 * 0.01)}
+}
+fn spectral_window_74(val) {
+    #{"band": 74, "center_hz": 74 * 250.0, "energy": val * (1.0 + 74 * 0.01)}
+}
+fn spectral_window_75(val) {
+    #{"band": 75, "center_hz": 75 * 250.0, "energy": val * (1.0 + 75 * 0.01)}
+}
+fn spectral_window_76(val) {
+    #{"band": 76, "center_hz": 76 * 250.0, "energy": val * (1.0 + 76 * 0.01)}
+}
+fn spectral_window_77(val) {
+    #{"band": 77, "center_hz": 77 * 250.0, "energy": val * (1.0 + 77 * 0.01)}
+}
+fn spectral_window_78(val) {
+    #{"band": 78, "center_hz": 78 * 250.0, "energy": val * (1.0 + 78 * 0.01)}
+}
+fn spectral_window_79(val) {
+    #{"band": 79, "center_hz": 79 * 250.0, "energy": val * (1.0 + 79 * 0.01)}
+}
+fn spectral_window_80(val) {
+    #{"band": 80, "center_hz": 80 * 250.0, "energy": val * (1.0 + 80 * 0.01)}
+}
+fn spectral_window_81(val) {
+    #{"band": 81, "center_hz": 81 * 250.0, "energy": val * (1.0 + 81 * 0.01)}
+}
+fn spectral_window_82(val) {
+    #{"band": 82, "center_hz": 82 * 250.0, "energy": val * (1.0 + 82 * 0.01)}
+}
+fn spectral_window_83(val) {
+    #{"band": 83, "center_hz": 83 * 250.0, "energy": val * (1.0 + 83 * 0.01)}
+}
+fn spectral_window_84(val) {
+    #{"band": 84, "center_hz": 84 * 250.0, "energy": val * (1.0 + 84 * 0.01)}
+}

@@ -40,7 +40,7 @@ def gen_pump_hydraulics():
     lines.append("}")
     lines.append("if verify_pump_hydraulics() { log_info(\"[TURBO::PUMP_HYDRAULICS] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn pump_performance_curve_{i}(flow_m3_s) {{")
         lines.append(f"    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + {i} * 0.01)).powf(2.0);")
         lines.append(f"    #{{\"curve\": {i}, \"head_bar\": dp}}")
@@ -68,7 +68,7 @@ def gen_turbine_aerodynamics():
     lines.append("}")
     lines.append("if verify_turbine() { log_info(\"[TURBO::TURBINE_AERO] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn turbine_stage_power_{i}(mdot) {{")
         lines.append(f"    let p = turbine_shaft_power_kw(mdot, 200000.0 + {i} * 1000.0, 0.72);")
         lines.append(f"    #{{\"stage\": {i}, \"power_kw\": p}}")
@@ -102,7 +102,7 @@ def gen_npsh_margin():
     lines.append("}")
     lines.append("if verify_npsh() { log_info(\"[TURBO::NPSH_MARGIN] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn npsh_monitor_node_{i}(p_in) {{")
         lines.append(f"    let npsha = npsh_available_m(p_in + {i} * 0.05, 1.2, 1141.0, 6.0);")
         lines.append(f"    #{{\"node\": {i}, \"npsh_m\": npsha}}")
@@ -128,7 +128,7 @@ def gen_inducer_cavitation():
     lines.append("}")
     lines.append("if verify_inducer() { log_info(\"[TURBO::INDUCER_CAVITATION] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn inducer_blade_element_{i}(w_rel) {{")
         lines.append(f"    let sig = inducer_cavitation_number(4.0, 1.0, 1141.0, w_rel + {i} * 0.5);")
         lines.append(f"    #{{\"blade\": {i}, \"sigma\": sig}}")
@@ -153,7 +153,7 @@ def gen_shaft_dynamics():
     lines.append("}")
     lines.append("if verify_shaft_dynamics() { log_info(\"[TURBO::SHAFT_DYNAMICS] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn rotor_eigenvalue_node_{i}(stiffness) {{")
         lines.append(f"    let r = critical_whirling_speed_rpm(stiffness + {i} * 1.0e6, 12.0);")
         lines.append(f"    #{{\"mode\": {i}, \"crit_rpm\": r}}")
@@ -182,7 +182,7 @@ def gen_bearing_vibration():
     lines.append("}")
     lines.append("if verify_bearing_vibration() { log_info(\"[TURBO::BEARING_VIBRATION] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn bearing_track_point_{i}(rpm) {{")
         lines.append(f"    let b = bearing_fault_frequencies(rpm + {i} * 100.0, 10, 8.0, 45.0, 15.0);")
         lines.append(f"    #{{\"point\": {i}, \"bpfo\": b.bpfo_hz}}")
@@ -210,7 +210,7 @@ def gen_seal_leakage():
     lines.append("}")
     lines.append("if verify_seal_leakage() { log_info(\"[TURBO::SEAL_LEAKAGE] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn seal_cavity_leak_{i}(p_in) {{")
         lines.append(f"    let l = labyrinth_seal_leakage_kg_s(p_in + {i} * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);")
         lines.append(f"    #{{\"cavity\": {i}, \"leak_kg_s\": l}}")
@@ -235,7 +235,7 @@ def gen_spin_start():
     lines.append("}")
     lines.append("if verify_spin_start() { log_info(\"[TURBO::SPIN_START] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn spin_start_timestep_{i}(torque) {{")
         lines.append(f"    let a = spin_start_acceleration(torque, 30.0 + {i} * 0.5, 0.05);")
         lines.append(f"    #{{\"step\": {i}, \"alpha_rad_s2\": a}}")
@@ -260,7 +260,7 @@ def gen_power_balance():
     lines.append("}")
     lines.append("if verify_power_balance() { log_info(\"[TURBO::POWER_BALANCE] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn power_balance_operating_point_{i}(p_ox) {{")
         lines.append(f"    let b = turbopump_power_balance(p_ox + {i} * 10.0, 1000.0, 50.0, 2600.0);")
         lines.append(f"    #{{\"pt\": {i}, \"power_residual_kw\": b}}")

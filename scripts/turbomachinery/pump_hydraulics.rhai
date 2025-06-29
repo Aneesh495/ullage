@@ -202,3 +202,163 @@ fn pump_performance_curve_44(flow_m3_s) {
     let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 44 * 0.01)).powf(2.0);
     #{"curve": 44, "head_bar": dp}
 }
+fn pump_performance_curve_45(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 45 * 0.01)).powf(2.0);
+    #{"curve": 45, "head_bar": dp}
+}
+fn pump_performance_curve_46(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 46 * 0.01)).powf(2.0);
+    #{"curve": 46, "head_bar": dp}
+}
+fn pump_performance_curve_47(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 47 * 0.01)).powf(2.0);
+    #{"curve": 47, "head_bar": dp}
+}
+fn pump_performance_curve_48(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 48 * 0.01)).powf(2.0);
+    #{"curve": 48, "head_bar": dp}
+}
+fn pump_performance_curve_49(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 49 * 0.01)).powf(2.0);
+    #{"curve": 49, "head_bar": dp}
+}
+fn pump_performance_curve_50(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 50 * 0.01)).powf(2.0);
+    #{"curve": 50, "head_bar": dp}
+}
+fn pump_performance_curve_51(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 51 * 0.01)).powf(2.0);
+    #{"curve": 51, "head_bar": dp}
+}
+fn pump_performance_curve_52(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 52 * 0.01)).powf(2.0);
+    #{"curve": 52, "head_bar": dp}
+}
+fn pump_performance_curve_53(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 53 * 0.01)).powf(2.0);
+    #{"curve": 53, "head_bar": dp}
+}
+fn pump_performance_curve_54(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 54 * 0.01)).powf(2.0);
+    #{"curve": 54, "head_bar": dp}
+}
+fn pump_performance_curve_55(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 55 * 0.01)).powf(2.0);
+    #{"curve": 55, "head_bar": dp}
+}
+fn pump_performance_curve_56(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 56 * 0.01)).powf(2.0);
+    #{"curve": 56, "head_bar": dp}
+}
+fn pump_performance_curve_57(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 57 * 0.01)).powf(2.0);
+    #{"curve": 57, "head_bar": dp}
+}
+fn pump_performance_curve_58(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 58 * 0.01)).powf(2.0);
+    #{"curve": 58, "head_bar": dp}
+}
+fn pump_performance_curve_59(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 59 * 0.01)).powf(2.0);
+    #{"curve": 59, "head_bar": dp}
+}
+fn pump_performance_curve_60(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 60 * 0.01)).powf(2.0);
+    #{"curve": 60, "head_bar": dp}
+}
+fn pump_performance_curve_61(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 61 * 0.01)).powf(2.0);
+    #{"curve": 61, "head_bar": dp}
+}
+fn pump_performance_curve_62(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 62 * 0.01)).powf(2.0);
+    #{"curve": 62, "head_bar": dp}
+}
+fn pump_performance_curve_63(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 63 * 0.01)).powf(2.0);
+    #{"curve": 63, "head_bar": dp}
+}
+fn pump_performance_curve_64(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 64 * 0.01)).powf(2.0);
+    #{"curve": 64, "head_bar": dp}
+}
+fn pump_performance_curve_65(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 65 * 0.01)).powf(2.0);
+    #{"curve": 65, "head_bar": dp}
+}
+fn pump_performance_curve_66(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 66 * 0.01)).powf(2.0);
+    #{"curve": 66, "head_bar": dp}
+}
+fn pump_performance_curve_67(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 67 * 0.01)).powf(2.0);
+    #{"curve": 67, "head_bar": dp}
+}
+fn pump_performance_curve_68(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 68 * 0.01)).powf(2.0);
+    #{"curve": 68, "head_bar": dp}
+}
+fn pump_performance_curve_69(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 69 * 0.01)).powf(2.0);
+    #{"curve": 69, "head_bar": dp}
+}
+fn pump_performance_curve_70(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 70 * 0.01)).powf(2.0);
+    #{"curve": 70, "head_bar": dp}
+}
+fn pump_performance_curve_71(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 71 * 0.01)).powf(2.0);
+    #{"curve": 71, "head_bar": dp}
+}
+fn pump_performance_curve_72(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 72 * 0.01)).powf(2.0);
+    #{"curve": 72, "head_bar": dp}
+}
+fn pump_performance_curve_73(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 73 * 0.01)).powf(2.0);
+    #{"curve": 73, "head_bar": dp}
+}
+fn pump_performance_curve_74(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 74 * 0.01)).powf(2.0);
+    #{"curve": 74, "head_bar": dp}
+}
+fn pump_performance_curve_75(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 75 * 0.01)).powf(2.0);
+    #{"curve": 75, "head_bar": dp}
+}
+fn pump_performance_curve_76(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 76 * 0.01)).powf(2.0);
+    #{"curve": 76, "head_bar": dp}
+}
+fn pump_performance_curve_77(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 77 * 0.01)).powf(2.0);
+    #{"curve": 77, "head_bar": dp}
+}
+fn pump_performance_curve_78(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 78 * 0.01)).powf(2.0);
+    #{"curve": 78, "head_bar": dp}
+}
+fn pump_performance_curve_79(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 79 * 0.01)).powf(2.0);
+    #{"curve": 79, "head_bar": dp}
+}
+fn pump_performance_curve_80(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 80 * 0.01)).powf(2.0);
+    #{"curve": 80, "head_bar": dp}
+}
+fn pump_performance_curve_81(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 81 * 0.01)).powf(2.0);
+    #{"curve": 81, "head_bar": dp}
+}
+fn pump_performance_curve_82(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 82 * 0.01)).powf(2.0);
+    #{"curve": 82, "head_bar": dp}
+}
+fn pump_performance_curve_83(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 83 * 0.01)).powf(2.0);
+    #{"curve": 83, "head_bar": dp}
+}
+fn pump_performance_curve_84(flow_m3_s) {
+    let dp = 100.0 - 50.0 * (flow_m3_s * (1.0 + 84 * 0.01)).powf(2.0);
+    #{"curve": 84, "head_bar": dp}
+}

@@ -242,3 +242,203 @@ fn valve_pid_tuning_bank_44(sp, pv) {
     let r = pid_step(sp, pv, 2.0 + 44 * 0.05, 0.5, 0.1, 0.01, st);
     #{"tuning": 44, "cmd": r.output}
 }
+fn valve_pid_tuning_bank_45(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 45 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 45, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_46(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 46 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 46, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_47(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 47 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 47, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_48(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 48 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 48, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_49(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 49 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 49, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_50(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 50 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 50, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_51(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 51 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 51, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_52(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 52 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 52, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_53(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 53 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 53, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_54(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 54 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 54, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_55(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 55 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 55, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_56(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 56 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 56, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_57(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 57 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 57, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_58(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 58 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 58, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_59(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 59 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 59, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_60(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 60 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 60, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_61(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 61 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 61, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_62(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 62 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 62, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_63(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 63 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 63, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_64(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 64 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 64, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_65(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 65 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 65, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_66(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 66 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 66, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_67(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 67 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 67, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_68(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 68 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 68, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_69(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 69 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 69, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_70(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 70 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 70, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_71(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 71 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 71, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_72(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 72 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 72, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_73(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 73 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 73, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_74(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 74 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 74, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_75(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 75 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 75, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_76(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 76 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 76, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_77(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 77 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 77, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_78(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 78 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 78, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_79(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 79 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 79, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_80(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 80 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 80, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_81(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 81 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 81, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_82(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 82 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 82, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_83(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 83 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 83, "cmd": r.output}
+}
+fn valve_pid_tuning_bank_84(sp, pv) {
+    let st = #{ "integral": 0.0, "prev_error": 0.0, "i_max": 50.0, "out_min": 0.0, "out_max": 100.0 };
+    let r = pid_step(sp, pv, 2.0 + 84 * 0.05, 0.5, 0.1, 0.01, st);
+    #{"tuning": 84, "cmd": r.output}
+}

@@ -198,3 +198,163 @@ fn ullage_pressurant_budget_44(vol_m3, target_p_bar) {
     let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 44 * 2.0);
     #{"step": 44, "mass_kg": mass}
 }
+fn ullage_pressurant_budget_45(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 45 * 2.0);
+    #{"step": 45, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_46(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 46 * 2.0);
+    #{"step": 46, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_47(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 47 * 2.0);
+    #{"step": 47, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_48(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 48 * 2.0);
+    #{"step": 48, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_49(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 49 * 2.0);
+    #{"step": 49, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_50(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 50 * 2.0);
+    #{"step": 50, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_51(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 51 * 2.0);
+    #{"step": 51, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_52(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 52 * 2.0);
+    #{"step": 52, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_53(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 53 * 2.0);
+    #{"step": 53, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_54(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 54 * 2.0);
+    #{"step": 54, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_55(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 55 * 2.0);
+    #{"step": 55, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_56(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 56 * 2.0);
+    #{"step": 56, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_57(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 57 * 2.0);
+    #{"step": 57, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_58(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 58 * 2.0);
+    #{"step": 58, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_59(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 59 * 2.0);
+    #{"step": 59, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_60(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 60 * 2.0);
+    #{"step": 60, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_61(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 61 * 2.0);
+    #{"step": 61, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_62(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 62 * 2.0);
+    #{"step": 62, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_63(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 63 * 2.0);
+    #{"step": 63, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_64(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 64 * 2.0);
+    #{"step": 64, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_65(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 65 * 2.0);
+    #{"step": 65, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_66(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 66 * 2.0);
+    #{"step": 66, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_67(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 67 * 2.0);
+    #{"step": 67, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_68(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 68 * 2.0);
+    #{"step": 68, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_69(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 69 * 2.0);
+    #{"step": 69, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_70(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 70 * 2.0);
+    #{"step": 70, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_71(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 71 * 2.0);
+    #{"step": 71, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_72(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 72 * 2.0);
+    #{"step": 72, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_73(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 73 * 2.0);
+    #{"step": 73, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_74(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 74 * 2.0);
+    #{"step": 74, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_75(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 75 * 2.0);
+    #{"step": 75, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_76(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 76 * 2.0);
+    #{"step": 76, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_77(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 77 * 2.0);
+    #{"step": 77, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_78(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 78 * 2.0);
+    #{"step": 78, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_79(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 79 * 2.0);
+    #{"step": 79, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_80(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 80 * 2.0);
+    #{"step": 80, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_81(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 81 * 2.0);
+    #{"step": 81, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_82(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 82 * 2.0);
+    #{"step": 82, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_83(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 83 * 2.0);
+    #{"step": 83, "mass_kg": mass}
+}
+fn ullage_pressurant_budget_84(vol_m3, target_p_bar) {
+    let mass = helium_mass_required(vol_m3, target_p_bar, 180.0 + 84 * 2.0);
+    #{"step": 84, "mass_kg": mass}
+}

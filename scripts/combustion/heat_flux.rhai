@@ -190,3 +190,163 @@ fn throat_thermal_station_44(mach) {
     let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 44 * 0.01);
     #{"station": 44, "hg_w_m2_k": h}
 }
+fn throat_thermal_station_45(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 45 * 0.01);
+    #{"station": 45, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_46(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 46 * 0.01);
+    #{"station": 46, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_47(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 47 * 0.01);
+    #{"station": 47, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_48(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 48 * 0.01);
+    #{"station": 48, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_49(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 49 * 0.01);
+    #{"station": 49, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_50(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 50 * 0.01);
+    #{"station": 50, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_51(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 51 * 0.01);
+    #{"station": 51, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_52(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 52 * 0.01);
+    #{"station": 52, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_53(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 53 * 0.01);
+    #{"station": 53, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_54(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 54 * 0.01);
+    #{"station": 54, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_55(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 55 * 0.01);
+    #{"station": 55, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_56(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 56 * 0.01);
+    #{"station": 56, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_57(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 57 * 0.01);
+    #{"station": 57, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_58(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 58 * 0.01);
+    #{"station": 58, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_59(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 59 * 0.01);
+    #{"station": 59, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_60(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 60 * 0.01);
+    #{"station": 60, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_61(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 61 * 0.01);
+    #{"station": 61, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_62(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 62 * 0.01);
+    #{"station": 62, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_63(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 63 * 0.01);
+    #{"station": 63, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_64(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 64 * 0.01);
+    #{"station": 64, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_65(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 65 * 0.01);
+    #{"station": 65, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_66(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 66 * 0.01);
+    #{"station": 66, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_67(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 67 * 0.01);
+    #{"station": 67, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_68(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 68 * 0.01);
+    #{"station": 68, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_69(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 69 * 0.01);
+    #{"station": 69, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_70(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 70 * 0.01);
+    #{"station": 70, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_71(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 71 * 0.01);
+    #{"station": 71, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_72(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 72 * 0.01);
+    #{"station": 72, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_73(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 73 * 0.01);
+    #{"station": 73, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_74(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 74 * 0.01);
+    #{"station": 74, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_75(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 75 * 0.01);
+    #{"station": 75, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_76(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 76 * 0.01);
+    #{"station": 76, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_77(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 77 * 0.01);
+    #{"station": 77, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_78(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 78 * 0.01);
+    #{"station": 78, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_79(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 79 * 0.01);
+    #{"station": 79, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_80(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 80 * 0.01);
+    #{"station": 80, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_81(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 81 * 0.01);
+    #{"station": 81, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_82(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 82 * 0.01);
+    #{"station": 82, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_83(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 83 * 0.01);
+    #{"station": 83, "hg_w_m2_k": h}
+}
+fn throat_thermal_station_84(mach) {
+    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + 84 * 0.01);
+    #{"station": 84, "hg_w_m2_k": h}
+}

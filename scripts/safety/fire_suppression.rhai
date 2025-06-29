@@ -188,3 +188,163 @@ fn deluge_zone_44(p_header) {
     let flow = deluge_water_flow_gpm(p_header, 24 + 44, 14.0);
     #{"zone": 44, "flow_gpm": flow}
 }
+fn deluge_zone_45(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 45, 14.0);
+    #{"zone": 45, "flow_gpm": flow}
+}
+fn deluge_zone_46(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 46, 14.0);
+    #{"zone": 46, "flow_gpm": flow}
+}
+fn deluge_zone_47(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 47, 14.0);
+    #{"zone": 47, "flow_gpm": flow}
+}
+fn deluge_zone_48(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 48, 14.0);
+    #{"zone": 48, "flow_gpm": flow}
+}
+fn deluge_zone_49(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 49, 14.0);
+    #{"zone": 49, "flow_gpm": flow}
+}
+fn deluge_zone_50(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 50, 14.0);
+    #{"zone": 50, "flow_gpm": flow}
+}
+fn deluge_zone_51(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 51, 14.0);
+    #{"zone": 51, "flow_gpm": flow}
+}
+fn deluge_zone_52(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 52, 14.0);
+    #{"zone": 52, "flow_gpm": flow}
+}
+fn deluge_zone_53(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 53, 14.0);
+    #{"zone": 53, "flow_gpm": flow}
+}
+fn deluge_zone_54(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 54, 14.0);
+    #{"zone": 54, "flow_gpm": flow}
+}
+fn deluge_zone_55(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 55, 14.0);
+    #{"zone": 55, "flow_gpm": flow}
+}
+fn deluge_zone_56(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 56, 14.0);
+    #{"zone": 56, "flow_gpm": flow}
+}
+fn deluge_zone_57(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 57, 14.0);
+    #{"zone": 57, "flow_gpm": flow}
+}
+fn deluge_zone_58(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 58, 14.0);
+    #{"zone": 58, "flow_gpm": flow}
+}
+fn deluge_zone_59(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 59, 14.0);
+    #{"zone": 59, "flow_gpm": flow}
+}
+fn deluge_zone_60(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 60, 14.0);
+    #{"zone": 60, "flow_gpm": flow}
+}
+fn deluge_zone_61(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 61, 14.0);
+    #{"zone": 61, "flow_gpm": flow}
+}
+fn deluge_zone_62(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 62, 14.0);
+    #{"zone": 62, "flow_gpm": flow}
+}
+fn deluge_zone_63(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 63, 14.0);
+    #{"zone": 63, "flow_gpm": flow}
+}
+fn deluge_zone_64(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 64, 14.0);
+    #{"zone": 64, "flow_gpm": flow}
+}
+fn deluge_zone_65(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 65, 14.0);
+    #{"zone": 65, "flow_gpm": flow}
+}
+fn deluge_zone_66(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 66, 14.0);
+    #{"zone": 66, "flow_gpm": flow}
+}
+fn deluge_zone_67(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 67, 14.0);
+    #{"zone": 67, "flow_gpm": flow}
+}
+fn deluge_zone_68(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 68, 14.0);
+    #{"zone": 68, "flow_gpm": flow}
+}
+fn deluge_zone_69(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 69, 14.0);
+    #{"zone": 69, "flow_gpm": flow}
+}
+fn deluge_zone_70(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 70, 14.0);
+    #{"zone": 70, "flow_gpm": flow}
+}
+fn deluge_zone_71(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 71, 14.0);
+    #{"zone": 71, "flow_gpm": flow}
+}
+fn deluge_zone_72(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 72, 14.0);
+    #{"zone": 72, "flow_gpm": flow}
+}
+fn deluge_zone_73(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 73, 14.0);
+    #{"zone": 73, "flow_gpm": flow}
+}
+fn deluge_zone_74(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 74, 14.0);
+    #{"zone": 74, "flow_gpm": flow}
+}
+fn deluge_zone_75(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 75, 14.0);
+    #{"zone": 75, "flow_gpm": flow}
+}
+fn deluge_zone_76(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 76, 14.0);
+    #{"zone": 76, "flow_gpm": flow}
+}
+fn deluge_zone_77(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 77, 14.0);
+    #{"zone": 77, "flow_gpm": flow}
+}
+fn deluge_zone_78(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 78, 14.0);
+    #{"zone": 78, "flow_gpm": flow}
+}
+fn deluge_zone_79(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 79, 14.0);
+    #{"zone": 79, "flow_gpm": flow}
+}
+fn deluge_zone_80(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 80, 14.0);
+    #{"zone": 80, "flow_gpm": flow}
+}
+fn deluge_zone_81(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 81, 14.0);
+    #{"zone": 81, "flow_gpm": flow}
+}
+fn deluge_zone_82(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 82, 14.0);
+    #{"zone": 82, "flow_gpm": flow}
+}
+fn deluge_zone_83(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 83, 14.0);
+    #{"zone": 83, "flow_gpm": flow}
+}
+fn deluge_zone_84(p_header) {
+    let flow = deluge_water_flow_gpm(p_header, 24 + 84, 14.0);
+    #{"zone": 84, "flow_gpm": flow}
+}

@@ -244,3 +244,203 @@ fn lch4_state_point_44(p_bar, t_k) {
     let mu = lch4_dynamic_viscosity(t_k);
     #{"point": 44, "density": rho, "viscosity_upa_s": mu}
 }
+fn lch4_state_point_45(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 45 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 45, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_46(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 46 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 46, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_47(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 47 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 47, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_48(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 48 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 48, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_49(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 49 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 49, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_50(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 50 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 50, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_51(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 51 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 51, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_52(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 52 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 52, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_53(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 53 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 53, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_54(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 54 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 54, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_55(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 55 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 55, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_56(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 56 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 56, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_57(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 57 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 57, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_58(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 58 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 58, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_59(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 59 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 59, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_60(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 60 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 60, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_61(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 61 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 61, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_62(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 62 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 62, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_63(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 63 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 63, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_64(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 64 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 64, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_65(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 65 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 65, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_66(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 66 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 66, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_67(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 67 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 67, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_68(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 68 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 68, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_69(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 69 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 69, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_70(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 70 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 70, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_71(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 71 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 71, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_72(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 72 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 72, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_73(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 73 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 73, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_74(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 74 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 74, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_75(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 75 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 75, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_76(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 76 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 76, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_77(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 77 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 77, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_78(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 78 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 78, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_79(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 79 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 79, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_80(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 80 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 80, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_81(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 81 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 81, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_82(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 82 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 82, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_83(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 83 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 83, "density": rho, "viscosity_upa_s": mu}
+}
+fn lch4_state_point_84(p_bar, t_k) {
+    let rho = lch4_subcooled_density(t_k, p_bar + 84 * 0.2);
+    let mu = lch4_dynamic_viscosity(t_k);
+    #{"point": 84, "density": rho, "viscosity_upa_s": mu}
+}

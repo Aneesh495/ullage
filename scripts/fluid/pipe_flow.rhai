@@ -195,3 +195,163 @@ fn transient_line_pulse_44(delta_v) {
     let s = joukowsky_surge_bar(1141.0, 1000.0 + 44 * 5.0, delta_v);
     #{"station": 44, "surge_bar": s}
 }
+fn transient_line_pulse_45(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 45 * 5.0, delta_v);
+    #{"station": 45, "surge_bar": s}
+}
+fn transient_line_pulse_46(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 46 * 5.0, delta_v);
+    #{"station": 46, "surge_bar": s}
+}
+fn transient_line_pulse_47(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 47 * 5.0, delta_v);
+    #{"station": 47, "surge_bar": s}
+}
+fn transient_line_pulse_48(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 48 * 5.0, delta_v);
+    #{"station": 48, "surge_bar": s}
+}
+fn transient_line_pulse_49(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 49 * 5.0, delta_v);
+    #{"station": 49, "surge_bar": s}
+}
+fn transient_line_pulse_50(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 50 * 5.0, delta_v);
+    #{"station": 50, "surge_bar": s}
+}
+fn transient_line_pulse_51(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 51 * 5.0, delta_v);
+    #{"station": 51, "surge_bar": s}
+}
+fn transient_line_pulse_52(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 52 * 5.0, delta_v);
+    #{"station": 52, "surge_bar": s}
+}
+fn transient_line_pulse_53(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 53 * 5.0, delta_v);
+    #{"station": 53, "surge_bar": s}
+}
+fn transient_line_pulse_54(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 54 * 5.0, delta_v);
+    #{"station": 54, "surge_bar": s}
+}
+fn transient_line_pulse_55(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 55 * 5.0, delta_v);
+    #{"station": 55, "surge_bar": s}
+}
+fn transient_line_pulse_56(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 56 * 5.0, delta_v);
+    #{"station": 56, "surge_bar": s}
+}
+fn transient_line_pulse_57(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 57 * 5.0, delta_v);
+    #{"station": 57, "surge_bar": s}
+}
+fn transient_line_pulse_58(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 58 * 5.0, delta_v);
+    #{"station": 58, "surge_bar": s}
+}
+fn transient_line_pulse_59(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 59 * 5.0, delta_v);
+    #{"station": 59, "surge_bar": s}
+}
+fn transient_line_pulse_60(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 60 * 5.0, delta_v);
+    #{"station": 60, "surge_bar": s}
+}
+fn transient_line_pulse_61(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 61 * 5.0, delta_v);
+    #{"station": 61, "surge_bar": s}
+}
+fn transient_line_pulse_62(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 62 * 5.0, delta_v);
+    #{"station": 62, "surge_bar": s}
+}
+fn transient_line_pulse_63(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 63 * 5.0, delta_v);
+    #{"station": 63, "surge_bar": s}
+}
+fn transient_line_pulse_64(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 64 * 5.0, delta_v);
+    #{"station": 64, "surge_bar": s}
+}
+fn transient_line_pulse_65(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 65 * 5.0, delta_v);
+    #{"station": 65, "surge_bar": s}
+}
+fn transient_line_pulse_66(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 66 * 5.0, delta_v);
+    #{"station": 66, "surge_bar": s}
+}
+fn transient_line_pulse_67(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 67 * 5.0, delta_v);
+    #{"station": 67, "surge_bar": s}
+}
+fn transient_line_pulse_68(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 68 * 5.0, delta_v);
+    #{"station": 68, "surge_bar": s}
+}
+fn transient_line_pulse_69(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 69 * 5.0, delta_v);
+    #{"station": 69, "surge_bar": s}
+}
+fn transient_line_pulse_70(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 70 * 5.0, delta_v);
+    #{"station": 70, "surge_bar": s}
+}
+fn transient_line_pulse_71(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 71 * 5.0, delta_v);
+    #{"station": 71, "surge_bar": s}
+}
+fn transient_line_pulse_72(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 72 * 5.0, delta_v);
+    #{"station": 72, "surge_bar": s}
+}
+fn transient_line_pulse_73(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 73 * 5.0, delta_v);
+    #{"station": 73, "surge_bar": s}
+}
+fn transient_line_pulse_74(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 74 * 5.0, delta_v);
+    #{"station": 74, "surge_bar": s}
+}
+fn transient_line_pulse_75(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 75 * 5.0, delta_v);
+    #{"station": 75, "surge_bar": s}
+}
+fn transient_line_pulse_76(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 76 * 5.0, delta_v);
+    #{"station": 76, "surge_bar": s}
+}
+fn transient_line_pulse_77(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 77 * 5.0, delta_v);
+    #{"station": 77, "surge_bar": s}
+}
+fn transient_line_pulse_78(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 78 * 5.0, delta_v);
+    #{"station": 78, "surge_bar": s}
+}
+fn transient_line_pulse_79(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 79 * 5.0, delta_v);
+    #{"station": 79, "surge_bar": s}
+}
+fn transient_line_pulse_80(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 80 * 5.0, delta_v);
+    #{"station": 80, "surge_bar": s}
+}
+fn transient_line_pulse_81(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 81 * 5.0, delta_v);
+    #{"station": 81, "surge_bar": s}
+}
+fn transient_line_pulse_82(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 82 * 5.0, delta_v);
+    #{"station": 82, "surge_bar": s}
+}
+fn transient_line_pulse_83(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 83 * 5.0, delta_v);
+    #{"station": 83, "surge_bar": s}
+}
+fn transient_line_pulse_84(delta_v) {
+    let s = joukowsky_surge_bar(1141.0, 1000.0 + 84 * 5.0, delta_v);
+    #{"station": 84, "surge_bar": s}
+}

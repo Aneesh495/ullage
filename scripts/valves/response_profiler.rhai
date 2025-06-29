@@ -187,3 +187,163 @@ fn response_profile_curve_44(t_ms) {
     let pos = smoothstep(0.0, 100.0 + 44 * 2.0, t_ms);
     #{"profile": 44, "pos_pct": pos * 100.0}
 }
+fn response_profile_curve_45(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 45 * 2.0, t_ms);
+    #{"profile": 45, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_46(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 46 * 2.0, t_ms);
+    #{"profile": 46, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_47(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 47 * 2.0, t_ms);
+    #{"profile": 47, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_48(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 48 * 2.0, t_ms);
+    #{"profile": 48, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_49(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 49 * 2.0, t_ms);
+    #{"profile": 49, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_50(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 50 * 2.0, t_ms);
+    #{"profile": 50, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_51(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 51 * 2.0, t_ms);
+    #{"profile": 51, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_52(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 52 * 2.0, t_ms);
+    #{"profile": 52, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_53(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 53 * 2.0, t_ms);
+    #{"profile": 53, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_54(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 54 * 2.0, t_ms);
+    #{"profile": 54, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_55(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 55 * 2.0, t_ms);
+    #{"profile": 55, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_56(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 56 * 2.0, t_ms);
+    #{"profile": 56, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_57(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 57 * 2.0, t_ms);
+    #{"profile": 57, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_58(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 58 * 2.0, t_ms);
+    #{"profile": 58, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_59(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 59 * 2.0, t_ms);
+    #{"profile": 59, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_60(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 60 * 2.0, t_ms);
+    #{"profile": 60, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_61(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 61 * 2.0, t_ms);
+    #{"profile": 61, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_62(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 62 * 2.0, t_ms);
+    #{"profile": 62, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_63(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 63 * 2.0, t_ms);
+    #{"profile": 63, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_64(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 64 * 2.0, t_ms);
+    #{"profile": 64, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_65(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 65 * 2.0, t_ms);
+    #{"profile": 65, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_66(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 66 * 2.0, t_ms);
+    #{"profile": 66, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_67(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 67 * 2.0, t_ms);
+    #{"profile": 67, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_68(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 68 * 2.0, t_ms);
+    #{"profile": 68, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_69(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 69 * 2.0, t_ms);
+    #{"profile": 69, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_70(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 70 * 2.0, t_ms);
+    #{"profile": 70, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_71(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 71 * 2.0, t_ms);
+    #{"profile": 71, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_72(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 72 * 2.0, t_ms);
+    #{"profile": 72, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_73(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 73 * 2.0, t_ms);
+    #{"profile": 73, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_74(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 74 * 2.0, t_ms);
+    #{"profile": 74, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_75(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 75 * 2.0, t_ms);
+    #{"profile": 75, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_76(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 76 * 2.0, t_ms);
+    #{"profile": 76, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_77(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 77 * 2.0, t_ms);
+    #{"profile": 77, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_78(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 78 * 2.0, t_ms);
+    #{"profile": 78, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_79(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 79 * 2.0, t_ms);
+    #{"profile": 79, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_80(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 80 * 2.0, t_ms);
+    #{"profile": 80, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_81(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 81 * 2.0, t_ms);
+    #{"profile": 81, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_82(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 82 * 2.0, t_ms);
+    #{"profile": 82, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_83(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 83 * 2.0, t_ms);
+    #{"profile": 83, "pos_pct": pos * 100.0}
+}
+fn response_profile_curve_84(t_ms) {
+    let pos = smoothstep(0.0, 100.0 + 84 * 2.0, t_ms);
+    #{"profile": 84, "pos_pct": pos * 100.0}
+}

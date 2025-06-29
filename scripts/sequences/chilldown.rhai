@@ -187,3 +187,163 @@ fn chilldown_temperature_sensor_44(t_raw) {
     let t_cal = t_raw * 0.995 - 44 * 0.02;
     #{"sensor": 44, "temp_k": t_cal, "chilled": t_cal < 95.0}
 }
+fn chilldown_temperature_sensor_45(t_raw) {
+    let t_cal = t_raw * 0.995 - 45 * 0.02;
+    #{"sensor": 45, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_46(t_raw) {
+    let t_cal = t_raw * 0.995 - 46 * 0.02;
+    #{"sensor": 46, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_47(t_raw) {
+    let t_cal = t_raw * 0.995 - 47 * 0.02;
+    #{"sensor": 47, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_48(t_raw) {
+    let t_cal = t_raw * 0.995 - 48 * 0.02;
+    #{"sensor": 48, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_49(t_raw) {
+    let t_cal = t_raw * 0.995 - 49 * 0.02;
+    #{"sensor": 49, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_50(t_raw) {
+    let t_cal = t_raw * 0.995 - 50 * 0.02;
+    #{"sensor": 50, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_51(t_raw) {
+    let t_cal = t_raw * 0.995 - 51 * 0.02;
+    #{"sensor": 51, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_52(t_raw) {
+    let t_cal = t_raw * 0.995 - 52 * 0.02;
+    #{"sensor": 52, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_53(t_raw) {
+    let t_cal = t_raw * 0.995 - 53 * 0.02;
+    #{"sensor": 53, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_54(t_raw) {
+    let t_cal = t_raw * 0.995 - 54 * 0.02;
+    #{"sensor": 54, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_55(t_raw) {
+    let t_cal = t_raw * 0.995 - 55 * 0.02;
+    #{"sensor": 55, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_56(t_raw) {
+    let t_cal = t_raw * 0.995 - 56 * 0.02;
+    #{"sensor": 56, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_57(t_raw) {
+    let t_cal = t_raw * 0.995 - 57 * 0.02;
+    #{"sensor": 57, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_58(t_raw) {
+    let t_cal = t_raw * 0.995 - 58 * 0.02;
+    #{"sensor": 58, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_59(t_raw) {
+    let t_cal = t_raw * 0.995 - 59 * 0.02;
+    #{"sensor": 59, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_60(t_raw) {
+    let t_cal = t_raw * 0.995 - 60 * 0.02;
+    #{"sensor": 60, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_61(t_raw) {
+    let t_cal = t_raw * 0.995 - 61 * 0.02;
+    #{"sensor": 61, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_62(t_raw) {
+    let t_cal = t_raw * 0.995 - 62 * 0.02;
+    #{"sensor": 62, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_63(t_raw) {
+    let t_cal = t_raw * 0.995 - 63 * 0.02;
+    #{"sensor": 63, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_64(t_raw) {
+    let t_cal = t_raw * 0.995 - 64 * 0.02;
+    #{"sensor": 64, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_65(t_raw) {
+    let t_cal = t_raw * 0.995 - 65 * 0.02;
+    #{"sensor": 65, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_66(t_raw) {
+    let t_cal = t_raw * 0.995 - 66 * 0.02;
+    #{"sensor": 66, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_67(t_raw) {
+    let t_cal = t_raw * 0.995 - 67 * 0.02;
+    #{"sensor": 67, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_68(t_raw) {
+    let t_cal = t_raw * 0.995 - 68 * 0.02;
+    #{"sensor": 68, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_69(t_raw) {
+    let t_cal = t_raw * 0.995 - 69 * 0.02;
+    #{"sensor": 69, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_70(t_raw) {
+    let t_cal = t_raw * 0.995 - 70 * 0.02;
+    #{"sensor": 70, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_71(t_raw) {
+    let t_cal = t_raw * 0.995 - 71 * 0.02;
+    #{"sensor": 71, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_72(t_raw) {
+    let t_cal = t_raw * 0.995 - 72 * 0.02;
+    #{"sensor": 72, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_73(t_raw) {
+    let t_cal = t_raw * 0.995 - 73 * 0.02;
+    #{"sensor": 73, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_74(t_raw) {
+    let t_cal = t_raw * 0.995 - 74 * 0.02;
+    #{"sensor": 74, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_75(t_raw) {
+    let t_cal = t_raw * 0.995 - 75 * 0.02;
+    #{"sensor": 75, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_76(t_raw) {
+    let t_cal = t_raw * 0.995 - 76 * 0.02;
+    #{"sensor": 76, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_77(t_raw) {
+    let t_cal = t_raw * 0.995 - 77 * 0.02;
+    #{"sensor": 77, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_78(t_raw) {
+    let t_cal = t_raw * 0.995 - 78 * 0.02;
+    #{"sensor": 78, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_79(t_raw) {
+    let t_cal = t_raw * 0.995 - 79 * 0.02;
+    #{"sensor": 79, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_80(t_raw) {
+    let t_cal = t_raw * 0.995 - 80 * 0.02;
+    #{"sensor": 80, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_81(t_raw) {
+    let t_cal = t_raw * 0.995 - 81 * 0.02;
+    #{"sensor": 81, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_82(t_raw) {
+    let t_cal = t_raw * 0.995 - 82 * 0.02;
+    #{"sensor": 82, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_83(t_raw) {
+    let t_cal = t_raw * 0.995 - 83 * 0.02;
+    #{"sensor": 83, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}
+fn chilldown_temperature_sensor_84(t_raw) {
+    let t_cal = t_raw * 0.995 - 84 * 0.02;
+    #{"sensor": 84, "temp_k": t_cal, "chilled": t_cal < 95.0}
+}

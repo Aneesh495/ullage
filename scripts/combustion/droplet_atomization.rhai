@@ -191,3 +191,163 @@ fn droplet_spectrum_bin_44(v_rel) {
     let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 44 * 0.5, 0.5);
     #{"bin": 44, "d32_microns": d32}
 }
+fn droplet_spectrum_bin_45(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 45 * 0.5, 0.5);
+    #{"bin": 45, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_46(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 46 * 0.5, 0.5);
+    #{"bin": 46, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_47(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 47 * 0.5, 0.5);
+    #{"bin": 47, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_48(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 48 * 0.5, 0.5);
+    #{"bin": 48, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_49(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 49 * 0.5, 0.5);
+    #{"bin": 49, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_50(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 50 * 0.5, 0.5);
+    #{"bin": 50, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_51(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 51 * 0.5, 0.5);
+    #{"bin": 51, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_52(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 52 * 0.5, 0.5);
+    #{"bin": 52, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_53(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 53 * 0.5, 0.5);
+    #{"bin": 53, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_54(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 54 * 0.5, 0.5);
+    #{"bin": 54, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_55(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 55 * 0.5, 0.5);
+    #{"bin": 55, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_56(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 56 * 0.5, 0.5);
+    #{"bin": 56, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_57(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 57 * 0.5, 0.5);
+    #{"bin": 57, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_58(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 58 * 0.5, 0.5);
+    #{"bin": 58, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_59(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 59 * 0.5, 0.5);
+    #{"bin": 59, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_60(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 60 * 0.5, 0.5);
+    #{"bin": 60, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_61(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 61 * 0.5, 0.5);
+    #{"bin": 61, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_62(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 62 * 0.5, 0.5);
+    #{"bin": 62, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_63(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 63 * 0.5, 0.5);
+    #{"bin": 63, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_64(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 64 * 0.5, 0.5);
+    #{"bin": 64, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_65(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 65 * 0.5, 0.5);
+    #{"bin": 65, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_66(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 66 * 0.5, 0.5);
+    #{"bin": 66, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_67(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 67 * 0.5, 0.5);
+    #{"bin": 67, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_68(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 68 * 0.5, 0.5);
+    #{"bin": 68, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_69(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 69 * 0.5, 0.5);
+    #{"bin": 69, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_70(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 70 * 0.5, 0.5);
+    #{"bin": 70, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_71(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 71 * 0.5, 0.5);
+    #{"bin": 71, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_72(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 72 * 0.5, 0.5);
+    #{"bin": 72, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_73(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 73 * 0.5, 0.5);
+    #{"bin": 73, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_74(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 74 * 0.5, 0.5);
+    #{"bin": 74, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_75(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 75 * 0.5, 0.5);
+    #{"bin": 75, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_76(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 76 * 0.5, 0.5);
+    #{"bin": 76, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_77(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 77 * 0.5, 0.5);
+    #{"bin": 77, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_78(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 78 * 0.5, 0.5);
+    #{"bin": 78, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_79(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 79 * 0.5, 0.5);
+    #{"bin": 79, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_80(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 80 * 0.5, 0.5);
+    #{"bin": 80, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_81(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 81 * 0.5, 0.5);
+    #{"bin": 81, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_82(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 82 * 0.5, 0.5);
+    #{"bin": 82, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_83(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 83 * 0.5, 0.5);
+    #{"bin": 83, "d32_microns": d32}
+}
+fn droplet_spectrum_bin_84(v_rel) {
+    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + 84 * 0.5, 0.5);
+    #{"bin": 84, "d32_microns": d32}
+}

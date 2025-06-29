@@ -189,3 +189,163 @@ fn seal_decay_channel_44(time_s) {
     let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 44 * 0.001, time_s);
     #{"ch": 44, "leak_sccm": q}
 }
+fn seal_decay_channel_45(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 45 * 0.001, time_s);
+    #{"ch": 45, "leak_sccm": q}
+}
+fn seal_decay_channel_46(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 46 * 0.001, time_s);
+    #{"ch": 46, "leak_sccm": q}
+}
+fn seal_decay_channel_47(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 47 * 0.001, time_s);
+    #{"ch": 47, "leak_sccm": q}
+}
+fn seal_decay_channel_48(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 48 * 0.001, time_s);
+    #{"ch": 48, "leak_sccm": q}
+}
+fn seal_decay_channel_49(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 49 * 0.001, time_s);
+    #{"ch": 49, "leak_sccm": q}
+}
+fn seal_decay_channel_50(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 50 * 0.001, time_s);
+    #{"ch": 50, "leak_sccm": q}
+}
+fn seal_decay_channel_51(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 51 * 0.001, time_s);
+    #{"ch": 51, "leak_sccm": q}
+}
+fn seal_decay_channel_52(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 52 * 0.001, time_s);
+    #{"ch": 52, "leak_sccm": q}
+}
+fn seal_decay_channel_53(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 53 * 0.001, time_s);
+    #{"ch": 53, "leak_sccm": q}
+}
+fn seal_decay_channel_54(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 54 * 0.001, time_s);
+    #{"ch": 54, "leak_sccm": q}
+}
+fn seal_decay_channel_55(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 55 * 0.001, time_s);
+    #{"ch": 55, "leak_sccm": q}
+}
+fn seal_decay_channel_56(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 56 * 0.001, time_s);
+    #{"ch": 56, "leak_sccm": q}
+}
+fn seal_decay_channel_57(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 57 * 0.001, time_s);
+    #{"ch": 57, "leak_sccm": q}
+}
+fn seal_decay_channel_58(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 58 * 0.001, time_s);
+    #{"ch": 58, "leak_sccm": q}
+}
+fn seal_decay_channel_59(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 59 * 0.001, time_s);
+    #{"ch": 59, "leak_sccm": q}
+}
+fn seal_decay_channel_60(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 60 * 0.001, time_s);
+    #{"ch": 60, "leak_sccm": q}
+}
+fn seal_decay_channel_61(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 61 * 0.001, time_s);
+    #{"ch": 61, "leak_sccm": q}
+}
+fn seal_decay_channel_62(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 62 * 0.001, time_s);
+    #{"ch": 62, "leak_sccm": q}
+}
+fn seal_decay_channel_63(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 63 * 0.001, time_s);
+    #{"ch": 63, "leak_sccm": q}
+}
+fn seal_decay_channel_64(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 64 * 0.001, time_s);
+    #{"ch": 64, "leak_sccm": q}
+}
+fn seal_decay_channel_65(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 65 * 0.001, time_s);
+    #{"ch": 65, "leak_sccm": q}
+}
+fn seal_decay_channel_66(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 66 * 0.001, time_s);
+    #{"ch": 66, "leak_sccm": q}
+}
+fn seal_decay_channel_67(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 67 * 0.001, time_s);
+    #{"ch": 67, "leak_sccm": q}
+}
+fn seal_decay_channel_68(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 68 * 0.001, time_s);
+    #{"ch": 68, "leak_sccm": q}
+}
+fn seal_decay_channel_69(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 69 * 0.001, time_s);
+    #{"ch": 69, "leak_sccm": q}
+}
+fn seal_decay_channel_70(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 70 * 0.001, time_s);
+    #{"ch": 70, "leak_sccm": q}
+}
+fn seal_decay_channel_71(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 71 * 0.001, time_s);
+    #{"ch": 71, "leak_sccm": q}
+}
+fn seal_decay_channel_72(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 72 * 0.001, time_s);
+    #{"ch": 72, "leak_sccm": q}
+}
+fn seal_decay_channel_73(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 73 * 0.001, time_s);
+    #{"ch": 73, "leak_sccm": q}
+}
+fn seal_decay_channel_74(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 74 * 0.001, time_s);
+    #{"ch": 74, "leak_sccm": q}
+}
+fn seal_decay_channel_75(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 75 * 0.001, time_s);
+    #{"ch": 75, "leak_sccm": q}
+}
+fn seal_decay_channel_76(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 76 * 0.001, time_s);
+    #{"ch": 76, "leak_sccm": q}
+}
+fn seal_decay_channel_77(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 77 * 0.001, time_s);
+    #{"ch": 77, "leak_sccm": q}
+}
+fn seal_decay_channel_78(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 78 * 0.001, time_s);
+    #{"ch": 78, "leak_sccm": q}
+}
+fn seal_decay_channel_79(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 79 * 0.001, time_s);
+    #{"ch": 79, "leak_sccm": q}
+}
+fn seal_decay_channel_80(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 80 * 0.001, time_s);
+    #{"ch": 80, "leak_sccm": q}
+}
+fn seal_decay_channel_81(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 81 * 0.001, time_s);
+    #{"ch": 81, "leak_sccm": q}
+}
+fn seal_decay_channel_82(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 82 * 0.001, time_s);
+    #{"ch": 82, "leak_sccm": q}
+}
+fn seal_decay_channel_83(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 83 * 0.001, time_s);
+    #{"ch": 83, "leak_sccm": q}
+}
+fn seal_decay_channel_84(time_s) {
+    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - 84 * 0.001, time_s);
+    #{"ch": 84, "leak_sccm": q}
+}

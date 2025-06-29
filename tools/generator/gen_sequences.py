@@ -37,7 +37,7 @@ def gen_sequence_builder():
     lines.append("}")
     lines.append("if verify_sequence_builder() { log_info(\"[SEQUENCES::BUILDER] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn sequence_profile_step_{i}() {{")
         lines.append(f"    #{{\"step_id\": {i}, \"phase\": \"STEP_{i}\", \"budget_ms\": 5000 + {i} * 100}}")
         lines.append(f"}}")
@@ -60,7 +60,7 @@ def gen_preflight_check():
     lines.append("}")
     lines.append("if verify_preflight() { log_info(\"[SEQUENCES::PREFLIGHT] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn preflight_harness_check_{i}(volts) {{")
         lines.append(f"    let pass = volts >= 4.8 && volts <= 5.2;")
         lines.append(f"    #{{\"harness\": {i}, \"pass\": pass}}")
@@ -86,7 +86,7 @@ def gen_leak_check():
     lines.append("}")
     lines.append("if verify_leak_check() { log_info(\"[SEQUENCES::LEAK_CHECK] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn leak_check_station_{i}(p0, p1) {{")
         lines.append(f"    let r = evaluate_pressure_decay(p0, p1, 60.0, 0.1 + {i} * 0.005);")
         lines.append(f"    #{{\"station\": {i}, \"pass\": r.pass}}")
@@ -110,7 +110,7 @@ def gen_gn2_purge():
     lines.append("}")
     lines.append("if verify_gn2_purge() { log_info(\"[SEQUENCES::GN2_PURGE] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn purge_station_flow_{i}(p_in) {{")
         lines.append(f"    let flow = p_in * (0.05 + {i} * 0.001);")
         lines.append(f"    #{{\"station\": {i}, \"flow_kg_s\": flow}}")
@@ -134,7 +134,7 @@ def gen_chilldown():
     lines.append("}")
     lines.append("if verify_chilldown() { log_info(\"[SEQUENCES::CHILLDOWN] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn chilldown_temperature_sensor_{i}(t_raw) {{")
         lines.append(f"    let t_cal = t_raw * 0.995 - {i} * 0.02;")
         lines.append(f"    #{{\"sensor\": {i}, \"temp_k\": t_cal, \"chilled\": t_cal < 95.0}}")
@@ -158,7 +158,7 @@ def gen_tank_press():
     lines.append("}")
     lines.append("if verify_tank_press() { log_info(\"[SEQUENCES::TANK_PRESS] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn ullage_ramp_point_{i}(t_sec) {{")
         lines.append(f"    let p = 5.0 + t_sec * (4.5 + {i} * 0.02);")
         lines.append(f"    #{{\"step\": {i}, \"target_bar\": p}}")
@@ -182,7 +182,7 @@ def gen_igniter_test():
     lines.append("}")
     lines.append("if verify_igniter_test() { log_info(\"[SEQUENCES::IGNITER_TEST] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn igniter_sensor_channel_{i}(mv) {{")
         lines.append(f"    let pass = qualify_igniter(mv, 4.0, 200.0 + {i} * 1.0, 3.0);")
         lines.append(f"    #{{\"channel\": {i}, \"pass\": pass}}")
@@ -206,7 +206,7 @@ def gen_spin_start():
     lines.append("}")
     lines.append("if verify_spin_start() { log_info(\"[SEQUENCES::SPIN_START] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn spool_rpm_profile_{i}(t_s) {{")
         lines.append(f"    let rpm = t_s * (15000.0 + {i} * 100.0);")
         lines.append(f"    #{{\"step\": {i}, \"rpm\": rpm}}")
@@ -237,7 +237,7 @@ def gen_main_ignition():
     lines.append("}")
     lines.append("if verify_main_ignition() { log_info(\"[SEQUENCES::MAIN_IGNITION] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn ignition_ladder_stage_{i}() {{")
         lines.append(f"    #{{\"stage\": {i}, \"timing_ms\": -500 + {i} * 25}}")
         lines.append(f"}}")
@@ -266,7 +266,7 @@ def gen_throttle_sweep():
     lines.append("}")
     lines.append("if verify_throttle_sweep() { log_info(\"[SEQUENCES::THROTTLE_SWEEP] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn throttle_waypoint_{i}() {{")
         lines.append(f"    #{{\"wp\": {i}, \"target_pct\": 40.0 + {i} * 1.2}}")
         lines.append(f"}}")
@@ -291,7 +291,7 @@ def gen_steady_state_burn():
     lines.append("}")
     lines.append("if verify_steady_state() { log_info(\"[SEQUENCES::STEADY_STATE] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn governor_cycle_{i}(pc) {{")
         lines.append(f"    let r = govern_burn(pc, 80.0 + {i} * 0.1, 3.2, 3.2);")
         lines.append(f"    #{{\"cycle\": {i}, \"adj\": r.throttle_adj}}")
@@ -320,7 +320,7 @@ def gen_planned_shutdown():
     lines.append("}")
     lines.append("if verify_planned_shutdown() { log_info(\"[SEQUENCES::PLANNED_SHUTDOWN] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn shutdown_timing_node_{i}() {{")
         lines.append(f"    #{{\"node\": {i}, \"delay_ms\": {i} * 10}}")
         lines.append(f"}}")
@@ -348,7 +348,7 @@ def gen_emergency_abort():
     lines.append("}")
     lines.append("if verify_emergency_abort() { log_info(\"[SEQUENCES::EMERGENCY_ABORT] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn abort_path_evaluator_{i}() {{")
         lines.append(f"    #{{\"path\": {i}, \"priority\": {i} * 2}}")
         lines.append(f"}}")
@@ -371,7 +371,7 @@ def gen_post_fire_safing():
     lines.append("}")
     lines.append("if verify_safing() { log_info(\"[SEQUENCES::POST_FIRE_SAFING] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn thermal_safing_probe_{i}(temp_k) {{")
         lines.append(f"    let s = is_soakback_safe(temp_k, 250.0 + {i} * 1.0);")
         lines.append(f"    #{{\"probe\": {i}, \"safe\": s}}")

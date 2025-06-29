@@ -188,3 +188,163 @@ fn film_decay_node_44(mdot) {
     let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 44 * 10000.0, 5.0e5);
     #{"node": 44, "film_length_m": l}
 }
+fn film_decay_node_45(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 45 * 10000.0, 5.0e5);
+    #{"node": 45, "film_length_m": l}
+}
+fn film_decay_node_46(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 46 * 10000.0, 5.0e5);
+    #{"node": 46, "film_length_m": l}
+}
+fn film_decay_node_47(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 47 * 10000.0, 5.0e5);
+    #{"node": 47, "film_length_m": l}
+}
+fn film_decay_node_48(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 48 * 10000.0, 5.0e5);
+    #{"node": 48, "film_length_m": l}
+}
+fn film_decay_node_49(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 49 * 10000.0, 5.0e5);
+    #{"node": 49, "film_length_m": l}
+}
+fn film_decay_node_50(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 50 * 10000.0, 5.0e5);
+    #{"node": 50, "film_length_m": l}
+}
+fn film_decay_node_51(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 51 * 10000.0, 5.0e5);
+    #{"node": 51, "film_length_m": l}
+}
+fn film_decay_node_52(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 52 * 10000.0, 5.0e5);
+    #{"node": 52, "film_length_m": l}
+}
+fn film_decay_node_53(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 53 * 10000.0, 5.0e5);
+    #{"node": 53, "film_length_m": l}
+}
+fn film_decay_node_54(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 54 * 10000.0, 5.0e5);
+    #{"node": 54, "film_length_m": l}
+}
+fn film_decay_node_55(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 55 * 10000.0, 5.0e5);
+    #{"node": 55, "film_length_m": l}
+}
+fn film_decay_node_56(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 56 * 10000.0, 5.0e5);
+    #{"node": 56, "film_length_m": l}
+}
+fn film_decay_node_57(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 57 * 10000.0, 5.0e5);
+    #{"node": 57, "film_length_m": l}
+}
+fn film_decay_node_58(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 58 * 10000.0, 5.0e5);
+    #{"node": 58, "film_length_m": l}
+}
+fn film_decay_node_59(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 59 * 10000.0, 5.0e5);
+    #{"node": 59, "film_length_m": l}
+}
+fn film_decay_node_60(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 60 * 10000.0, 5.0e5);
+    #{"node": 60, "film_length_m": l}
+}
+fn film_decay_node_61(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 61 * 10000.0, 5.0e5);
+    #{"node": 61, "film_length_m": l}
+}
+fn film_decay_node_62(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 62 * 10000.0, 5.0e5);
+    #{"node": 62, "film_length_m": l}
+}
+fn film_decay_node_63(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 63 * 10000.0, 5.0e5);
+    #{"node": 63, "film_length_m": l}
+}
+fn film_decay_node_64(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 64 * 10000.0, 5.0e5);
+    #{"node": 64, "film_length_m": l}
+}
+fn film_decay_node_65(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 65 * 10000.0, 5.0e5);
+    #{"node": 65, "film_length_m": l}
+}
+fn film_decay_node_66(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 66 * 10000.0, 5.0e5);
+    #{"node": 66, "film_length_m": l}
+}
+fn film_decay_node_67(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 67 * 10000.0, 5.0e5);
+    #{"node": 67, "film_length_m": l}
+}
+fn film_decay_node_68(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 68 * 10000.0, 5.0e5);
+    #{"node": 68, "film_length_m": l}
+}
+fn film_decay_node_69(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 69 * 10000.0, 5.0e5);
+    #{"node": 69, "film_length_m": l}
+}
+fn film_decay_node_70(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 70 * 10000.0, 5.0e5);
+    #{"node": 70, "film_length_m": l}
+}
+fn film_decay_node_71(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 71 * 10000.0, 5.0e5);
+    #{"node": 71, "film_length_m": l}
+}
+fn film_decay_node_72(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 72 * 10000.0, 5.0e5);
+    #{"node": 72, "film_length_m": l}
+}
+fn film_decay_node_73(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 73 * 10000.0, 5.0e5);
+    #{"node": 73, "film_length_m": l}
+}
+fn film_decay_node_74(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 74 * 10000.0, 5.0e5);
+    #{"node": 74, "film_length_m": l}
+}
+fn film_decay_node_75(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 75 * 10000.0, 5.0e5);
+    #{"node": 75, "film_length_m": l}
+}
+fn film_decay_node_76(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 76 * 10000.0, 5.0e5);
+    #{"node": 76, "film_length_m": l}
+}
+fn film_decay_node_77(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 77 * 10000.0, 5.0e5);
+    #{"node": 77, "film_length_m": l}
+}
+fn film_decay_node_78(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 78 * 10000.0, 5.0e5);
+    #{"node": 78, "film_length_m": l}
+}
+fn film_decay_node_79(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 79 * 10000.0, 5.0e5);
+    #{"node": 79, "film_length_m": l}
+}
+fn film_decay_node_80(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 80 * 10000.0, 5.0e5);
+    #{"node": 80, "film_length_m": l}
+}
+fn film_decay_node_81(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 81 * 10000.0, 5.0e5);
+    #{"node": 81, "film_length_m": l}
+}
+fn film_decay_node_82(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 82 * 10000.0, 5.0e5);
+    #{"node": 82, "film_length_m": l}
+}
+fn film_decay_node_83(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 83 * 10000.0, 5.0e5);
+    #{"node": 83, "film_length_m": l}
+}
+fn film_decay_node_84(mdot) {
+    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + 84 * 10000.0, 5.0e5);
+    #{"node": 84, "film_length_m": l}
+}

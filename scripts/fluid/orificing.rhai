@@ -189,3 +189,163 @@ fn orifice_plate_spec_44(dp) {
     let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 44 * 0.02), 1141.0, dp);
     #{"plate": 44, "flow": f}
 }
+fn orifice_plate_spec_45(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 45 * 0.02), 1141.0, dp);
+    #{"plate": 45, "flow": f}
+}
+fn orifice_plate_spec_46(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 46 * 0.02), 1141.0, dp);
+    #{"plate": 46, "flow": f}
+}
+fn orifice_plate_spec_47(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 47 * 0.02), 1141.0, dp);
+    #{"plate": 47, "flow": f}
+}
+fn orifice_plate_spec_48(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 48 * 0.02), 1141.0, dp);
+    #{"plate": 48, "flow": f}
+}
+fn orifice_plate_spec_49(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 49 * 0.02), 1141.0, dp);
+    #{"plate": 49, "flow": f}
+}
+fn orifice_plate_spec_50(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 50 * 0.02), 1141.0, dp);
+    #{"plate": 50, "flow": f}
+}
+fn orifice_plate_spec_51(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 51 * 0.02), 1141.0, dp);
+    #{"plate": 51, "flow": f}
+}
+fn orifice_plate_spec_52(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 52 * 0.02), 1141.0, dp);
+    #{"plate": 52, "flow": f}
+}
+fn orifice_plate_spec_53(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 53 * 0.02), 1141.0, dp);
+    #{"plate": 53, "flow": f}
+}
+fn orifice_plate_spec_54(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 54 * 0.02), 1141.0, dp);
+    #{"plate": 54, "flow": f}
+}
+fn orifice_plate_spec_55(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 55 * 0.02), 1141.0, dp);
+    #{"plate": 55, "flow": f}
+}
+fn orifice_plate_spec_56(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 56 * 0.02), 1141.0, dp);
+    #{"plate": 56, "flow": f}
+}
+fn orifice_plate_spec_57(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 57 * 0.02), 1141.0, dp);
+    #{"plate": 57, "flow": f}
+}
+fn orifice_plate_spec_58(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 58 * 0.02), 1141.0, dp);
+    #{"plate": 58, "flow": f}
+}
+fn orifice_plate_spec_59(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 59 * 0.02), 1141.0, dp);
+    #{"plate": 59, "flow": f}
+}
+fn orifice_plate_spec_60(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 60 * 0.02), 1141.0, dp);
+    #{"plate": 60, "flow": f}
+}
+fn orifice_plate_spec_61(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 61 * 0.02), 1141.0, dp);
+    #{"plate": 61, "flow": f}
+}
+fn orifice_plate_spec_62(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 62 * 0.02), 1141.0, dp);
+    #{"plate": 62, "flow": f}
+}
+fn orifice_plate_spec_63(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 63 * 0.02), 1141.0, dp);
+    #{"plate": 63, "flow": f}
+}
+fn orifice_plate_spec_64(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 64 * 0.02), 1141.0, dp);
+    #{"plate": 64, "flow": f}
+}
+fn orifice_plate_spec_65(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 65 * 0.02), 1141.0, dp);
+    #{"plate": 65, "flow": f}
+}
+fn orifice_plate_spec_66(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 66 * 0.02), 1141.0, dp);
+    #{"plate": 66, "flow": f}
+}
+fn orifice_plate_spec_67(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 67 * 0.02), 1141.0, dp);
+    #{"plate": 67, "flow": f}
+}
+fn orifice_plate_spec_68(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 68 * 0.02), 1141.0, dp);
+    #{"plate": 68, "flow": f}
+}
+fn orifice_plate_spec_69(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 69 * 0.02), 1141.0, dp);
+    #{"plate": 69, "flow": f}
+}
+fn orifice_plate_spec_70(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 70 * 0.02), 1141.0, dp);
+    #{"plate": 70, "flow": f}
+}
+fn orifice_plate_spec_71(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 71 * 0.02), 1141.0, dp);
+    #{"plate": 71, "flow": f}
+}
+fn orifice_plate_spec_72(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 72 * 0.02), 1141.0, dp);
+    #{"plate": 72, "flow": f}
+}
+fn orifice_plate_spec_73(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 73 * 0.02), 1141.0, dp);
+    #{"plate": 73, "flow": f}
+}
+fn orifice_plate_spec_74(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 74 * 0.02), 1141.0, dp);
+    #{"plate": 74, "flow": f}
+}
+fn orifice_plate_spec_75(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 75 * 0.02), 1141.0, dp);
+    #{"plate": 75, "flow": f}
+}
+fn orifice_plate_spec_76(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 76 * 0.02), 1141.0, dp);
+    #{"plate": 76, "flow": f}
+}
+fn orifice_plate_spec_77(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 77 * 0.02), 1141.0, dp);
+    #{"plate": 77, "flow": f}
+}
+fn orifice_plate_spec_78(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 78 * 0.02), 1141.0, dp);
+    #{"plate": 78, "flow": f}
+}
+fn orifice_plate_spec_79(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 79 * 0.02), 1141.0, dp);
+    #{"plate": 79, "flow": f}
+}
+fn orifice_plate_spec_80(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 80 * 0.02), 1141.0, dp);
+    #{"plate": 80, "flow": f}
+}
+fn orifice_plate_spec_81(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 81 * 0.02), 1141.0, dp);
+    #{"plate": 81, "flow": f}
+}
+fn orifice_plate_spec_82(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 82 * 0.02), 1141.0, dp);
+    #{"plate": 82, "flow": f}
+}
+fn orifice_plate_spec_83(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 83 * 0.02), 1141.0, dp);
+    #{"plate": 83, "flow": f}
+}
+fn orifice_plate_spec_84(dp) {
+    let f = orifice_flow_kg_s(0.62, 0.0001 * (1.0 + 84 * 0.02), 1141.0, dp);
+    #{"plate": 84, "flow": f}
+}

@@ -189,3 +189,163 @@ fn acoustic_peak_tracker_44(f) {
     let q = compute_q_factor(f, f - 20.0, f + 20.0);
     #{"tracker": 44, "q": q}
 }
+fn acoustic_peak_tracker_45(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 45, "q": q}
+}
+fn acoustic_peak_tracker_46(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 46, "q": q}
+}
+fn acoustic_peak_tracker_47(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 47, "q": q}
+}
+fn acoustic_peak_tracker_48(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 48, "q": q}
+}
+fn acoustic_peak_tracker_49(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 49, "q": q}
+}
+fn acoustic_peak_tracker_50(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 50, "q": q}
+}
+fn acoustic_peak_tracker_51(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 51, "q": q}
+}
+fn acoustic_peak_tracker_52(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 52, "q": q}
+}
+fn acoustic_peak_tracker_53(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 53, "q": q}
+}
+fn acoustic_peak_tracker_54(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 54, "q": q}
+}
+fn acoustic_peak_tracker_55(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 55, "q": q}
+}
+fn acoustic_peak_tracker_56(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 56, "q": q}
+}
+fn acoustic_peak_tracker_57(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 57, "q": q}
+}
+fn acoustic_peak_tracker_58(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 58, "q": q}
+}
+fn acoustic_peak_tracker_59(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 59, "q": q}
+}
+fn acoustic_peak_tracker_60(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 60, "q": q}
+}
+fn acoustic_peak_tracker_61(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 61, "q": q}
+}
+fn acoustic_peak_tracker_62(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 62, "q": q}
+}
+fn acoustic_peak_tracker_63(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 63, "q": q}
+}
+fn acoustic_peak_tracker_64(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 64, "q": q}
+}
+fn acoustic_peak_tracker_65(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 65, "q": q}
+}
+fn acoustic_peak_tracker_66(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 66, "q": q}
+}
+fn acoustic_peak_tracker_67(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 67, "q": q}
+}
+fn acoustic_peak_tracker_68(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 68, "q": q}
+}
+fn acoustic_peak_tracker_69(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 69, "q": q}
+}
+fn acoustic_peak_tracker_70(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 70, "q": q}
+}
+fn acoustic_peak_tracker_71(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 71, "q": q}
+}
+fn acoustic_peak_tracker_72(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 72, "q": q}
+}
+fn acoustic_peak_tracker_73(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 73, "q": q}
+}
+fn acoustic_peak_tracker_74(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 74, "q": q}
+}
+fn acoustic_peak_tracker_75(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 75, "q": q}
+}
+fn acoustic_peak_tracker_76(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 76, "q": q}
+}
+fn acoustic_peak_tracker_77(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 77, "q": q}
+}
+fn acoustic_peak_tracker_78(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 78, "q": q}
+}
+fn acoustic_peak_tracker_79(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 79, "q": q}
+}
+fn acoustic_peak_tracker_80(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 80, "q": q}
+}
+fn acoustic_peak_tracker_81(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 81, "q": q}
+}
+fn acoustic_peak_tracker_82(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 82, "q": q}
+}
+fn acoustic_peak_tracker_83(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 83, "q": q}
+}
+fn acoustic_peak_tracker_84(f) {
+    let q = compute_q_factor(f, f - 20.0, f + 20.0);
+    #{"tracker": 84, "q": q}
+}

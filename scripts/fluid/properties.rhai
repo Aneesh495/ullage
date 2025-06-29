@@ -208,3 +208,163 @@ fn property_dispatch_channel_44(fluid, p_bar, t_k) {
     let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
     #{"channel": 44, "margin_k": margin, "operational": margin > 2.0}
 }
+fn property_dispatch_channel_45(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 45, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_46(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 46, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_47(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 47, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_48(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 48, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_49(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 49, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_50(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 50, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_51(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 51, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_52(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 52, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_53(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 53, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_54(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 54, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_55(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 55, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_56(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 56, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_57(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 57, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_58(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 58, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_59(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 59, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_60(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 60, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_61(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 61, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_62(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 62, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_63(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 63, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_64(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 64, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_65(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 65, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_66(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 66, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_67(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 67, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_68(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 68, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_69(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 69, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_70(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 70, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_71(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 71, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_72(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 72, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_73(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 73, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_74(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 74, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_75(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 75, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_76(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 76, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_77(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 77, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_78(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 78, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_79(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 79, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_80(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 80, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_81(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 81, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_82(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 82, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_83(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 83, "margin_k": margin, "operational": margin > 2.0}
+}
+fn property_dispatch_channel_84(fluid, p_bar, t_k) {
+    let margin = fluid_subcooling_margin(fluid, t_k, p_bar);
+    #{"channel": 84, "margin_k": margin, "operational": margin > 2.0}
+}

@@ -155,3 +155,123 @@ fn sequence_profile_step_43() {
 fn sequence_profile_step_44() {
     #{"step_id": 44, "phase": "STEP_44", "budget_ms": 5000 + 44 * 100}
 }
+fn sequence_profile_step_45() {
+    #{"step_id": 45, "phase": "STEP_45", "budget_ms": 5000 + 45 * 100}
+}
+fn sequence_profile_step_46() {
+    #{"step_id": 46, "phase": "STEP_46", "budget_ms": 5000 + 46 * 100}
+}
+fn sequence_profile_step_47() {
+    #{"step_id": 47, "phase": "STEP_47", "budget_ms": 5000 + 47 * 100}
+}
+fn sequence_profile_step_48() {
+    #{"step_id": 48, "phase": "STEP_48", "budget_ms": 5000 + 48 * 100}
+}
+fn sequence_profile_step_49() {
+    #{"step_id": 49, "phase": "STEP_49", "budget_ms": 5000 + 49 * 100}
+}
+fn sequence_profile_step_50() {
+    #{"step_id": 50, "phase": "STEP_50", "budget_ms": 5000 + 50 * 100}
+}
+fn sequence_profile_step_51() {
+    #{"step_id": 51, "phase": "STEP_51", "budget_ms": 5000 + 51 * 100}
+}
+fn sequence_profile_step_52() {
+    #{"step_id": 52, "phase": "STEP_52", "budget_ms": 5000 + 52 * 100}
+}
+fn sequence_profile_step_53() {
+    #{"step_id": 53, "phase": "STEP_53", "budget_ms": 5000 + 53 * 100}
+}
+fn sequence_profile_step_54() {
+    #{"step_id": 54, "phase": "STEP_54", "budget_ms": 5000 + 54 * 100}
+}
+fn sequence_profile_step_55() {
+    #{"step_id": 55, "phase": "STEP_55", "budget_ms": 5000 + 55 * 100}
+}
+fn sequence_profile_step_56() {
+    #{"step_id": 56, "phase": "STEP_56", "budget_ms": 5000 + 56 * 100}
+}
+fn sequence_profile_step_57() {
+    #{"step_id": 57, "phase": "STEP_57", "budget_ms": 5000 + 57 * 100}
+}
+fn sequence_profile_step_58() {
+    #{"step_id": 58, "phase": "STEP_58", "budget_ms": 5000 + 58 * 100}
+}
+fn sequence_profile_step_59() {
+    #{"step_id": 59, "phase": "STEP_59", "budget_ms": 5000 + 59 * 100}
+}
+fn sequence_profile_step_60() {
+    #{"step_id": 60, "phase": "STEP_60", "budget_ms": 5000 + 60 * 100}
+}
+fn sequence_profile_step_61() {
+    #{"step_id": 61, "phase": "STEP_61", "budget_ms": 5000 + 61 * 100}
+}
+fn sequence_profile_step_62() {
+    #{"step_id": 62, "phase": "STEP_62", "budget_ms": 5000 + 62 * 100}
+}
+fn sequence_profile_step_63() {
+    #{"step_id": 63, "phase": "STEP_63", "budget_ms": 5000 + 63 * 100}
+}
+fn sequence_profile_step_64() {
+    #{"step_id": 64, "phase": "STEP_64", "budget_ms": 5000 + 64 * 100}
+}
+fn sequence_profile_step_65() {
+    #{"step_id": 65, "phase": "STEP_65", "budget_ms": 5000 + 65 * 100}
+}
+fn sequence_profile_step_66() {
+    #{"step_id": 66, "phase": "STEP_66", "budget_ms": 5000 + 66 * 100}
+}
+fn sequence_profile_step_67() {
+    #{"step_id": 67, "phase": "STEP_67", "budget_ms": 5000 + 67 * 100}
+}
+fn sequence_profile_step_68() {
+    #{"step_id": 68, "phase": "STEP_68", "budget_ms": 5000 + 68 * 100}
+}
+fn sequence_profile_step_69() {
+    #{"step_id": 69, "phase": "STEP_69", "budget_ms": 5000 + 69 * 100}
+}
+fn sequence_profile_step_70() {
+    #{"step_id": 70, "phase": "STEP_70", "budget_ms": 5000 + 70 * 100}
+}
+fn sequence_profile_step_71() {
+    #{"step_id": 71, "phase": "STEP_71", "budget_ms": 5000 + 71 * 100}
+}
+fn sequence_profile_step_72() {
+    #{"step_id": 72, "phase": "STEP_72", "budget_ms": 5000 + 72 * 100}
+}
+fn sequence_profile_step_73() {
+    #{"step_id": 73, "phase": "STEP_73", "budget_ms": 5000 + 73 * 100}
+}
+fn sequence_profile_step_74() {
+    #{"step_id": 74, "phase": "STEP_74", "budget_ms": 5000 + 74 * 100}
+}
+fn sequence_profile_step_75() {
+    #{"step_id": 75, "phase": "STEP_75", "budget_ms": 5000 + 75 * 100}
+}
+fn sequence_profile_step_76() {
+    #{"step_id": 76, "phase": "STEP_76", "budget_ms": 5000 + 76 * 100}
+}
+fn sequence_profile_step_77() {
+    #{"step_id": 77, "phase": "STEP_77", "budget_ms": 5000 + 77 * 100}
+}
+fn sequence_profile_step_78() {
+    #{"step_id": 78, "phase": "STEP_78", "budget_ms": 5000 + 78 * 100}
+}
+fn sequence_profile_step_79() {
+    #{"step_id": 79, "phase": "STEP_79", "budget_ms": 5000 + 79 * 100}
+}
+fn sequence_profile_step_80() {
+    #{"step_id": 80, "phase": "STEP_80", "budget_ms": 5000 + 80 * 100}
+}
+fn sequence_profile_step_81() {
+    #{"step_id": 81, "phase": "STEP_81", "budget_ms": 5000 + 81 * 100}
+}
+fn sequence_profile_step_82() {
+    #{"step_id": 82, "phase": "STEP_82", "budget_ms": 5000 + 82 * 100}
+}
+fn sequence_profile_step_83() {
+    #{"step_id": 83, "phase": "STEP_83", "budget_ms": 5000 + 83 * 100}
+}
+fn sequence_profile_step_84() {
+    #{"step_id": 84, "phase": "STEP_84", "budget_ms": 5000 + 84 * 100}
+}

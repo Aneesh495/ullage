@@ -187,3 +187,163 @@ fn thermal_soakback_zone_44(q) {
     let dt = soakback_temp_rise_k(q, 1000.0 + 44 * 50.0);
     #{"zone": 44, "delta_t_k": dt}
 }
+fn thermal_soakback_zone_45(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 45 * 50.0);
+    #{"zone": 45, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_46(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 46 * 50.0);
+    #{"zone": 46, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_47(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 47 * 50.0);
+    #{"zone": 47, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_48(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 48 * 50.0);
+    #{"zone": 48, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_49(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 49 * 50.0);
+    #{"zone": 49, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_50(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 50 * 50.0);
+    #{"zone": 50, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_51(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 51 * 50.0);
+    #{"zone": 51, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_52(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 52 * 50.0);
+    #{"zone": 52, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_53(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 53 * 50.0);
+    #{"zone": 53, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_54(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 54 * 50.0);
+    #{"zone": 54, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_55(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 55 * 50.0);
+    #{"zone": 55, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_56(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 56 * 50.0);
+    #{"zone": 56, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_57(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 57 * 50.0);
+    #{"zone": 57, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_58(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 58 * 50.0);
+    #{"zone": 58, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_59(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 59 * 50.0);
+    #{"zone": 59, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_60(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 60 * 50.0);
+    #{"zone": 60, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_61(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 61 * 50.0);
+    #{"zone": 61, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_62(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 62 * 50.0);
+    #{"zone": 62, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_63(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 63 * 50.0);
+    #{"zone": 63, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_64(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 64 * 50.0);
+    #{"zone": 64, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_65(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 65 * 50.0);
+    #{"zone": 65, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_66(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 66 * 50.0);
+    #{"zone": 66, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_67(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 67 * 50.0);
+    #{"zone": 67, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_68(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 68 * 50.0);
+    #{"zone": 68, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_69(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 69 * 50.0);
+    #{"zone": 69, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_70(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 70 * 50.0);
+    #{"zone": 70, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_71(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 71 * 50.0);
+    #{"zone": 71, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_72(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 72 * 50.0);
+    #{"zone": 72, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_73(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 73 * 50.0);
+    #{"zone": 73, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_74(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 74 * 50.0);
+    #{"zone": 74, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_75(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 75 * 50.0);
+    #{"zone": 75, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_76(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 76 * 50.0);
+    #{"zone": 76, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_77(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 77 * 50.0);
+    #{"zone": 77, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_78(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 78 * 50.0);
+    #{"zone": 78, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_79(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 79 * 50.0);
+    #{"zone": 79, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_80(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 80 * 50.0);
+    #{"zone": 80, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_81(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 81 * 50.0);
+    #{"zone": 81, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_82(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 82 * 50.0);
+    #{"zone": 82, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_83(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 83 * 50.0);
+    #{"zone": 83, "delta_t_k": dt}
+}
+fn thermal_soakback_zone_84(q) {
+    let dt = soakback_temp_rise_k(q, 1000.0 + 84 * 50.0);
+    #{"zone": 84, "delta_t_k": dt}
+}

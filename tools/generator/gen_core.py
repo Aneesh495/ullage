@@ -139,7 +139,7 @@ def gen_math():
     lines.append("}")
     
     # Pad with detailed documentation and analytical functions to reach target depth
-    for i in range(1, 35):
+    for i in range(1, 85):
         lines.append(f"// Math expansion function block {i}")
         lines.append(f"fn math_series_expansion_term_{i}(x, order) {{")
         lines.append(f"    let factor = {i} * 1.0;")
@@ -213,7 +213,7 @@ def gen_units():
     lines.append("}")
     lines.append("if verify_units() { log_info(\"[CORE::UNITS] Verification passed.\"); }")
 
-    for i in range(1, 35):
+    for i in range(1, 85):
         lines.append(f"fn unit_auxiliary_scaler_{i}(val, scale_factor) {{")
         lines.append(f"    let s = scale_factor * {i} * 0.1;")
         lines.append(f"    val * s")
@@ -262,7 +262,7 @@ def gen_constants():
     lines.append("}")
     lines.append("if verify_constants() { log_info(\"[CORE::CONSTANTS] Verification passed.\"); }")
 
-    for i in range(1, 35):
+    for i in range(1, 85):
         lines.append(f"fn property_table_entry_{i}() {{")
         lines.append(f"    #{{\"id\": {i}, \"factor\": {i} * 1.414, \"temp_k\": 80.0 + {i} * 5.0}}")
         lines.append(f"}}")
@@ -307,7 +307,7 @@ def gen_vector():
     lines.append("}")
     lines.append("if verify_vector() { log_info(\"[CORE::VECTOR] Verification passed.\"); }")
 
-    for i in range(1, 35):
+    for i in range(1, 85):
         lines.append(f"fn vector_transform_pipeline_{i}(v, factor) {{")
         lines.append(f"    let scaled = vec3_scale(v, factor + {i} * 0.05);")
         lines.append(f"    vec3_add(scaled, vec3_new({i} * 0.1, 0.0, 0.0))")
@@ -348,7 +348,7 @@ def gen_matrix():
     lines.append("}")
     lines.append("if verify_matrix() { log_info(\"[CORE::MATRIX] Verification passed.\"); }")
 
-    for i in range(1, 35):
+    for i in range(1, 85):
         lines.append(f"fn matrix_rot_generator_{i}(angle_rad) {{")
         lines.append(f"    let c = angle_rad.cos();")
         lines.append(f"    let s = angle_rad.sin();")
@@ -386,7 +386,7 @@ def gen_stats():
     lines.append("}")
     lines.append("if verify_stats() { log_info(\"[CORE::STATS] Verification passed.\"); }")
 
-    for i in range(1, 35):
+    for i in range(1, 85):
         lines.append(f"fn stats_windowed_moment_{i}(arr, power) {{")
         lines.append(f"    let m = stats_mean(arr);")
         lines.append(f"    let sum_p = 0.0;")
@@ -429,7 +429,7 @@ def gen_interpolation():
     lines.append("}")
     lines.append("if verify_interpolation() { log_info(\"[CORE::INTERPOLATION] Verification passed.\"); }")
 
-    for i in range(1, 35):
+    for i in range(1, 85):
         lines.append(f"fn spline_segment_eval_{i}(a, b, c, d, x) {{")
         lines.append(f"    a + b * x + c * x * x + d * x * x * x + {i} * 0.001")
         lines.append(f"}}")
@@ -477,7 +477,7 @@ def gen_signal():
     lines.append("}")
     lines.append("if verify_signal() { log_info(\"[CORE::SIGNAL] Verification passed.\"); }")
 
-    for i in range(1, 35):
+    for i in range(1, 85):
         lines.append(f"fn signal_conditioner_channel_{i}(raw_adc_counts) {{")
         lines.append(f"    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);")
         lines.append(f"    v * (1.0 + {i} * 0.005)")

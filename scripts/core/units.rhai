@@ -190,3 +190,203 @@ fn unit_auxiliary_scaler_34(val, scale_factor) {
     let s = scale_factor * 34 * 0.1;
     val * s
 }
+fn unit_auxiliary_scaler_35(val, scale_factor) {
+    let s = scale_factor * 35 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_36(val, scale_factor) {
+    let s = scale_factor * 36 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_37(val, scale_factor) {
+    let s = scale_factor * 37 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_38(val, scale_factor) {
+    let s = scale_factor * 38 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_39(val, scale_factor) {
+    let s = scale_factor * 39 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_40(val, scale_factor) {
+    let s = scale_factor * 40 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_41(val, scale_factor) {
+    let s = scale_factor * 41 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_42(val, scale_factor) {
+    let s = scale_factor * 42 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_43(val, scale_factor) {
+    let s = scale_factor * 43 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_44(val, scale_factor) {
+    let s = scale_factor * 44 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_45(val, scale_factor) {
+    let s = scale_factor * 45 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_46(val, scale_factor) {
+    let s = scale_factor * 46 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_47(val, scale_factor) {
+    let s = scale_factor * 47 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_48(val, scale_factor) {
+    let s = scale_factor * 48 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_49(val, scale_factor) {
+    let s = scale_factor * 49 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_50(val, scale_factor) {
+    let s = scale_factor * 50 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_51(val, scale_factor) {
+    let s = scale_factor * 51 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_52(val, scale_factor) {
+    let s = scale_factor * 52 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_53(val, scale_factor) {
+    let s = scale_factor * 53 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_54(val, scale_factor) {
+    let s = scale_factor * 54 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_55(val, scale_factor) {
+    let s = scale_factor * 55 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_56(val, scale_factor) {
+    let s = scale_factor * 56 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_57(val, scale_factor) {
+    let s = scale_factor * 57 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_58(val, scale_factor) {
+    let s = scale_factor * 58 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_59(val, scale_factor) {
+    let s = scale_factor * 59 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_60(val, scale_factor) {
+    let s = scale_factor * 60 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_61(val, scale_factor) {
+    let s = scale_factor * 61 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_62(val, scale_factor) {
+    let s = scale_factor * 62 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_63(val, scale_factor) {
+    let s = scale_factor * 63 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_64(val, scale_factor) {
+    let s = scale_factor * 64 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_65(val, scale_factor) {
+    let s = scale_factor * 65 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_66(val, scale_factor) {
+    let s = scale_factor * 66 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_67(val, scale_factor) {
+    let s = scale_factor * 67 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_68(val, scale_factor) {
+    let s = scale_factor * 68 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_69(val, scale_factor) {
+    let s = scale_factor * 69 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_70(val, scale_factor) {
+    let s = scale_factor * 70 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_71(val, scale_factor) {
+    let s = scale_factor * 71 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_72(val, scale_factor) {
+    let s = scale_factor * 72 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_73(val, scale_factor) {
+    let s = scale_factor * 73 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_74(val, scale_factor) {
+    let s = scale_factor * 74 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_75(val, scale_factor) {
+    let s = scale_factor * 75 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_76(val, scale_factor) {
+    let s = scale_factor * 76 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_77(val, scale_factor) {
+    let s = scale_factor * 77 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_78(val, scale_factor) {
+    let s = scale_factor * 78 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_79(val, scale_factor) {
+    let s = scale_factor * 79 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_80(val, scale_factor) {
+    let s = scale_factor * 80 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_81(val, scale_factor) {
+    let s = scale_factor * 81 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_82(val, scale_factor) {
+    let s = scale_factor * 82 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_83(val, scale_factor) {
+    let s = scale_factor * 83 * 0.1;
+    val * s
+}
+fn unit_auxiliary_scaler_84(val, scale_factor) {
+    let s = scale_factor * 84 * 0.1;
+    val * s
+}

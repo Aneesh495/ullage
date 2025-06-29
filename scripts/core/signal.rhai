@@ -172,3 +172,203 @@ fn signal_conditioner_channel_34(raw_adc_counts) {
     let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
     v * (1.0 + 34 * 0.005)
 }
+fn signal_conditioner_channel_35(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 35 * 0.005)
+}
+fn signal_conditioner_channel_36(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 36 * 0.005)
+}
+fn signal_conditioner_channel_37(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 37 * 0.005)
+}
+fn signal_conditioner_channel_38(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 38 * 0.005)
+}
+fn signal_conditioner_channel_39(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 39 * 0.005)
+}
+fn signal_conditioner_channel_40(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 40 * 0.005)
+}
+fn signal_conditioner_channel_41(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 41 * 0.005)
+}
+fn signal_conditioner_channel_42(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 42 * 0.005)
+}
+fn signal_conditioner_channel_43(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 43 * 0.005)
+}
+fn signal_conditioner_channel_44(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 44 * 0.005)
+}
+fn signal_conditioner_channel_45(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 45 * 0.005)
+}
+fn signal_conditioner_channel_46(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 46 * 0.005)
+}
+fn signal_conditioner_channel_47(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 47 * 0.005)
+}
+fn signal_conditioner_channel_48(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 48 * 0.005)
+}
+fn signal_conditioner_channel_49(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 49 * 0.005)
+}
+fn signal_conditioner_channel_50(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 50 * 0.005)
+}
+fn signal_conditioner_channel_51(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 51 * 0.005)
+}
+fn signal_conditioner_channel_52(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 52 * 0.005)
+}
+fn signal_conditioner_channel_53(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 53 * 0.005)
+}
+fn signal_conditioner_channel_54(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 54 * 0.005)
+}
+fn signal_conditioner_channel_55(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 55 * 0.005)
+}
+fn signal_conditioner_channel_56(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 56 * 0.005)
+}
+fn signal_conditioner_channel_57(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 57 * 0.005)
+}
+fn signal_conditioner_channel_58(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 58 * 0.005)
+}
+fn signal_conditioner_channel_59(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 59 * 0.005)
+}
+fn signal_conditioner_channel_60(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 60 * 0.005)
+}
+fn signal_conditioner_channel_61(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 61 * 0.005)
+}
+fn signal_conditioner_channel_62(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 62 * 0.005)
+}
+fn signal_conditioner_channel_63(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 63 * 0.005)
+}
+fn signal_conditioner_channel_64(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 64 * 0.005)
+}
+fn signal_conditioner_channel_65(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 65 * 0.005)
+}
+fn signal_conditioner_channel_66(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 66 * 0.005)
+}
+fn signal_conditioner_channel_67(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 67 * 0.005)
+}
+fn signal_conditioner_channel_68(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 68 * 0.005)
+}
+fn signal_conditioner_channel_69(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 69 * 0.005)
+}
+fn signal_conditioner_channel_70(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 70 * 0.005)
+}
+fn signal_conditioner_channel_71(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 71 * 0.005)
+}
+fn signal_conditioner_channel_72(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 72 * 0.005)
+}
+fn signal_conditioner_channel_73(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 73 * 0.005)
+}
+fn signal_conditioner_channel_74(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 74 * 0.005)
+}
+fn signal_conditioner_channel_75(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 75 * 0.005)
+}
+fn signal_conditioner_channel_76(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 76 * 0.005)
+}
+fn signal_conditioner_channel_77(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 77 * 0.005)
+}
+fn signal_conditioner_channel_78(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 78 * 0.005)
+}
+fn signal_conditioner_channel_79(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 79 * 0.005)
+}
+fn signal_conditioner_channel_80(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 80 * 0.005)
+}
+fn signal_conditioner_channel_81(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 81 * 0.005)
+}
+fn signal_conditioner_channel_82(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 82 * 0.005)
+}
+fn signal_conditioner_channel_83(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 83 * 0.005)
+}
+fn signal_conditioner_channel_84(raw_adc_counts) {
+    let v = (raw_adc_counts * 1.0) * (5.0 / 65535.0);
+    v * (1.0 + 84 * 0.005)
+}

@@ -193,3 +193,163 @@ fn gn2_purge_orifice_44(p_bar) {
     let q = purge_manifold_mass_flow(p_bar + 44 * 0.2, 0.0002);
     #{"orifice": 44, "purge_kg_s": q}
 }
+fn gn2_purge_orifice_45(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 45 * 0.2, 0.0002);
+    #{"orifice": 45, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_46(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 46 * 0.2, 0.0002);
+    #{"orifice": 46, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_47(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 47 * 0.2, 0.0002);
+    #{"orifice": 47, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_48(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 48 * 0.2, 0.0002);
+    #{"orifice": 48, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_49(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 49 * 0.2, 0.0002);
+    #{"orifice": 49, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_50(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 50 * 0.2, 0.0002);
+    #{"orifice": 50, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_51(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 51 * 0.2, 0.0002);
+    #{"orifice": 51, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_52(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 52 * 0.2, 0.0002);
+    #{"orifice": 52, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_53(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 53 * 0.2, 0.0002);
+    #{"orifice": 53, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_54(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 54 * 0.2, 0.0002);
+    #{"orifice": 54, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_55(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 55 * 0.2, 0.0002);
+    #{"orifice": 55, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_56(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 56 * 0.2, 0.0002);
+    #{"orifice": 56, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_57(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 57 * 0.2, 0.0002);
+    #{"orifice": 57, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_58(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 58 * 0.2, 0.0002);
+    #{"orifice": 58, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_59(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 59 * 0.2, 0.0002);
+    #{"orifice": 59, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_60(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 60 * 0.2, 0.0002);
+    #{"orifice": 60, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_61(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 61 * 0.2, 0.0002);
+    #{"orifice": 61, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_62(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 62 * 0.2, 0.0002);
+    #{"orifice": 62, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_63(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 63 * 0.2, 0.0002);
+    #{"orifice": 63, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_64(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 64 * 0.2, 0.0002);
+    #{"orifice": 64, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_65(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 65 * 0.2, 0.0002);
+    #{"orifice": 65, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_66(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 66 * 0.2, 0.0002);
+    #{"orifice": 66, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_67(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 67 * 0.2, 0.0002);
+    #{"orifice": 67, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_68(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 68 * 0.2, 0.0002);
+    #{"orifice": 68, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_69(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 69 * 0.2, 0.0002);
+    #{"orifice": 69, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_70(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 70 * 0.2, 0.0002);
+    #{"orifice": 70, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_71(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 71 * 0.2, 0.0002);
+    #{"orifice": 71, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_72(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 72 * 0.2, 0.0002);
+    #{"orifice": 72, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_73(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 73 * 0.2, 0.0002);
+    #{"orifice": 73, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_74(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 74 * 0.2, 0.0002);
+    #{"orifice": 74, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_75(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 75 * 0.2, 0.0002);
+    #{"orifice": 75, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_76(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 76 * 0.2, 0.0002);
+    #{"orifice": 76, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_77(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 77 * 0.2, 0.0002);
+    #{"orifice": 77, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_78(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 78 * 0.2, 0.0002);
+    #{"orifice": 78, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_79(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 79 * 0.2, 0.0002);
+    #{"orifice": 79, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_80(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 80 * 0.2, 0.0002);
+    #{"orifice": 80, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_81(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 81 * 0.2, 0.0002);
+    #{"orifice": 81, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_82(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 82 * 0.2, 0.0002);
+    #{"orifice": 82, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_83(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 83 * 0.2, 0.0002);
+    #{"orifice": 83, "purge_kg_s": q}
+}
+fn gn2_purge_orifice_84(p_bar) {
+    let q = purge_manifold_mass_flow(p_bar + 84 * 0.2, 0.0002);
+    #{"orifice": 84, "purge_kg_s": q}
+}

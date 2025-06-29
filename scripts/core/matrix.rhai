@@ -198,3 +198,253 @@ fn matrix_rot_generator_34(angle_rad) {
     let s = angle_rad.sin();
     mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 34 * 0.01)
 }
+fn matrix_rot_generator_35(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 35 * 0.01)
+}
+fn matrix_rot_generator_36(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 36 * 0.01)
+}
+fn matrix_rot_generator_37(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 37 * 0.01)
+}
+fn matrix_rot_generator_38(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 38 * 0.01)
+}
+fn matrix_rot_generator_39(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 39 * 0.01)
+}
+fn matrix_rot_generator_40(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 40 * 0.01)
+}
+fn matrix_rot_generator_41(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 41 * 0.01)
+}
+fn matrix_rot_generator_42(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 42 * 0.01)
+}
+fn matrix_rot_generator_43(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 43 * 0.01)
+}
+fn matrix_rot_generator_44(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 44 * 0.01)
+}
+fn matrix_rot_generator_45(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 45 * 0.01)
+}
+fn matrix_rot_generator_46(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 46 * 0.01)
+}
+fn matrix_rot_generator_47(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 47 * 0.01)
+}
+fn matrix_rot_generator_48(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 48 * 0.01)
+}
+fn matrix_rot_generator_49(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 49 * 0.01)
+}
+fn matrix_rot_generator_50(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 50 * 0.01)
+}
+fn matrix_rot_generator_51(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 51 * 0.01)
+}
+fn matrix_rot_generator_52(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 52 * 0.01)
+}
+fn matrix_rot_generator_53(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 53 * 0.01)
+}
+fn matrix_rot_generator_54(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 54 * 0.01)
+}
+fn matrix_rot_generator_55(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 55 * 0.01)
+}
+fn matrix_rot_generator_56(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 56 * 0.01)
+}
+fn matrix_rot_generator_57(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 57 * 0.01)
+}
+fn matrix_rot_generator_58(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 58 * 0.01)
+}
+fn matrix_rot_generator_59(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 59 * 0.01)
+}
+fn matrix_rot_generator_60(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 60 * 0.01)
+}
+fn matrix_rot_generator_61(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 61 * 0.01)
+}
+fn matrix_rot_generator_62(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 62 * 0.01)
+}
+fn matrix_rot_generator_63(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 63 * 0.01)
+}
+fn matrix_rot_generator_64(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 64 * 0.01)
+}
+fn matrix_rot_generator_65(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 65 * 0.01)
+}
+fn matrix_rot_generator_66(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 66 * 0.01)
+}
+fn matrix_rot_generator_67(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 67 * 0.01)
+}
+fn matrix_rot_generator_68(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 68 * 0.01)
+}
+fn matrix_rot_generator_69(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 69 * 0.01)
+}
+fn matrix_rot_generator_70(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 70 * 0.01)
+}
+fn matrix_rot_generator_71(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 71 * 0.01)
+}
+fn matrix_rot_generator_72(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 72 * 0.01)
+}
+fn matrix_rot_generator_73(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 73 * 0.01)
+}
+fn matrix_rot_generator_74(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 74 * 0.01)
+}
+fn matrix_rot_generator_75(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 75 * 0.01)
+}
+fn matrix_rot_generator_76(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 76 * 0.01)
+}
+fn matrix_rot_generator_77(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 77 * 0.01)
+}
+fn matrix_rot_generator_78(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 78 * 0.01)
+}
+fn matrix_rot_generator_79(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 79 * 0.01)
+}
+fn matrix_rot_generator_80(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 80 * 0.01)
+}
+fn matrix_rot_generator_81(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 81 * 0.01)
+}
+fn matrix_rot_generator_82(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 82 * 0.01)
+}
+fn matrix_rot_generator_83(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 83 * 0.01)
+}
+fn matrix_rot_generator_84(angle_rad) {
+    let c = angle_rad.cos();
+    let s = angle_rad.sin();
+    mat3_new(c, -s, 0.0, s, c, 0.0, 0.0, 0.0, 1.0 + 84 * 0.01)
+}

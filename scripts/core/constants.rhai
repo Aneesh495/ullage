@@ -138,3 +138,153 @@ fn property_table_entry_33() {
 fn property_table_entry_34() {
     #{"id": 34, "factor": 34 * 1.414, "temp_k": 80.0 + 34 * 5.0}
 }
+fn property_table_entry_35() {
+    #{"id": 35, "factor": 35 * 1.414, "temp_k": 80.0 + 35 * 5.0}
+}
+fn property_table_entry_36() {
+    #{"id": 36, "factor": 36 * 1.414, "temp_k": 80.0 + 36 * 5.0}
+}
+fn property_table_entry_37() {
+    #{"id": 37, "factor": 37 * 1.414, "temp_k": 80.0 + 37 * 5.0}
+}
+fn property_table_entry_38() {
+    #{"id": 38, "factor": 38 * 1.414, "temp_k": 80.0 + 38 * 5.0}
+}
+fn property_table_entry_39() {
+    #{"id": 39, "factor": 39 * 1.414, "temp_k": 80.0 + 39 * 5.0}
+}
+fn property_table_entry_40() {
+    #{"id": 40, "factor": 40 * 1.414, "temp_k": 80.0 + 40 * 5.0}
+}
+fn property_table_entry_41() {
+    #{"id": 41, "factor": 41 * 1.414, "temp_k": 80.0 + 41 * 5.0}
+}
+fn property_table_entry_42() {
+    #{"id": 42, "factor": 42 * 1.414, "temp_k": 80.0 + 42 * 5.0}
+}
+fn property_table_entry_43() {
+    #{"id": 43, "factor": 43 * 1.414, "temp_k": 80.0 + 43 * 5.0}
+}
+fn property_table_entry_44() {
+    #{"id": 44, "factor": 44 * 1.414, "temp_k": 80.0 + 44 * 5.0}
+}
+fn property_table_entry_45() {
+    #{"id": 45, "factor": 45 * 1.414, "temp_k": 80.0 + 45 * 5.0}
+}
+fn property_table_entry_46() {
+    #{"id": 46, "factor": 46 * 1.414, "temp_k": 80.0 + 46 * 5.0}
+}
+fn property_table_entry_47() {
+    #{"id": 47, "factor": 47 * 1.414, "temp_k": 80.0 + 47 * 5.0}
+}
+fn property_table_entry_48() {
+    #{"id": 48, "factor": 48 * 1.414, "temp_k": 80.0 + 48 * 5.0}
+}
+fn property_table_entry_49() {
+    #{"id": 49, "factor": 49 * 1.414, "temp_k": 80.0 + 49 * 5.0}
+}
+fn property_table_entry_50() {
+    #{"id": 50, "factor": 50 * 1.414, "temp_k": 80.0 + 50 * 5.0}
+}
+fn property_table_entry_51() {
+    #{"id": 51, "factor": 51 * 1.414, "temp_k": 80.0 + 51 * 5.0}
+}
+fn property_table_entry_52() {
+    #{"id": 52, "factor": 52 * 1.414, "temp_k": 80.0 + 52 * 5.0}
+}
+fn property_table_entry_53() {
+    #{"id": 53, "factor": 53 * 1.414, "temp_k": 80.0 + 53 * 5.0}
+}
+fn property_table_entry_54() {
+    #{"id": 54, "factor": 54 * 1.414, "temp_k": 80.0 + 54 * 5.0}
+}
+fn property_table_entry_55() {
+    #{"id": 55, "factor": 55 * 1.414, "temp_k": 80.0 + 55 * 5.0}
+}
+fn property_table_entry_56() {
+    #{"id": 56, "factor": 56 * 1.414, "temp_k": 80.0 + 56 * 5.0}
+}
+fn property_table_entry_57() {
+    #{"id": 57, "factor": 57 * 1.414, "temp_k": 80.0 + 57 * 5.0}
+}
+fn property_table_entry_58() {
+    #{"id": 58, "factor": 58 * 1.414, "temp_k": 80.0 + 58 * 5.0}
+}
+fn property_table_entry_59() {
+    #{"id": 59, "factor": 59 * 1.414, "temp_k": 80.0 + 59 * 5.0}
+}
+fn property_table_entry_60() {
+    #{"id": 60, "factor": 60 * 1.414, "temp_k": 80.0 + 60 * 5.0}
+}
+fn property_table_entry_61() {
+    #{"id": 61, "factor": 61 * 1.414, "temp_k": 80.0 + 61 * 5.0}
+}
+fn property_table_entry_62() {
+    #{"id": 62, "factor": 62 * 1.414, "temp_k": 80.0 + 62 * 5.0}
+}
+fn property_table_entry_63() {
+    #{"id": 63, "factor": 63 * 1.414, "temp_k": 80.0 + 63 * 5.0}
+}
+fn property_table_entry_64() {
+    #{"id": 64, "factor": 64 * 1.414, "temp_k": 80.0 + 64 * 5.0}
+}
+fn property_table_entry_65() {
+    #{"id": 65, "factor": 65 * 1.414, "temp_k": 80.0 + 65 * 5.0}
+}
+fn property_table_entry_66() {
+    #{"id": 66, "factor": 66 * 1.414, "temp_k": 80.0 + 66 * 5.0}
+}
+fn property_table_entry_67() {
+    #{"id": 67, "factor": 67 * 1.414, "temp_k": 80.0 + 67 * 5.0}
+}
+fn property_table_entry_68() {
+    #{"id": 68, "factor": 68 * 1.414, "temp_k": 80.0 + 68 * 5.0}
+}
+fn property_table_entry_69() {
+    #{"id": 69, "factor": 69 * 1.414, "temp_k": 80.0 + 69 * 5.0}
+}
+fn property_table_entry_70() {
+    #{"id": 70, "factor": 70 * 1.414, "temp_k": 80.0 + 70 * 5.0}
+}
+fn property_table_entry_71() {
+    #{"id": 71, "factor": 71 * 1.414, "temp_k": 80.0 + 71 * 5.0}
+}
+fn property_table_entry_72() {
+    #{"id": 72, "factor": 72 * 1.414, "temp_k": 80.0 + 72 * 5.0}
+}
+fn property_table_entry_73() {
+    #{"id": 73, "factor": 73 * 1.414, "temp_k": 80.0 + 73 * 5.0}
+}
+fn property_table_entry_74() {
+    #{"id": 74, "factor": 74 * 1.414, "temp_k": 80.0 + 74 * 5.0}
+}
+fn property_table_entry_75() {
+    #{"id": 75, "factor": 75 * 1.414, "temp_k": 80.0 + 75 * 5.0}
+}
+fn property_table_entry_76() {
+    #{"id": 76, "factor": 76 * 1.414, "temp_k": 80.0 + 76 * 5.0}
+}
+fn property_table_entry_77() {
+    #{"id": 77, "factor": 77 * 1.414, "temp_k": 80.0 + 77 * 5.0}
+}
+fn property_table_entry_78() {
+    #{"id": 78, "factor": 78 * 1.414, "temp_k": 80.0 + 78 * 5.0}
+}
+fn property_table_entry_79() {
+    #{"id": 79, "factor": 79 * 1.414, "temp_k": 80.0 + 79 * 5.0}
+}
+fn property_table_entry_80() {
+    #{"id": 80, "factor": 80 * 1.414, "temp_k": 80.0 + 80 * 5.0}
+}
+fn property_table_entry_81() {
+    #{"id": 81, "factor": 81 * 1.414, "temp_k": 80.0 + 81 * 5.0}
+}
+fn property_table_entry_82() {
+    #{"id": 82, "factor": 82 * 1.414, "temp_k": 80.0 + 82 * 5.0}
+}
+fn property_table_entry_83() {
+    #{"id": 83, "factor": 83 * 1.414, "temp_k": 80.0 + 83 * 5.0}
+}
+fn property_table_entry_84() {
+    #{"id": 84, "factor": 84 * 1.414, "temp_k": 80.0 + 84 * 5.0}
+}

@@ -188,3 +188,163 @@ fn rotor_eigenvalue_node_44(stiffness) {
     let r = critical_whirling_speed_rpm(stiffness + 44 * 1.0e6, 12.0);
     #{"mode": 44, "crit_rpm": r}
 }
+fn rotor_eigenvalue_node_45(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 45 * 1.0e6, 12.0);
+    #{"mode": 45, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_46(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 46 * 1.0e6, 12.0);
+    #{"mode": 46, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_47(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 47 * 1.0e6, 12.0);
+    #{"mode": 47, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_48(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 48 * 1.0e6, 12.0);
+    #{"mode": 48, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_49(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 49 * 1.0e6, 12.0);
+    #{"mode": 49, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_50(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 50 * 1.0e6, 12.0);
+    #{"mode": 50, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_51(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 51 * 1.0e6, 12.0);
+    #{"mode": 51, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_52(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 52 * 1.0e6, 12.0);
+    #{"mode": 52, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_53(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 53 * 1.0e6, 12.0);
+    #{"mode": 53, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_54(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 54 * 1.0e6, 12.0);
+    #{"mode": 54, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_55(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 55 * 1.0e6, 12.0);
+    #{"mode": 55, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_56(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 56 * 1.0e6, 12.0);
+    #{"mode": 56, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_57(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 57 * 1.0e6, 12.0);
+    #{"mode": 57, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_58(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 58 * 1.0e6, 12.0);
+    #{"mode": 58, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_59(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 59 * 1.0e6, 12.0);
+    #{"mode": 59, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_60(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 60 * 1.0e6, 12.0);
+    #{"mode": 60, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_61(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 61 * 1.0e6, 12.0);
+    #{"mode": 61, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_62(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 62 * 1.0e6, 12.0);
+    #{"mode": 62, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_63(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 63 * 1.0e6, 12.0);
+    #{"mode": 63, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_64(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 64 * 1.0e6, 12.0);
+    #{"mode": 64, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_65(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 65 * 1.0e6, 12.0);
+    #{"mode": 65, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_66(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 66 * 1.0e6, 12.0);
+    #{"mode": 66, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_67(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 67 * 1.0e6, 12.0);
+    #{"mode": 67, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_68(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 68 * 1.0e6, 12.0);
+    #{"mode": 68, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_69(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 69 * 1.0e6, 12.0);
+    #{"mode": 69, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_70(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 70 * 1.0e6, 12.0);
+    #{"mode": 70, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_71(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 71 * 1.0e6, 12.0);
+    #{"mode": 71, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_72(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 72 * 1.0e6, 12.0);
+    #{"mode": 72, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_73(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 73 * 1.0e6, 12.0);
+    #{"mode": 73, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_74(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 74 * 1.0e6, 12.0);
+    #{"mode": 74, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_75(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 75 * 1.0e6, 12.0);
+    #{"mode": 75, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_76(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 76 * 1.0e6, 12.0);
+    #{"mode": 76, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_77(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 77 * 1.0e6, 12.0);
+    #{"mode": 77, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_78(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 78 * 1.0e6, 12.0);
+    #{"mode": 78, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_79(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 79 * 1.0e6, 12.0);
+    #{"mode": 79, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_80(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 80 * 1.0e6, 12.0);
+    #{"mode": 80, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_81(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 81 * 1.0e6, 12.0);
+    #{"mode": 81, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_82(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 82 * 1.0e6, 12.0);
+    #{"mode": 82, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_83(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 83 * 1.0e6, 12.0);
+    #{"mode": 83, "crit_rpm": r}
+}
+fn rotor_eigenvalue_node_84(stiffness) {
+    let r = critical_whirling_speed_rpm(stiffness + 84 * 1.0e6, 12.0);
+    #{"mode": 84, "crit_rpm": r}
+}

@@ -187,3 +187,163 @@ fn preflight_harness_check_44(volts) {
     let pass = volts >= 4.8 && volts <= 5.2;
     #{"harness": 44, "pass": pass}
 }
+fn preflight_harness_check_45(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 45, "pass": pass}
+}
+fn preflight_harness_check_46(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 46, "pass": pass}
+}
+fn preflight_harness_check_47(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 47, "pass": pass}
+}
+fn preflight_harness_check_48(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 48, "pass": pass}
+}
+fn preflight_harness_check_49(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 49, "pass": pass}
+}
+fn preflight_harness_check_50(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 50, "pass": pass}
+}
+fn preflight_harness_check_51(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 51, "pass": pass}
+}
+fn preflight_harness_check_52(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 52, "pass": pass}
+}
+fn preflight_harness_check_53(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 53, "pass": pass}
+}
+fn preflight_harness_check_54(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 54, "pass": pass}
+}
+fn preflight_harness_check_55(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 55, "pass": pass}
+}
+fn preflight_harness_check_56(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 56, "pass": pass}
+}
+fn preflight_harness_check_57(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 57, "pass": pass}
+}
+fn preflight_harness_check_58(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 58, "pass": pass}
+}
+fn preflight_harness_check_59(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 59, "pass": pass}
+}
+fn preflight_harness_check_60(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 60, "pass": pass}
+}
+fn preflight_harness_check_61(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 61, "pass": pass}
+}
+fn preflight_harness_check_62(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 62, "pass": pass}
+}
+fn preflight_harness_check_63(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 63, "pass": pass}
+}
+fn preflight_harness_check_64(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 64, "pass": pass}
+}
+fn preflight_harness_check_65(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 65, "pass": pass}
+}
+fn preflight_harness_check_66(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 66, "pass": pass}
+}
+fn preflight_harness_check_67(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 67, "pass": pass}
+}
+fn preflight_harness_check_68(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 68, "pass": pass}
+}
+fn preflight_harness_check_69(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 69, "pass": pass}
+}
+fn preflight_harness_check_70(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 70, "pass": pass}
+}
+fn preflight_harness_check_71(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 71, "pass": pass}
+}
+fn preflight_harness_check_72(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 72, "pass": pass}
+}
+fn preflight_harness_check_73(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 73, "pass": pass}
+}
+fn preflight_harness_check_74(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 74, "pass": pass}
+}
+fn preflight_harness_check_75(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 75, "pass": pass}
+}
+fn preflight_harness_check_76(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 76, "pass": pass}
+}
+fn preflight_harness_check_77(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 77, "pass": pass}
+}
+fn preflight_harness_check_78(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 78, "pass": pass}
+}
+fn preflight_harness_check_79(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 79, "pass": pass}
+}
+fn preflight_harness_check_80(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 80, "pass": pass}
+}
+fn preflight_harness_check_81(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 81, "pass": pass}
+}
+fn preflight_harness_check_82(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 82, "pass": pass}
+}
+fn preflight_harness_check_83(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 83, "pass": pass}
+}
+fn preflight_harness_check_84(volts) {
+    let pass = volts >= 4.8 && volts <= 5.2;
+    #{"harness": 84, "pass": pass}
+}

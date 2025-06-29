@@ -194,3 +194,163 @@ fn venturi_calibration_point_44(p_feed_bar) {
     let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 44 * 0.5, 1.0);
     #{"venturi": 44, "mass_flow_kg_s": m}
 }
+fn venturi_calibration_point_45(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 45 * 0.5, 1.0);
+    #{"venturi": 45, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_46(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 46 * 0.5, 1.0);
+    #{"venturi": 46, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_47(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 47 * 0.5, 1.0);
+    #{"venturi": 47, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_48(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 48 * 0.5, 1.0);
+    #{"venturi": 48, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_49(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 49 * 0.5, 1.0);
+    #{"venturi": 49, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_50(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 50 * 0.5, 1.0);
+    #{"venturi": 50, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_51(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 51 * 0.5, 1.0);
+    #{"venturi": 51, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_52(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 52 * 0.5, 1.0);
+    #{"venturi": 52, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_53(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 53 * 0.5, 1.0);
+    #{"venturi": 53, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_54(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 54 * 0.5, 1.0);
+    #{"venturi": 54, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_55(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 55 * 0.5, 1.0);
+    #{"venturi": 55, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_56(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 56 * 0.5, 1.0);
+    #{"venturi": 56, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_57(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 57 * 0.5, 1.0);
+    #{"venturi": 57, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_58(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 58 * 0.5, 1.0);
+    #{"venturi": 58, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_59(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 59 * 0.5, 1.0);
+    #{"venturi": 59, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_60(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 60 * 0.5, 1.0);
+    #{"venturi": 60, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_61(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 61 * 0.5, 1.0);
+    #{"venturi": 61, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_62(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 62 * 0.5, 1.0);
+    #{"venturi": 62, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_63(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 63 * 0.5, 1.0);
+    #{"venturi": 63, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_64(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 64 * 0.5, 1.0);
+    #{"venturi": 64, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_65(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 65 * 0.5, 1.0);
+    #{"venturi": 65, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_66(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 66 * 0.5, 1.0);
+    #{"venturi": 66, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_67(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 67 * 0.5, 1.0);
+    #{"venturi": 67, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_68(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 68 * 0.5, 1.0);
+    #{"venturi": 68, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_69(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 69 * 0.5, 1.0);
+    #{"venturi": 69, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_70(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 70 * 0.5, 1.0);
+    #{"venturi": 70, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_71(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 71 * 0.5, 1.0);
+    #{"venturi": 71, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_72(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 72 * 0.5, 1.0);
+    #{"venturi": 72, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_73(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 73 * 0.5, 1.0);
+    #{"venturi": 73, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_74(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 74 * 0.5, 1.0);
+    #{"venturi": 74, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_75(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 75 * 0.5, 1.0);
+    #{"venturi": 75, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_76(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 76 * 0.5, 1.0);
+    #{"venturi": 76, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_77(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 77 * 0.5, 1.0);
+    #{"venturi": 77, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_78(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 78 * 0.5, 1.0);
+    #{"venturi": 78, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_79(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 79 * 0.5, 1.0);
+    #{"venturi": 79, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_80(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 80 * 0.5, 1.0);
+    #{"venturi": 80, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_81(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 81 * 0.5, 1.0);
+    #{"venturi": 81, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_82(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 82 * 0.5, 1.0);
+    #{"venturi": 82, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_83(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 83 * 0.5, 1.0);
+    #{"venturi": 83, "mass_flow_kg_s": m}
+}
+fn venturi_calibration_point_84(p_feed_bar) {
+    let m = venturi_choked_mass_flow(0.96, 0.0005, 1141.0, p_feed_bar + 84 * 0.5, 1.0);
+    #{"venturi": 84, "mass_flow_kg_s": m}
+}

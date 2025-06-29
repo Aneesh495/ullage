@@ -200,3 +200,163 @@ fn voting_channel_group_44(s1, s2, s3) {
     let r = vote_2oo3(s1, s2, s3, 2.0 + 44 * 0.05);
     #{"group": 44, "voted_val": r.val}
 }
+fn voting_channel_group_45(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 45 * 0.05);
+    #{"group": 45, "voted_val": r.val}
+}
+fn voting_channel_group_46(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 46 * 0.05);
+    #{"group": 46, "voted_val": r.val}
+}
+fn voting_channel_group_47(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 47 * 0.05);
+    #{"group": 47, "voted_val": r.val}
+}
+fn voting_channel_group_48(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 48 * 0.05);
+    #{"group": 48, "voted_val": r.val}
+}
+fn voting_channel_group_49(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 49 * 0.05);
+    #{"group": 49, "voted_val": r.val}
+}
+fn voting_channel_group_50(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 50 * 0.05);
+    #{"group": 50, "voted_val": r.val}
+}
+fn voting_channel_group_51(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 51 * 0.05);
+    #{"group": 51, "voted_val": r.val}
+}
+fn voting_channel_group_52(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 52 * 0.05);
+    #{"group": 52, "voted_val": r.val}
+}
+fn voting_channel_group_53(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 53 * 0.05);
+    #{"group": 53, "voted_val": r.val}
+}
+fn voting_channel_group_54(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 54 * 0.05);
+    #{"group": 54, "voted_val": r.val}
+}
+fn voting_channel_group_55(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 55 * 0.05);
+    #{"group": 55, "voted_val": r.val}
+}
+fn voting_channel_group_56(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 56 * 0.05);
+    #{"group": 56, "voted_val": r.val}
+}
+fn voting_channel_group_57(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 57 * 0.05);
+    #{"group": 57, "voted_val": r.val}
+}
+fn voting_channel_group_58(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 58 * 0.05);
+    #{"group": 58, "voted_val": r.val}
+}
+fn voting_channel_group_59(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 59 * 0.05);
+    #{"group": 59, "voted_val": r.val}
+}
+fn voting_channel_group_60(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 60 * 0.05);
+    #{"group": 60, "voted_val": r.val}
+}
+fn voting_channel_group_61(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 61 * 0.05);
+    #{"group": 61, "voted_val": r.val}
+}
+fn voting_channel_group_62(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 62 * 0.05);
+    #{"group": 62, "voted_val": r.val}
+}
+fn voting_channel_group_63(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 63 * 0.05);
+    #{"group": 63, "voted_val": r.val}
+}
+fn voting_channel_group_64(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 64 * 0.05);
+    #{"group": 64, "voted_val": r.val}
+}
+fn voting_channel_group_65(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 65 * 0.05);
+    #{"group": 65, "voted_val": r.val}
+}
+fn voting_channel_group_66(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 66 * 0.05);
+    #{"group": 66, "voted_val": r.val}
+}
+fn voting_channel_group_67(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 67 * 0.05);
+    #{"group": 67, "voted_val": r.val}
+}
+fn voting_channel_group_68(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 68 * 0.05);
+    #{"group": 68, "voted_val": r.val}
+}
+fn voting_channel_group_69(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 69 * 0.05);
+    #{"group": 69, "voted_val": r.val}
+}
+fn voting_channel_group_70(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 70 * 0.05);
+    #{"group": 70, "voted_val": r.val}
+}
+fn voting_channel_group_71(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 71 * 0.05);
+    #{"group": 71, "voted_val": r.val}
+}
+fn voting_channel_group_72(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 72 * 0.05);
+    #{"group": 72, "voted_val": r.val}
+}
+fn voting_channel_group_73(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 73 * 0.05);
+    #{"group": 73, "voted_val": r.val}
+}
+fn voting_channel_group_74(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 74 * 0.05);
+    #{"group": 74, "voted_val": r.val}
+}
+fn voting_channel_group_75(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 75 * 0.05);
+    #{"group": 75, "voted_val": r.val}
+}
+fn voting_channel_group_76(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 76 * 0.05);
+    #{"group": 76, "voted_val": r.val}
+}
+fn voting_channel_group_77(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 77 * 0.05);
+    #{"group": 77, "voted_val": r.val}
+}
+fn voting_channel_group_78(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 78 * 0.05);
+    #{"group": 78, "voted_val": r.val}
+}
+fn voting_channel_group_79(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 79 * 0.05);
+    #{"group": 79, "voted_val": r.val}
+}
+fn voting_channel_group_80(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 80 * 0.05);
+    #{"group": 80, "voted_val": r.val}
+}
+fn voting_channel_group_81(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 81 * 0.05);
+    #{"group": 81, "voted_val": r.val}
+}
+fn voting_channel_group_82(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 82 * 0.05);
+    #{"group": 82, "voted_val": r.val}
+}
+fn voting_channel_group_83(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 83 * 0.05);
+    #{"group": 83, "voted_val": r.val}
+}
+fn voting_channel_group_84(s1, s2, s3) {
+    let r = vote_2oo3(s1, s2, s3, 2.0 + 84 * 0.05);
+    #{"group": 84, "voted_val": r.val}
+}

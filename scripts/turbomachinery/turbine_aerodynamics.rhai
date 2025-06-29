@@ -191,3 +191,163 @@ fn turbine_stage_power_44(mdot) {
     let p = turbine_shaft_power_kw(mdot, 200000.0 + 44 * 1000.0, 0.72);
     #{"stage": 44, "power_kw": p}
 }
+fn turbine_stage_power_45(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 45 * 1000.0, 0.72);
+    #{"stage": 45, "power_kw": p}
+}
+fn turbine_stage_power_46(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 46 * 1000.0, 0.72);
+    #{"stage": 46, "power_kw": p}
+}
+fn turbine_stage_power_47(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 47 * 1000.0, 0.72);
+    #{"stage": 47, "power_kw": p}
+}
+fn turbine_stage_power_48(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 48 * 1000.0, 0.72);
+    #{"stage": 48, "power_kw": p}
+}
+fn turbine_stage_power_49(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 49 * 1000.0, 0.72);
+    #{"stage": 49, "power_kw": p}
+}
+fn turbine_stage_power_50(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 50 * 1000.0, 0.72);
+    #{"stage": 50, "power_kw": p}
+}
+fn turbine_stage_power_51(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 51 * 1000.0, 0.72);
+    #{"stage": 51, "power_kw": p}
+}
+fn turbine_stage_power_52(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 52 * 1000.0, 0.72);
+    #{"stage": 52, "power_kw": p}
+}
+fn turbine_stage_power_53(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 53 * 1000.0, 0.72);
+    #{"stage": 53, "power_kw": p}
+}
+fn turbine_stage_power_54(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 54 * 1000.0, 0.72);
+    #{"stage": 54, "power_kw": p}
+}
+fn turbine_stage_power_55(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 55 * 1000.0, 0.72);
+    #{"stage": 55, "power_kw": p}
+}
+fn turbine_stage_power_56(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 56 * 1000.0, 0.72);
+    #{"stage": 56, "power_kw": p}
+}
+fn turbine_stage_power_57(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 57 * 1000.0, 0.72);
+    #{"stage": 57, "power_kw": p}
+}
+fn turbine_stage_power_58(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 58 * 1000.0, 0.72);
+    #{"stage": 58, "power_kw": p}
+}
+fn turbine_stage_power_59(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 59 * 1000.0, 0.72);
+    #{"stage": 59, "power_kw": p}
+}
+fn turbine_stage_power_60(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 60 * 1000.0, 0.72);
+    #{"stage": 60, "power_kw": p}
+}
+fn turbine_stage_power_61(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 61 * 1000.0, 0.72);
+    #{"stage": 61, "power_kw": p}
+}
+fn turbine_stage_power_62(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 62 * 1000.0, 0.72);
+    #{"stage": 62, "power_kw": p}
+}
+fn turbine_stage_power_63(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 63 * 1000.0, 0.72);
+    #{"stage": 63, "power_kw": p}
+}
+fn turbine_stage_power_64(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 64 * 1000.0, 0.72);
+    #{"stage": 64, "power_kw": p}
+}
+fn turbine_stage_power_65(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 65 * 1000.0, 0.72);
+    #{"stage": 65, "power_kw": p}
+}
+fn turbine_stage_power_66(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 66 * 1000.0, 0.72);
+    #{"stage": 66, "power_kw": p}
+}
+fn turbine_stage_power_67(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 67 * 1000.0, 0.72);
+    #{"stage": 67, "power_kw": p}
+}
+fn turbine_stage_power_68(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 68 * 1000.0, 0.72);
+    #{"stage": 68, "power_kw": p}
+}
+fn turbine_stage_power_69(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 69 * 1000.0, 0.72);
+    #{"stage": 69, "power_kw": p}
+}
+fn turbine_stage_power_70(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 70 * 1000.0, 0.72);
+    #{"stage": 70, "power_kw": p}
+}
+fn turbine_stage_power_71(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 71 * 1000.0, 0.72);
+    #{"stage": 71, "power_kw": p}
+}
+fn turbine_stage_power_72(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 72 * 1000.0, 0.72);
+    #{"stage": 72, "power_kw": p}
+}
+fn turbine_stage_power_73(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 73 * 1000.0, 0.72);
+    #{"stage": 73, "power_kw": p}
+}
+fn turbine_stage_power_74(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 74 * 1000.0, 0.72);
+    #{"stage": 74, "power_kw": p}
+}
+fn turbine_stage_power_75(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 75 * 1000.0, 0.72);
+    #{"stage": 75, "power_kw": p}
+}
+fn turbine_stage_power_76(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 76 * 1000.0, 0.72);
+    #{"stage": 76, "power_kw": p}
+}
+fn turbine_stage_power_77(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 77 * 1000.0, 0.72);
+    #{"stage": 77, "power_kw": p}
+}
+fn turbine_stage_power_78(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 78 * 1000.0, 0.72);
+    #{"stage": 78, "power_kw": p}
+}
+fn turbine_stage_power_79(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 79 * 1000.0, 0.72);
+    #{"stage": 79, "power_kw": p}
+}
+fn turbine_stage_power_80(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 80 * 1000.0, 0.72);
+    #{"stage": 80, "power_kw": p}
+}
+fn turbine_stage_power_81(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 81 * 1000.0, 0.72);
+    #{"stage": 81, "power_kw": p}
+}
+fn turbine_stage_power_82(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 82 * 1000.0, 0.72);
+    #{"stage": 82, "power_kw": p}
+}
+fn turbine_stage_power_83(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 83 * 1000.0, 0.72);
+    #{"stage": 83, "power_kw": p}
+}
+fn turbine_stage_power_84(mdot) {
+    let p = turbine_shaft_power_kw(mdot, 200000.0 + 84 * 1000.0, 0.72);
+    #{"stage": 84, "power_kw": p}
+}

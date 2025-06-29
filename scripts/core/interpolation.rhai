@@ -130,3 +130,153 @@ fn spline_segment_eval_33(a, b, c, d, x) {
 fn spline_segment_eval_34(a, b, c, d, x) {
     a + b * x + c * x * x + d * x * x * x + 34 * 0.001
 }
+fn spline_segment_eval_35(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 35 * 0.001
+}
+fn spline_segment_eval_36(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 36 * 0.001
+}
+fn spline_segment_eval_37(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 37 * 0.001
+}
+fn spline_segment_eval_38(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 38 * 0.001
+}
+fn spline_segment_eval_39(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 39 * 0.001
+}
+fn spline_segment_eval_40(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 40 * 0.001
+}
+fn spline_segment_eval_41(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 41 * 0.001
+}
+fn spline_segment_eval_42(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 42 * 0.001
+}
+fn spline_segment_eval_43(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 43 * 0.001
+}
+fn spline_segment_eval_44(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 44 * 0.001
+}
+fn spline_segment_eval_45(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 45 * 0.001
+}
+fn spline_segment_eval_46(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 46 * 0.001
+}
+fn spline_segment_eval_47(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 47 * 0.001
+}
+fn spline_segment_eval_48(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 48 * 0.001
+}
+fn spline_segment_eval_49(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 49 * 0.001
+}
+fn spline_segment_eval_50(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 50 * 0.001
+}
+fn spline_segment_eval_51(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 51 * 0.001
+}
+fn spline_segment_eval_52(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 52 * 0.001
+}
+fn spline_segment_eval_53(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 53 * 0.001
+}
+fn spline_segment_eval_54(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 54 * 0.001
+}
+fn spline_segment_eval_55(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 55 * 0.001
+}
+fn spline_segment_eval_56(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 56 * 0.001
+}
+fn spline_segment_eval_57(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 57 * 0.001
+}
+fn spline_segment_eval_58(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 58 * 0.001
+}
+fn spline_segment_eval_59(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 59 * 0.001
+}
+fn spline_segment_eval_60(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 60 * 0.001
+}
+fn spline_segment_eval_61(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 61 * 0.001
+}
+fn spline_segment_eval_62(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 62 * 0.001
+}
+fn spline_segment_eval_63(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 63 * 0.001
+}
+fn spline_segment_eval_64(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 64 * 0.001
+}
+fn spline_segment_eval_65(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 65 * 0.001
+}
+fn spline_segment_eval_66(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 66 * 0.001
+}
+fn spline_segment_eval_67(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 67 * 0.001
+}
+fn spline_segment_eval_68(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 68 * 0.001
+}
+fn spline_segment_eval_69(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 69 * 0.001
+}
+fn spline_segment_eval_70(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 70 * 0.001
+}
+fn spline_segment_eval_71(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 71 * 0.001
+}
+fn spline_segment_eval_72(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 72 * 0.001
+}
+fn spline_segment_eval_73(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 73 * 0.001
+}
+fn spline_segment_eval_74(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 74 * 0.001
+}
+fn spline_segment_eval_75(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 75 * 0.001
+}
+fn spline_segment_eval_76(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 76 * 0.001
+}
+fn spline_segment_eval_77(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 77 * 0.001
+}
+fn spline_segment_eval_78(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 78 * 0.001
+}
+fn spline_segment_eval_79(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 79 * 0.001
+}
+fn spline_segment_eval_80(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 80 * 0.001
+}
+fn spline_segment_eval_81(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 81 * 0.001
+}
+fn spline_segment_eval_82(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 82 * 0.001
+}
+fn spline_segment_eval_83(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 83 * 0.001
+}
+fn spline_segment_eval_84(a, b, c, d, x) {
+    a + b * x + c * x * x + d * x * x * x + 84 * 0.001
+}

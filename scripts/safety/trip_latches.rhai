@@ -241,3 +241,203 @@ fn trip_register_bank_44(val, ts) {
     let r = latch_first_trip(l, "CH_44", val, ts);
     #{"bank": 44, "latched": r.is_set}
 }
+fn trip_register_bank_45(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_45", val, ts);
+    #{"bank": 45, "latched": r.is_set}
+}
+fn trip_register_bank_46(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_46", val, ts);
+    #{"bank": 46, "latched": r.is_set}
+}
+fn trip_register_bank_47(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_47", val, ts);
+    #{"bank": 47, "latched": r.is_set}
+}
+fn trip_register_bank_48(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_48", val, ts);
+    #{"bank": 48, "latched": r.is_set}
+}
+fn trip_register_bank_49(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_49", val, ts);
+    #{"bank": 49, "latched": r.is_set}
+}
+fn trip_register_bank_50(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_50", val, ts);
+    #{"bank": 50, "latched": r.is_set}
+}
+fn trip_register_bank_51(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_51", val, ts);
+    #{"bank": 51, "latched": r.is_set}
+}
+fn trip_register_bank_52(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_52", val, ts);
+    #{"bank": 52, "latched": r.is_set}
+}
+fn trip_register_bank_53(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_53", val, ts);
+    #{"bank": 53, "latched": r.is_set}
+}
+fn trip_register_bank_54(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_54", val, ts);
+    #{"bank": 54, "latched": r.is_set}
+}
+fn trip_register_bank_55(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_55", val, ts);
+    #{"bank": 55, "latched": r.is_set}
+}
+fn trip_register_bank_56(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_56", val, ts);
+    #{"bank": 56, "latched": r.is_set}
+}
+fn trip_register_bank_57(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_57", val, ts);
+    #{"bank": 57, "latched": r.is_set}
+}
+fn trip_register_bank_58(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_58", val, ts);
+    #{"bank": 58, "latched": r.is_set}
+}
+fn trip_register_bank_59(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_59", val, ts);
+    #{"bank": 59, "latched": r.is_set}
+}
+fn trip_register_bank_60(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_60", val, ts);
+    #{"bank": 60, "latched": r.is_set}
+}
+fn trip_register_bank_61(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_61", val, ts);
+    #{"bank": 61, "latched": r.is_set}
+}
+fn trip_register_bank_62(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_62", val, ts);
+    #{"bank": 62, "latched": r.is_set}
+}
+fn trip_register_bank_63(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_63", val, ts);
+    #{"bank": 63, "latched": r.is_set}
+}
+fn trip_register_bank_64(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_64", val, ts);
+    #{"bank": 64, "latched": r.is_set}
+}
+fn trip_register_bank_65(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_65", val, ts);
+    #{"bank": 65, "latched": r.is_set}
+}
+fn trip_register_bank_66(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_66", val, ts);
+    #{"bank": 66, "latched": r.is_set}
+}
+fn trip_register_bank_67(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_67", val, ts);
+    #{"bank": 67, "latched": r.is_set}
+}
+fn trip_register_bank_68(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_68", val, ts);
+    #{"bank": 68, "latched": r.is_set}
+}
+fn trip_register_bank_69(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_69", val, ts);
+    #{"bank": 69, "latched": r.is_set}
+}
+fn trip_register_bank_70(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_70", val, ts);
+    #{"bank": 70, "latched": r.is_set}
+}
+fn trip_register_bank_71(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_71", val, ts);
+    #{"bank": 71, "latched": r.is_set}
+}
+fn trip_register_bank_72(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_72", val, ts);
+    #{"bank": 72, "latched": r.is_set}
+}
+fn trip_register_bank_73(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_73", val, ts);
+    #{"bank": 73, "latched": r.is_set}
+}
+fn trip_register_bank_74(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_74", val, ts);
+    #{"bank": 74, "latched": r.is_set}
+}
+fn trip_register_bank_75(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_75", val, ts);
+    #{"bank": 75, "latched": r.is_set}
+}
+fn trip_register_bank_76(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_76", val, ts);
+    #{"bank": 76, "latched": r.is_set}
+}
+fn trip_register_bank_77(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_77", val, ts);
+    #{"bank": 77, "latched": r.is_set}
+}
+fn trip_register_bank_78(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_78", val, ts);
+    #{"bank": 78, "latched": r.is_set}
+}
+fn trip_register_bank_79(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_79", val, ts);
+    #{"bank": 79, "latched": r.is_set}
+}
+fn trip_register_bank_80(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_80", val, ts);
+    #{"bank": 80, "latched": r.is_set}
+}
+fn trip_register_bank_81(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_81", val, ts);
+    #{"bank": 81, "latched": r.is_set}
+}
+fn trip_register_bank_82(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_82", val, ts);
+    #{"bank": 82, "latched": r.is_set}
+}
+fn trip_register_bank_83(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_83", val, ts);
+    #{"bank": 83, "latched": r.is_set}
+}
+fn trip_register_bank_84(val, ts) {
+    let l = #{"is_set": false, "parameter": "", "trip_val": 0.0, "timestamp_ns": 0};
+    let r = latch_first_trip(l, "CH_84", val, ts);
+    #{"bank": 84, "latched": r.is_set}
+}

@@ -189,3 +189,163 @@ fn governor_cycle_44(pc) {
     let r = govern_burn(pc, 80.0 + 44 * 0.1, 3.2, 3.2);
     #{"cycle": 44, "adj": r.throttle_adj}
 }
+fn governor_cycle_45(pc) {
+    let r = govern_burn(pc, 80.0 + 45 * 0.1, 3.2, 3.2);
+    #{"cycle": 45, "adj": r.throttle_adj}
+}
+fn governor_cycle_46(pc) {
+    let r = govern_burn(pc, 80.0 + 46 * 0.1, 3.2, 3.2);
+    #{"cycle": 46, "adj": r.throttle_adj}
+}
+fn governor_cycle_47(pc) {
+    let r = govern_burn(pc, 80.0 + 47 * 0.1, 3.2, 3.2);
+    #{"cycle": 47, "adj": r.throttle_adj}
+}
+fn governor_cycle_48(pc) {
+    let r = govern_burn(pc, 80.0 + 48 * 0.1, 3.2, 3.2);
+    #{"cycle": 48, "adj": r.throttle_adj}
+}
+fn governor_cycle_49(pc) {
+    let r = govern_burn(pc, 80.0 + 49 * 0.1, 3.2, 3.2);
+    #{"cycle": 49, "adj": r.throttle_adj}
+}
+fn governor_cycle_50(pc) {
+    let r = govern_burn(pc, 80.0 + 50 * 0.1, 3.2, 3.2);
+    #{"cycle": 50, "adj": r.throttle_adj}
+}
+fn governor_cycle_51(pc) {
+    let r = govern_burn(pc, 80.0 + 51 * 0.1, 3.2, 3.2);
+    #{"cycle": 51, "adj": r.throttle_adj}
+}
+fn governor_cycle_52(pc) {
+    let r = govern_burn(pc, 80.0 + 52 * 0.1, 3.2, 3.2);
+    #{"cycle": 52, "adj": r.throttle_adj}
+}
+fn governor_cycle_53(pc) {
+    let r = govern_burn(pc, 80.0 + 53 * 0.1, 3.2, 3.2);
+    #{"cycle": 53, "adj": r.throttle_adj}
+}
+fn governor_cycle_54(pc) {
+    let r = govern_burn(pc, 80.0 + 54 * 0.1, 3.2, 3.2);
+    #{"cycle": 54, "adj": r.throttle_adj}
+}
+fn governor_cycle_55(pc) {
+    let r = govern_burn(pc, 80.0 + 55 * 0.1, 3.2, 3.2);
+    #{"cycle": 55, "adj": r.throttle_adj}
+}
+fn governor_cycle_56(pc) {
+    let r = govern_burn(pc, 80.0 + 56 * 0.1, 3.2, 3.2);
+    #{"cycle": 56, "adj": r.throttle_adj}
+}
+fn governor_cycle_57(pc) {
+    let r = govern_burn(pc, 80.0 + 57 * 0.1, 3.2, 3.2);
+    #{"cycle": 57, "adj": r.throttle_adj}
+}
+fn governor_cycle_58(pc) {
+    let r = govern_burn(pc, 80.0 + 58 * 0.1, 3.2, 3.2);
+    #{"cycle": 58, "adj": r.throttle_adj}
+}
+fn governor_cycle_59(pc) {
+    let r = govern_burn(pc, 80.0 + 59 * 0.1, 3.2, 3.2);
+    #{"cycle": 59, "adj": r.throttle_adj}
+}
+fn governor_cycle_60(pc) {
+    let r = govern_burn(pc, 80.0 + 60 * 0.1, 3.2, 3.2);
+    #{"cycle": 60, "adj": r.throttle_adj}
+}
+fn governor_cycle_61(pc) {
+    let r = govern_burn(pc, 80.0 + 61 * 0.1, 3.2, 3.2);
+    #{"cycle": 61, "adj": r.throttle_adj}
+}
+fn governor_cycle_62(pc) {
+    let r = govern_burn(pc, 80.0 + 62 * 0.1, 3.2, 3.2);
+    #{"cycle": 62, "adj": r.throttle_adj}
+}
+fn governor_cycle_63(pc) {
+    let r = govern_burn(pc, 80.0 + 63 * 0.1, 3.2, 3.2);
+    #{"cycle": 63, "adj": r.throttle_adj}
+}
+fn governor_cycle_64(pc) {
+    let r = govern_burn(pc, 80.0 + 64 * 0.1, 3.2, 3.2);
+    #{"cycle": 64, "adj": r.throttle_adj}
+}
+fn governor_cycle_65(pc) {
+    let r = govern_burn(pc, 80.0 + 65 * 0.1, 3.2, 3.2);
+    #{"cycle": 65, "adj": r.throttle_adj}
+}
+fn governor_cycle_66(pc) {
+    let r = govern_burn(pc, 80.0 + 66 * 0.1, 3.2, 3.2);
+    #{"cycle": 66, "adj": r.throttle_adj}
+}
+fn governor_cycle_67(pc) {
+    let r = govern_burn(pc, 80.0 + 67 * 0.1, 3.2, 3.2);
+    #{"cycle": 67, "adj": r.throttle_adj}
+}
+fn governor_cycle_68(pc) {
+    let r = govern_burn(pc, 80.0 + 68 * 0.1, 3.2, 3.2);
+    #{"cycle": 68, "adj": r.throttle_adj}
+}
+fn governor_cycle_69(pc) {
+    let r = govern_burn(pc, 80.0 + 69 * 0.1, 3.2, 3.2);
+    #{"cycle": 69, "adj": r.throttle_adj}
+}
+fn governor_cycle_70(pc) {
+    let r = govern_burn(pc, 80.0 + 70 * 0.1, 3.2, 3.2);
+    #{"cycle": 70, "adj": r.throttle_adj}
+}
+fn governor_cycle_71(pc) {
+    let r = govern_burn(pc, 80.0 + 71 * 0.1, 3.2, 3.2);
+    #{"cycle": 71, "adj": r.throttle_adj}
+}
+fn governor_cycle_72(pc) {
+    let r = govern_burn(pc, 80.0 + 72 * 0.1, 3.2, 3.2);
+    #{"cycle": 72, "adj": r.throttle_adj}
+}
+fn governor_cycle_73(pc) {
+    let r = govern_burn(pc, 80.0 + 73 * 0.1, 3.2, 3.2);
+    #{"cycle": 73, "adj": r.throttle_adj}
+}
+fn governor_cycle_74(pc) {
+    let r = govern_burn(pc, 80.0 + 74 * 0.1, 3.2, 3.2);
+    #{"cycle": 74, "adj": r.throttle_adj}
+}
+fn governor_cycle_75(pc) {
+    let r = govern_burn(pc, 80.0 + 75 * 0.1, 3.2, 3.2);
+    #{"cycle": 75, "adj": r.throttle_adj}
+}
+fn governor_cycle_76(pc) {
+    let r = govern_burn(pc, 80.0 + 76 * 0.1, 3.2, 3.2);
+    #{"cycle": 76, "adj": r.throttle_adj}
+}
+fn governor_cycle_77(pc) {
+    let r = govern_burn(pc, 80.0 + 77 * 0.1, 3.2, 3.2);
+    #{"cycle": 77, "adj": r.throttle_adj}
+}
+fn governor_cycle_78(pc) {
+    let r = govern_burn(pc, 80.0 + 78 * 0.1, 3.2, 3.2);
+    #{"cycle": 78, "adj": r.throttle_adj}
+}
+fn governor_cycle_79(pc) {
+    let r = govern_burn(pc, 80.0 + 79 * 0.1, 3.2, 3.2);
+    #{"cycle": 79, "adj": r.throttle_adj}
+}
+fn governor_cycle_80(pc) {
+    let r = govern_burn(pc, 80.0 + 80 * 0.1, 3.2, 3.2);
+    #{"cycle": 80, "adj": r.throttle_adj}
+}
+fn governor_cycle_81(pc) {
+    let r = govern_burn(pc, 80.0 + 81 * 0.1, 3.2, 3.2);
+    #{"cycle": 81, "adj": r.throttle_adj}
+}
+fn governor_cycle_82(pc) {
+    let r = govern_burn(pc, 80.0 + 82 * 0.1, 3.2, 3.2);
+    #{"cycle": 82, "adj": r.throttle_adj}
+}
+fn governor_cycle_83(pc) {
+    let r = govern_burn(pc, 80.0 + 83 * 0.1, 3.2, 3.2);
+    #{"cycle": 83, "adj": r.throttle_adj}
+}
+fn governor_cycle_84(pc) {
+    let r = govern_burn(pc, 80.0 + 84 * 0.1, 3.2, 3.2);
+    #{"cycle": 84, "adj": r.throttle_adj}
+}

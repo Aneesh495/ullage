@@ -246,3 +246,203 @@ fn nozzle_expansion_case_44(mdot, v_e) {
     let isp = specific_impulse_seconds(t_kn, mdot);
     #{"case": 44, "thrust_kn": t_kn, "isp_sec": isp}
 }
+fn nozzle_expansion_case_45(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 45 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 45, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_46(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 46 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 46, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_47(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 47 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 47, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_48(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 48 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 48, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_49(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 49 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 49, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_50(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 50 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 50, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_51(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 51 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 51, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_52(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 52 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 52, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_53(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 53 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 53, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_54(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 54 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 54, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_55(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 55 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 55, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_56(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 56 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 56, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_57(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 57 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 57, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_58(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 58 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 58, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_59(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 59 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 59, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_60(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 60 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 60, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_61(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 61 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 61, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_62(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 62 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 62, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_63(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 63 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 63, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_64(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 64 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 64, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_65(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 65 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 65, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_66(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 66 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 66, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_67(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 67 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 67, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_68(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 68 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 68, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_69(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 69 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 69, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_70(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 70 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 70, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_71(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 71 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 71, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_72(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 72 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 72, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_73(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 73 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 73, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_74(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 74 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 74, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_75(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 75 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 75, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_76(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 76 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 76, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_77(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 77 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 77, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_78(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 78 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 78, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_79(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 79 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 79, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_80(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 80 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 80, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_81(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 81 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 81, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_82(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 82 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 82, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_83(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 83 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 83, "thrust_kn": t_kn, "isp_sec": isp}
+}
+fn nozzle_expansion_case_84(mdot, v_e) {
+    let t_kn = vacuum_thrust_kn(mdot, v_e + 84 * 2.0, 0.05, 0.5);
+    let isp = specific_impulse_seconds(t_kn, mdot);
+    #{"case": 84, "thrust_kn": t_kn, "isp_sec": isp}
+}

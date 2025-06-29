@@ -191,3 +191,163 @@ fn seal_cavity_leak_44(p_in) {
     let l = labyrinth_seal_leakage_kg_s(p_in + 44 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
     #{"cavity": 44, "leak_kg_s": l}
 }
+fn seal_cavity_leak_45(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 45 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 45, "leak_kg_s": l}
+}
+fn seal_cavity_leak_46(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 46 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 46, "leak_kg_s": l}
+}
+fn seal_cavity_leak_47(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 47 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 47, "leak_kg_s": l}
+}
+fn seal_cavity_leak_48(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 48 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 48, "leak_kg_s": l}
+}
+fn seal_cavity_leak_49(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 49 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 49, "leak_kg_s": l}
+}
+fn seal_cavity_leak_50(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 50 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 50, "leak_kg_s": l}
+}
+fn seal_cavity_leak_51(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 51 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 51, "leak_kg_s": l}
+}
+fn seal_cavity_leak_52(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 52 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 52, "leak_kg_s": l}
+}
+fn seal_cavity_leak_53(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 53 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 53, "leak_kg_s": l}
+}
+fn seal_cavity_leak_54(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 54 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 54, "leak_kg_s": l}
+}
+fn seal_cavity_leak_55(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 55 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 55, "leak_kg_s": l}
+}
+fn seal_cavity_leak_56(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 56 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 56, "leak_kg_s": l}
+}
+fn seal_cavity_leak_57(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 57 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 57, "leak_kg_s": l}
+}
+fn seal_cavity_leak_58(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 58 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 58, "leak_kg_s": l}
+}
+fn seal_cavity_leak_59(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 59 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 59, "leak_kg_s": l}
+}
+fn seal_cavity_leak_60(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 60 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 60, "leak_kg_s": l}
+}
+fn seal_cavity_leak_61(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 61 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 61, "leak_kg_s": l}
+}
+fn seal_cavity_leak_62(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 62 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 62, "leak_kg_s": l}
+}
+fn seal_cavity_leak_63(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 63 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 63, "leak_kg_s": l}
+}
+fn seal_cavity_leak_64(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 64 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 64, "leak_kg_s": l}
+}
+fn seal_cavity_leak_65(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 65 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 65, "leak_kg_s": l}
+}
+fn seal_cavity_leak_66(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 66 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 66, "leak_kg_s": l}
+}
+fn seal_cavity_leak_67(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 67 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 67, "leak_kg_s": l}
+}
+fn seal_cavity_leak_68(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 68 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 68, "leak_kg_s": l}
+}
+fn seal_cavity_leak_69(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 69 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 69, "leak_kg_s": l}
+}
+fn seal_cavity_leak_70(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 70 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 70, "leak_kg_s": l}
+}
+fn seal_cavity_leak_71(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 71 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 71, "leak_kg_s": l}
+}
+fn seal_cavity_leak_72(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 72 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 72, "leak_kg_s": l}
+}
+fn seal_cavity_leak_73(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 73 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 73, "leak_kg_s": l}
+}
+fn seal_cavity_leak_74(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 74 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 74, "leak_kg_s": l}
+}
+fn seal_cavity_leak_75(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 75 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 75, "leak_kg_s": l}
+}
+fn seal_cavity_leak_76(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 76 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 76, "leak_kg_s": l}
+}
+fn seal_cavity_leak_77(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 77 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 77, "leak_kg_s": l}
+}
+fn seal_cavity_leak_78(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 78 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 78, "leak_kg_s": l}
+}
+fn seal_cavity_leak_79(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 79 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 79, "leak_kg_s": l}
+}
+fn seal_cavity_leak_80(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 80 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 80, "leak_kg_s": l}
+}
+fn seal_cavity_leak_81(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 81 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 81, "leak_kg_s": l}
+}
+fn seal_cavity_leak_82(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 82 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 82, "leak_kg_s": l}
+}
+fn seal_cavity_leak_83(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 83 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 83, "leak_kg_s": l}
+}
+fn seal_cavity_leak_84(p_in) {
+    let l = labyrinth_seal_leakage_kg_s(p_in + 84 * 0.2, 5.0, 0.08, 0.0001, 8, 1141.0);
+    #{"cavity": 84, "leak_kg_s": l}
+}

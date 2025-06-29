@@ -196,3 +196,163 @@ fn two_phase_slice_44(x_qual) {
     let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 44 * 0.1);
     #{"slice": 44, "rho_effective": rho_eff}
 }
+fn two_phase_slice_45(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 45 * 0.1);
+    #{"slice": 45, "rho_effective": rho_eff}
+}
+fn two_phase_slice_46(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 46 * 0.1);
+    #{"slice": 46, "rho_effective": rho_eff}
+}
+fn two_phase_slice_47(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 47 * 0.1);
+    #{"slice": 47, "rho_effective": rho_eff}
+}
+fn two_phase_slice_48(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 48 * 0.1);
+    #{"slice": 48, "rho_effective": rho_eff}
+}
+fn two_phase_slice_49(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 49 * 0.1);
+    #{"slice": 49, "rho_effective": rho_eff}
+}
+fn two_phase_slice_50(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 50 * 0.1);
+    #{"slice": 50, "rho_effective": rho_eff}
+}
+fn two_phase_slice_51(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 51 * 0.1);
+    #{"slice": 51, "rho_effective": rho_eff}
+}
+fn two_phase_slice_52(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 52 * 0.1);
+    #{"slice": 52, "rho_effective": rho_eff}
+}
+fn two_phase_slice_53(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 53 * 0.1);
+    #{"slice": 53, "rho_effective": rho_eff}
+}
+fn two_phase_slice_54(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 54 * 0.1);
+    #{"slice": 54, "rho_effective": rho_eff}
+}
+fn two_phase_slice_55(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 55 * 0.1);
+    #{"slice": 55, "rho_effective": rho_eff}
+}
+fn two_phase_slice_56(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 56 * 0.1);
+    #{"slice": 56, "rho_effective": rho_eff}
+}
+fn two_phase_slice_57(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 57 * 0.1);
+    #{"slice": 57, "rho_effective": rho_eff}
+}
+fn two_phase_slice_58(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 58 * 0.1);
+    #{"slice": 58, "rho_effective": rho_eff}
+}
+fn two_phase_slice_59(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 59 * 0.1);
+    #{"slice": 59, "rho_effective": rho_eff}
+}
+fn two_phase_slice_60(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 60 * 0.1);
+    #{"slice": 60, "rho_effective": rho_eff}
+}
+fn two_phase_slice_61(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 61 * 0.1);
+    #{"slice": 61, "rho_effective": rho_eff}
+}
+fn two_phase_slice_62(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 62 * 0.1);
+    #{"slice": 62, "rho_effective": rho_eff}
+}
+fn two_phase_slice_63(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 63 * 0.1);
+    #{"slice": 63, "rho_effective": rho_eff}
+}
+fn two_phase_slice_64(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 64 * 0.1);
+    #{"slice": 64, "rho_effective": rho_eff}
+}
+fn two_phase_slice_65(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 65 * 0.1);
+    #{"slice": 65, "rho_effective": rho_eff}
+}
+fn two_phase_slice_66(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 66 * 0.1);
+    #{"slice": 66, "rho_effective": rho_eff}
+}
+fn two_phase_slice_67(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 67 * 0.1);
+    #{"slice": 67, "rho_effective": rho_eff}
+}
+fn two_phase_slice_68(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 68 * 0.1);
+    #{"slice": 68, "rho_effective": rho_eff}
+}
+fn two_phase_slice_69(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 69 * 0.1);
+    #{"slice": 69, "rho_effective": rho_eff}
+}
+fn two_phase_slice_70(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 70 * 0.1);
+    #{"slice": 70, "rho_effective": rho_eff}
+}
+fn two_phase_slice_71(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 71 * 0.1);
+    #{"slice": 71, "rho_effective": rho_eff}
+}
+fn two_phase_slice_72(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 72 * 0.1);
+    #{"slice": 72, "rho_effective": rho_eff}
+}
+fn two_phase_slice_73(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 73 * 0.1);
+    #{"slice": 73, "rho_effective": rho_eff}
+}
+fn two_phase_slice_74(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 74 * 0.1);
+    #{"slice": 74, "rho_effective": rho_eff}
+}
+fn two_phase_slice_75(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 75 * 0.1);
+    #{"slice": 75, "rho_effective": rho_eff}
+}
+fn two_phase_slice_76(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 76 * 0.1);
+    #{"slice": 76, "rho_effective": rho_eff}
+}
+fn two_phase_slice_77(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 77 * 0.1);
+    #{"slice": 77, "rho_effective": rho_eff}
+}
+fn two_phase_slice_78(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 78 * 0.1);
+    #{"slice": 78, "rho_effective": rho_eff}
+}
+fn two_phase_slice_79(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 79 * 0.1);
+    #{"slice": 79, "rho_effective": rho_eff}
+}
+fn two_phase_slice_80(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 80 * 0.1);
+    #{"slice": 80, "rho_effective": rho_eff}
+}
+fn two_phase_slice_81(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 81 * 0.1);
+    #{"slice": 81, "rho_effective": rho_eff}
+}
+fn two_phase_slice_82(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 82 * 0.1);
+    #{"slice": 82, "rho_effective": rho_eff}
+}
+fn two_phase_slice_83(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 83 * 0.1);
+    #{"slice": 83, "rho_effective": rho_eff}
+}
+fn two_phase_slice_84(x_qual) {
+    let rho_eff = two_phase_density(x_qual, 1141.0, 4.5 + 84 * 0.1);
+    #{"slice": 84, "rho_effective": rho_eff}
+}

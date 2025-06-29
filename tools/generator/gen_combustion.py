@@ -41,7 +41,7 @@ def gen_equilibrium():
     lines.append("}")
     lines.append("if verify_equilibrium() { log_info(\"[COMBUSTION::EQUILIBRIUM] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn equilibrium_slice_{i}(of, pc) {{")
         lines.append(f"    let t = cea_chamber_temp_k(of, pc + {i} * 0.1);")
         lines.append(f"    let m = cea_molar_mass_exhaust(of);")
@@ -79,7 +79,7 @@ def gen_cstar():
     lines.append("}")
     lines.append("if verify_cstar() { log_info(\"[COMBUSTION::CSTAR] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn cstar_operating_point_{i}(pc_bar, mdot) {{")
         lines.append(f"    let c = delivered_cstar(pc_bar, 0.008 + {i} * 0.0001, mdot);")
         lines.append(f"    #{{\"point\": {i}, \"cstar_m_s\": c}}")
@@ -118,7 +118,7 @@ def gen_isp():
     lines.append("}")
     lines.append("if verify_isp() { log_info(\"[COMBUSTION::ISP] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn nozzle_expansion_case_{i}(mdot, v_e) {{")
         lines.append(f"    let t_kn = vacuum_thrust_kn(mdot, v_e + {i} * 2.0, 0.05, 0.5);")
         lines.append(f"    let isp = specific_impulse_seconds(t_kn, mdot);")
@@ -152,7 +152,7 @@ def gen_pintle_geometry():
     lines.append("}")
     lines.append("if verify_pintle_geometry() { log_info(\"[COMBUSTION::PINTLE_GEOMETRY] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn pintle_geometry_stroke_{i}(pct) {{")
         lines.append(f"    let s = pintle_stroke_from_throttle(pct, 20.0 + {i} * 0.1);")
         lines.append(f"    let a = pintle_annular_area_sq_m(0.04, s, 45.0);")
@@ -178,7 +178,7 @@ def gen_annular_gap():
     lines.append("}")
     lines.append("if verify_annular_gap() { log_info(\"[COMBUSTION::ANNULAR_GAP] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn annular_gap_velocity_{i}(mdot, rho) {{")
         lines.append(f"    let v = injection_velocity_m_s(mdot, rho, 0.0005 * (1.0 + {i} * 0.01), 0.85);")
         lines.append(f"    #{{\"slot\": {i}, \"velocity\": v}}")
@@ -211,7 +211,7 @@ def gen_spray_momentum():
     lines.append("}")
     lines.append("if verify_spray_momentum() { log_info(\"[COMBUSTION::SPRAY_MOMENTUM] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn tmr_sweep_point_{i}(m_ox, m_fuel) {{")
         lines.append(f"    let tmr = total_momentum_ratio(m_ox, 25.0 + {i} * 0.2, m_fuel, 25.0);")
         lines.append(f"    let ang = spray_half_angle_deg(tmr);")
@@ -240,7 +240,7 @@ def gen_droplet_atomization():
     lines.append("}")
     lines.append("if verify_atomization() { log_info(\"[COMBUSTION::DROPLET_ATOMIZATION] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn droplet_spectrum_bin_{i}(v_rel) {{")
         lines.append(f"    let d32 = sauter_mean_diameter_microns(0.015, 0.0001, 10.0, v_rel + {i} * 0.5, 0.5);")
         lines.append(f"    #{{\"bin\": {i}, \"d32_microns\": d32}}")
@@ -267,7 +267,7 @@ def gen_heat_flux():
     lines.append("}")
     lines.append("if verify_heat_flux() { log_info(\"[COMBUSTION::HEAT_FLUX] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn throat_thermal_station_{i}(mach) {{")
         lines.append(f"    let h = bartz_heat_transfer_coeff(1800.0, 0.10, 50.0, 2500.0, 0.75, mach + {i} * 0.01);")
         lines.append(f"    #{{\"station\": {i}, \"hg_w_m2_k\": h}}")
@@ -297,7 +297,7 @@ def gen_chug_stability():
     lines.append("}")
     lines.append("if verify_chug_stability() { log_info(\"[COMBUSTION::CHUG_STABILITY] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn chug_stability_check_{i}(dp, pc) {{")
         lines.append(f"    let f = chug_frequency_hz(dp + {i} * 0.1, pc, 0.002, 1800.0);")
         lines.append(f"    #{{\"mode\": {i}, \"freq_hz\": f}}")
@@ -327,7 +327,7 @@ def gen_acoustic_modes():
     lines.append("}")
     lines.append("if verify_acoustic_modes() { log_info(\"[COMBUSTION::ACOUSTIC_MODES] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn acoustic_mode_spectrum_{i}(diam) {{")
         lines.append(f"    let f = cavity_eigenfrequency_1t(diam, 1100.0 + {i} * 10.0);")
         lines.append(f"    #{{\"mode_index\": {i}, \"freq_1t\": f}}")
@@ -352,7 +352,7 @@ def gen_film_cooling():
     lines.append("}")
     lines.append("if verify_film_cooling() { log_info(\"[COMBUSTION::FILM_COOLING] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn film_decay_node_{i}(mdot) {{")
         lines.append(f"    let l = film_cooling_length_m(mdot, 0.60, 2.0e6 + {i} * 10000.0, 5.0e5);")
         lines.append(f"    #{{\"node\": {i}, \"film_length_m\": l}}")

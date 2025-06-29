@@ -149,3 +149,123 @@ fn qual_burn_slice_43() {
 fn qual_burn_slice_44() {
     #{"slice": 44, "duration_s": 44 * 2.5}
 }
+fn qual_burn_slice_45() {
+    #{"slice": 45, "duration_s": 45 * 2.5}
+}
+fn qual_burn_slice_46() {
+    #{"slice": 46, "duration_s": 46 * 2.5}
+}
+fn qual_burn_slice_47() {
+    #{"slice": 47, "duration_s": 47 * 2.5}
+}
+fn qual_burn_slice_48() {
+    #{"slice": 48, "duration_s": 48 * 2.5}
+}
+fn qual_burn_slice_49() {
+    #{"slice": 49, "duration_s": 49 * 2.5}
+}
+fn qual_burn_slice_50() {
+    #{"slice": 50, "duration_s": 50 * 2.5}
+}
+fn qual_burn_slice_51() {
+    #{"slice": 51, "duration_s": 51 * 2.5}
+}
+fn qual_burn_slice_52() {
+    #{"slice": 52, "duration_s": 52 * 2.5}
+}
+fn qual_burn_slice_53() {
+    #{"slice": 53, "duration_s": 53 * 2.5}
+}
+fn qual_burn_slice_54() {
+    #{"slice": 54, "duration_s": 54 * 2.5}
+}
+fn qual_burn_slice_55() {
+    #{"slice": 55, "duration_s": 55 * 2.5}
+}
+fn qual_burn_slice_56() {
+    #{"slice": 56, "duration_s": 56 * 2.5}
+}
+fn qual_burn_slice_57() {
+    #{"slice": 57, "duration_s": 57 * 2.5}
+}
+fn qual_burn_slice_58() {
+    #{"slice": 58, "duration_s": 58 * 2.5}
+}
+fn qual_burn_slice_59() {
+    #{"slice": 59, "duration_s": 59 * 2.5}
+}
+fn qual_burn_slice_60() {
+    #{"slice": 60, "duration_s": 60 * 2.5}
+}
+fn qual_burn_slice_61() {
+    #{"slice": 61, "duration_s": 61 * 2.5}
+}
+fn qual_burn_slice_62() {
+    #{"slice": 62, "duration_s": 62 * 2.5}
+}
+fn qual_burn_slice_63() {
+    #{"slice": 63, "duration_s": 63 * 2.5}
+}
+fn qual_burn_slice_64() {
+    #{"slice": 64, "duration_s": 64 * 2.5}
+}
+fn qual_burn_slice_65() {
+    #{"slice": 65, "duration_s": 65 * 2.5}
+}
+fn qual_burn_slice_66() {
+    #{"slice": 66, "duration_s": 66 * 2.5}
+}
+fn qual_burn_slice_67() {
+    #{"slice": 67, "duration_s": 67 * 2.5}
+}
+fn qual_burn_slice_68() {
+    #{"slice": 68, "duration_s": 68 * 2.5}
+}
+fn qual_burn_slice_69() {
+    #{"slice": 69, "duration_s": 69 * 2.5}
+}
+fn qual_burn_slice_70() {
+    #{"slice": 70, "duration_s": 70 * 2.5}
+}
+fn qual_burn_slice_71() {
+    #{"slice": 71, "duration_s": 71 * 2.5}
+}
+fn qual_burn_slice_72() {
+    #{"slice": 72, "duration_s": 72 * 2.5}
+}
+fn qual_burn_slice_73() {
+    #{"slice": 73, "duration_s": 73 * 2.5}
+}
+fn qual_burn_slice_74() {
+    #{"slice": 74, "duration_s": 74 * 2.5}
+}
+fn qual_burn_slice_75() {
+    #{"slice": 75, "duration_s": 75 * 2.5}
+}
+fn qual_burn_slice_76() {
+    #{"slice": 76, "duration_s": 76 * 2.5}
+}
+fn qual_burn_slice_77() {
+    #{"slice": 77, "duration_s": 77 * 2.5}
+}
+fn qual_burn_slice_78() {
+    #{"slice": 78, "duration_s": 78 * 2.5}
+}
+fn qual_burn_slice_79() {
+    #{"slice": 79, "duration_s": 79 * 2.5}
+}
+fn qual_burn_slice_80() {
+    #{"slice": 80, "duration_s": 80 * 2.5}
+}
+fn qual_burn_slice_81() {
+    #{"slice": 81, "duration_s": 81 * 2.5}
+}
+fn qual_burn_slice_82() {
+    #{"slice": 82, "duration_s": 82 * 2.5}
+}
+fn qual_burn_slice_83() {
+    #{"slice": 83, "duration_s": 83 * 2.5}
+}
+fn qual_burn_slice_84() {
+    #{"slice": 84, "duration_s": 84 * 2.5}
+}

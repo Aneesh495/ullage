@@ -187,3 +187,163 @@ fn thermal_safing_probe_44(temp_k) {
     let s = is_soakback_safe(temp_k, 250.0 + 44 * 1.0);
     #{"probe": 44, "safe": s}
 }
+fn thermal_safing_probe_45(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 45 * 1.0);
+    #{"probe": 45, "safe": s}
+}
+fn thermal_safing_probe_46(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 46 * 1.0);
+    #{"probe": 46, "safe": s}
+}
+fn thermal_safing_probe_47(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 47 * 1.0);
+    #{"probe": 47, "safe": s}
+}
+fn thermal_safing_probe_48(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 48 * 1.0);
+    #{"probe": 48, "safe": s}
+}
+fn thermal_safing_probe_49(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 49 * 1.0);
+    #{"probe": 49, "safe": s}
+}
+fn thermal_safing_probe_50(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 50 * 1.0);
+    #{"probe": 50, "safe": s}
+}
+fn thermal_safing_probe_51(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 51 * 1.0);
+    #{"probe": 51, "safe": s}
+}
+fn thermal_safing_probe_52(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 52 * 1.0);
+    #{"probe": 52, "safe": s}
+}
+fn thermal_safing_probe_53(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 53 * 1.0);
+    #{"probe": 53, "safe": s}
+}
+fn thermal_safing_probe_54(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 54 * 1.0);
+    #{"probe": 54, "safe": s}
+}
+fn thermal_safing_probe_55(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 55 * 1.0);
+    #{"probe": 55, "safe": s}
+}
+fn thermal_safing_probe_56(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 56 * 1.0);
+    #{"probe": 56, "safe": s}
+}
+fn thermal_safing_probe_57(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 57 * 1.0);
+    #{"probe": 57, "safe": s}
+}
+fn thermal_safing_probe_58(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 58 * 1.0);
+    #{"probe": 58, "safe": s}
+}
+fn thermal_safing_probe_59(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 59 * 1.0);
+    #{"probe": 59, "safe": s}
+}
+fn thermal_safing_probe_60(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 60 * 1.0);
+    #{"probe": 60, "safe": s}
+}
+fn thermal_safing_probe_61(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 61 * 1.0);
+    #{"probe": 61, "safe": s}
+}
+fn thermal_safing_probe_62(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 62 * 1.0);
+    #{"probe": 62, "safe": s}
+}
+fn thermal_safing_probe_63(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 63 * 1.0);
+    #{"probe": 63, "safe": s}
+}
+fn thermal_safing_probe_64(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 64 * 1.0);
+    #{"probe": 64, "safe": s}
+}
+fn thermal_safing_probe_65(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 65 * 1.0);
+    #{"probe": 65, "safe": s}
+}
+fn thermal_safing_probe_66(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 66 * 1.0);
+    #{"probe": 66, "safe": s}
+}
+fn thermal_safing_probe_67(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 67 * 1.0);
+    #{"probe": 67, "safe": s}
+}
+fn thermal_safing_probe_68(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 68 * 1.0);
+    #{"probe": 68, "safe": s}
+}
+fn thermal_safing_probe_69(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 69 * 1.0);
+    #{"probe": 69, "safe": s}
+}
+fn thermal_safing_probe_70(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 70 * 1.0);
+    #{"probe": 70, "safe": s}
+}
+fn thermal_safing_probe_71(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 71 * 1.0);
+    #{"probe": 71, "safe": s}
+}
+fn thermal_safing_probe_72(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 72 * 1.0);
+    #{"probe": 72, "safe": s}
+}
+fn thermal_safing_probe_73(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 73 * 1.0);
+    #{"probe": 73, "safe": s}
+}
+fn thermal_safing_probe_74(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 74 * 1.0);
+    #{"probe": 74, "safe": s}
+}
+fn thermal_safing_probe_75(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 75 * 1.0);
+    #{"probe": 75, "safe": s}
+}
+fn thermal_safing_probe_76(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 76 * 1.0);
+    #{"probe": 76, "safe": s}
+}
+fn thermal_safing_probe_77(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 77 * 1.0);
+    #{"probe": 77, "safe": s}
+}
+fn thermal_safing_probe_78(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 78 * 1.0);
+    #{"probe": 78, "safe": s}
+}
+fn thermal_safing_probe_79(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 79 * 1.0);
+    #{"probe": 79, "safe": s}
+}
+fn thermal_safing_probe_80(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 80 * 1.0);
+    #{"probe": 80, "safe": s}
+}
+fn thermal_safing_probe_81(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 81 * 1.0);
+    #{"probe": 81, "safe": s}
+}
+fn thermal_safing_probe_82(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 82 * 1.0);
+    #{"probe": 82, "safe": s}
+}
+fn thermal_safing_probe_83(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 83 * 1.0);
+    #{"probe": 83, "safe": s}
+}
+fn thermal_safing_probe_84(temp_k) {
+    let s = is_soakback_safe(temp_k, 250.0 + 84 * 1.0);
+    #{"probe": 84, "safe": s}
+}

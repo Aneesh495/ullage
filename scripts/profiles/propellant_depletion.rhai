@@ -187,3 +187,163 @@ fn suction_pressure_descent_44(t_s) {
     let p = 5.0 - t_s * (0.2 + 44 * 0.005);
     #{"sample": 44, "inlet_p_bar": p.max(0.5)}
 }
+fn suction_pressure_descent_45(t_s) {
+    let p = 5.0 - t_s * (0.2 + 45 * 0.005);
+    #{"sample": 45, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_46(t_s) {
+    let p = 5.0 - t_s * (0.2 + 46 * 0.005);
+    #{"sample": 46, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_47(t_s) {
+    let p = 5.0 - t_s * (0.2 + 47 * 0.005);
+    #{"sample": 47, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_48(t_s) {
+    let p = 5.0 - t_s * (0.2 + 48 * 0.005);
+    #{"sample": 48, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_49(t_s) {
+    let p = 5.0 - t_s * (0.2 + 49 * 0.005);
+    #{"sample": 49, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_50(t_s) {
+    let p = 5.0 - t_s * (0.2 + 50 * 0.005);
+    #{"sample": 50, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_51(t_s) {
+    let p = 5.0 - t_s * (0.2 + 51 * 0.005);
+    #{"sample": 51, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_52(t_s) {
+    let p = 5.0 - t_s * (0.2 + 52 * 0.005);
+    #{"sample": 52, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_53(t_s) {
+    let p = 5.0 - t_s * (0.2 + 53 * 0.005);
+    #{"sample": 53, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_54(t_s) {
+    let p = 5.0 - t_s * (0.2 + 54 * 0.005);
+    #{"sample": 54, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_55(t_s) {
+    let p = 5.0 - t_s * (0.2 + 55 * 0.005);
+    #{"sample": 55, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_56(t_s) {
+    let p = 5.0 - t_s * (0.2 + 56 * 0.005);
+    #{"sample": 56, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_57(t_s) {
+    let p = 5.0 - t_s * (0.2 + 57 * 0.005);
+    #{"sample": 57, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_58(t_s) {
+    let p = 5.0 - t_s * (0.2 + 58 * 0.005);
+    #{"sample": 58, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_59(t_s) {
+    let p = 5.0 - t_s * (0.2 + 59 * 0.005);
+    #{"sample": 59, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_60(t_s) {
+    let p = 5.0 - t_s * (0.2 + 60 * 0.005);
+    #{"sample": 60, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_61(t_s) {
+    let p = 5.0 - t_s * (0.2 + 61 * 0.005);
+    #{"sample": 61, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_62(t_s) {
+    let p = 5.0 - t_s * (0.2 + 62 * 0.005);
+    #{"sample": 62, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_63(t_s) {
+    let p = 5.0 - t_s * (0.2 + 63 * 0.005);
+    #{"sample": 63, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_64(t_s) {
+    let p = 5.0 - t_s * (0.2 + 64 * 0.005);
+    #{"sample": 64, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_65(t_s) {
+    let p = 5.0 - t_s * (0.2 + 65 * 0.005);
+    #{"sample": 65, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_66(t_s) {
+    let p = 5.0 - t_s * (0.2 + 66 * 0.005);
+    #{"sample": 66, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_67(t_s) {
+    let p = 5.0 - t_s * (0.2 + 67 * 0.005);
+    #{"sample": 67, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_68(t_s) {
+    let p = 5.0 - t_s * (0.2 + 68 * 0.005);
+    #{"sample": 68, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_69(t_s) {
+    let p = 5.0 - t_s * (0.2 + 69 * 0.005);
+    #{"sample": 69, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_70(t_s) {
+    let p = 5.0 - t_s * (0.2 + 70 * 0.005);
+    #{"sample": 70, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_71(t_s) {
+    let p = 5.0 - t_s * (0.2 + 71 * 0.005);
+    #{"sample": 71, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_72(t_s) {
+    let p = 5.0 - t_s * (0.2 + 72 * 0.005);
+    #{"sample": 72, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_73(t_s) {
+    let p = 5.0 - t_s * (0.2 + 73 * 0.005);
+    #{"sample": 73, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_74(t_s) {
+    let p = 5.0 - t_s * (0.2 + 74 * 0.005);
+    #{"sample": 74, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_75(t_s) {
+    let p = 5.0 - t_s * (0.2 + 75 * 0.005);
+    #{"sample": 75, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_76(t_s) {
+    let p = 5.0 - t_s * (0.2 + 76 * 0.005);
+    #{"sample": 76, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_77(t_s) {
+    let p = 5.0 - t_s * (0.2 + 77 * 0.005);
+    #{"sample": 77, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_78(t_s) {
+    let p = 5.0 - t_s * (0.2 + 78 * 0.005);
+    #{"sample": 78, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_79(t_s) {
+    let p = 5.0 - t_s * (0.2 + 79 * 0.005);
+    #{"sample": 79, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_80(t_s) {
+    let p = 5.0 - t_s * (0.2 + 80 * 0.005);
+    #{"sample": 80, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_81(t_s) {
+    let p = 5.0 - t_s * (0.2 + 81 * 0.005);
+    #{"sample": 81, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_82(t_s) {
+    let p = 5.0 - t_s * (0.2 + 82 * 0.005);
+    #{"sample": 82, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_83(t_s) {
+    let p = 5.0 - t_s * (0.2 + 83 * 0.005);
+    #{"sample": 83, "inlet_p_bar": p.max(0.5)}
+}
+fn suction_pressure_descent_84(t_s) {
+    let p = 5.0 - t_s * (0.2 + 84 * 0.005);
+    #{"sample": 84, "inlet_p_bar": p.max(0.5)}
+}

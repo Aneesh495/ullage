@@ -260,3 +260,203 @@ fn lox_state_point_44(p_bar, t_k) {
     let a = lox_speed_of_sound(t_k);
     #{"pt": 44, "density": rho, "sound_speed": a}
 }
+fn lox_state_point_45(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 45 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 45, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_46(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 46 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 46, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_47(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 47 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 47, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_48(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 48 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 48, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_49(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 49 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 49, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_50(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 50 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 50, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_51(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 51 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 51, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_52(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 52 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 52, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_53(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 53 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 53, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_54(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 54 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 54, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_55(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 55 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 55, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_56(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 56 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 56, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_57(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 57 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 57, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_58(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 58 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 58, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_59(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 59 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 59, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_60(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 60 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 60, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_61(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 61 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 61, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_62(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 62 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 62, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_63(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 63 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 63, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_64(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 64 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 64, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_65(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 65 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 65, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_66(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 66 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 66, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_67(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 67 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 67, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_68(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 68 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 68, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_69(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 69 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 69, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_70(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 70 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 70, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_71(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 71 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 71, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_72(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 72 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 72, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_73(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 73 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 73, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_74(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 74 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 74, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_75(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 75 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 75, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_76(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 76 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 76, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_77(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 77 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 77, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_78(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 78 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 78, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_79(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 79 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 79, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_80(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 80 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 80, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_81(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 81 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 81, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_82(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 82 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 82, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_83(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 83 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 83, "density": rho, "sound_speed": a}
+}
+fn lox_state_point_84(p_bar, t_k) {
+    let rho = lox_subcooled_density(t_k + 84 * 0.1, p_bar);
+    let a = lox_speed_of_sound(t_k);
+    #{"pt": 84, "density": rho, "sound_speed": a}
+}

@@ -187,3 +187,163 @@ fn pogo_mode_node_44(f_struct) {
     let danger = pogo_susceptibility(18.0 + 44 * 0.1, f_struct, 1.0);
     #{"node": 44, "pogo_alert": danger}
 }
+fn pogo_mode_node_45(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 45 * 0.1, f_struct, 1.0);
+    #{"node": 45, "pogo_alert": danger}
+}
+fn pogo_mode_node_46(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 46 * 0.1, f_struct, 1.0);
+    #{"node": 46, "pogo_alert": danger}
+}
+fn pogo_mode_node_47(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 47 * 0.1, f_struct, 1.0);
+    #{"node": 47, "pogo_alert": danger}
+}
+fn pogo_mode_node_48(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 48 * 0.1, f_struct, 1.0);
+    #{"node": 48, "pogo_alert": danger}
+}
+fn pogo_mode_node_49(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 49 * 0.1, f_struct, 1.0);
+    #{"node": 49, "pogo_alert": danger}
+}
+fn pogo_mode_node_50(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 50 * 0.1, f_struct, 1.0);
+    #{"node": 50, "pogo_alert": danger}
+}
+fn pogo_mode_node_51(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 51 * 0.1, f_struct, 1.0);
+    #{"node": 51, "pogo_alert": danger}
+}
+fn pogo_mode_node_52(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 52 * 0.1, f_struct, 1.0);
+    #{"node": 52, "pogo_alert": danger}
+}
+fn pogo_mode_node_53(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 53 * 0.1, f_struct, 1.0);
+    #{"node": 53, "pogo_alert": danger}
+}
+fn pogo_mode_node_54(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 54 * 0.1, f_struct, 1.0);
+    #{"node": 54, "pogo_alert": danger}
+}
+fn pogo_mode_node_55(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 55 * 0.1, f_struct, 1.0);
+    #{"node": 55, "pogo_alert": danger}
+}
+fn pogo_mode_node_56(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 56 * 0.1, f_struct, 1.0);
+    #{"node": 56, "pogo_alert": danger}
+}
+fn pogo_mode_node_57(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 57 * 0.1, f_struct, 1.0);
+    #{"node": 57, "pogo_alert": danger}
+}
+fn pogo_mode_node_58(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 58 * 0.1, f_struct, 1.0);
+    #{"node": 58, "pogo_alert": danger}
+}
+fn pogo_mode_node_59(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 59 * 0.1, f_struct, 1.0);
+    #{"node": 59, "pogo_alert": danger}
+}
+fn pogo_mode_node_60(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 60 * 0.1, f_struct, 1.0);
+    #{"node": 60, "pogo_alert": danger}
+}
+fn pogo_mode_node_61(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 61 * 0.1, f_struct, 1.0);
+    #{"node": 61, "pogo_alert": danger}
+}
+fn pogo_mode_node_62(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 62 * 0.1, f_struct, 1.0);
+    #{"node": 62, "pogo_alert": danger}
+}
+fn pogo_mode_node_63(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 63 * 0.1, f_struct, 1.0);
+    #{"node": 63, "pogo_alert": danger}
+}
+fn pogo_mode_node_64(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 64 * 0.1, f_struct, 1.0);
+    #{"node": 64, "pogo_alert": danger}
+}
+fn pogo_mode_node_65(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 65 * 0.1, f_struct, 1.0);
+    #{"node": 65, "pogo_alert": danger}
+}
+fn pogo_mode_node_66(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 66 * 0.1, f_struct, 1.0);
+    #{"node": 66, "pogo_alert": danger}
+}
+fn pogo_mode_node_67(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 67 * 0.1, f_struct, 1.0);
+    #{"node": 67, "pogo_alert": danger}
+}
+fn pogo_mode_node_68(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 68 * 0.1, f_struct, 1.0);
+    #{"node": 68, "pogo_alert": danger}
+}
+fn pogo_mode_node_69(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 69 * 0.1, f_struct, 1.0);
+    #{"node": 69, "pogo_alert": danger}
+}
+fn pogo_mode_node_70(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 70 * 0.1, f_struct, 1.0);
+    #{"node": 70, "pogo_alert": danger}
+}
+fn pogo_mode_node_71(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 71 * 0.1, f_struct, 1.0);
+    #{"node": 71, "pogo_alert": danger}
+}
+fn pogo_mode_node_72(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 72 * 0.1, f_struct, 1.0);
+    #{"node": 72, "pogo_alert": danger}
+}
+fn pogo_mode_node_73(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 73 * 0.1, f_struct, 1.0);
+    #{"node": 73, "pogo_alert": danger}
+}
+fn pogo_mode_node_74(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 74 * 0.1, f_struct, 1.0);
+    #{"node": 74, "pogo_alert": danger}
+}
+fn pogo_mode_node_75(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 75 * 0.1, f_struct, 1.0);
+    #{"node": 75, "pogo_alert": danger}
+}
+fn pogo_mode_node_76(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 76 * 0.1, f_struct, 1.0);
+    #{"node": 76, "pogo_alert": danger}
+}
+fn pogo_mode_node_77(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 77 * 0.1, f_struct, 1.0);
+    #{"node": 77, "pogo_alert": danger}
+}
+fn pogo_mode_node_78(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 78 * 0.1, f_struct, 1.0);
+    #{"node": 78, "pogo_alert": danger}
+}
+fn pogo_mode_node_79(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 79 * 0.1, f_struct, 1.0);
+    #{"node": 79, "pogo_alert": danger}
+}
+fn pogo_mode_node_80(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 80 * 0.1, f_struct, 1.0);
+    #{"node": 80, "pogo_alert": danger}
+}
+fn pogo_mode_node_81(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 81 * 0.1, f_struct, 1.0);
+    #{"node": 81, "pogo_alert": danger}
+}
+fn pogo_mode_node_82(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 82 * 0.1, f_struct, 1.0);
+    #{"node": 82, "pogo_alert": danger}
+}
+fn pogo_mode_node_83(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 83 * 0.1, f_struct, 1.0);
+    #{"node": 83, "pogo_alert": danger}
+}
+fn pogo_mode_node_84(f_struct) {
+    let danger = pogo_susceptibility(18.0 + 84 * 0.1, f_struct, 1.0);
+    #{"node": 84, "pogo_alert": danger}
+}

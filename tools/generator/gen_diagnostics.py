@@ -28,7 +28,7 @@ def gen_spectral_density():
     lines.append("}")
     lines.append("if verify_spectral_density() { log_info(\"[DIAG::SPECTRAL] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn spectral_window_{i}(val) {{")
         lines.append(f"    #{{\"band\": {i}, \"center_hz\": {i} * 250.0, \"energy\": val * (1.0 + {i} * 0.01)}}")
         lines.append(f"}}")
@@ -53,7 +53,7 @@ def gen_acoustic_peaks():
     lines.append("}")
     lines.append("if verify_acoustic_peaks() { log_info(\"[DIAG::ACOUSTIC_PEAKS] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn acoustic_peak_tracker_{i}(f) {{")
         lines.append(f"    let q = compute_q_factor(f, f - 20.0, f + 20.0);")
         lines.append(f"    #{{\"tracker\": {i}, \"q\": q}}")
@@ -77,7 +77,7 @@ def gen_pogo_suppression():
     lines.append("}")
     lines.append("if verify_pogo() { log_info(\"[DIAG::POGO] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn pogo_mode_node_{i}(f_struct) {{")
         lines.append(f"    let danger = pogo_susceptibility(18.0 + {i} * 0.1, f_struct, 1.0);")
         lines.append(f"    #{{\"node\": {i}, \"pogo_alert\": danger}}")
@@ -101,7 +101,7 @@ def gen_thermal_soakback():
     lines.append("}")
     lines.append("if verify_thermal_soakback() { log_info(\"[DIAG::SOAKBACK] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn thermal_soakback_zone_{i}(q) {{")
         lines.append(f"    let dt = soakback_temp_rise_k(q, 1000.0 + {i} * 50.0);")
         lines.append(f"    #{{\"zone\": {i}, \"delta_t_k\": dt}}")
@@ -125,7 +125,7 @@ def gen_sensor_cross_check():
     lines.append("}")
     lines.append("if verify_cross_check() { log_info(\"[DIAG::CROSS_CHECK] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn cross_check_pair_{i}(a, b) {{")
         lines.append(f"    let pass = cross_check_sensors(a, b, 1.0 + {i} * 0.05);")
         lines.append(f"    #{{\"pair\": {i}, \"pass\": pass}}")
@@ -149,7 +149,7 @@ def gen_drift_estimator():
     lines.append("}")
     lines.append("if verify_drift() { log_info(\"[DIAG::DRIFT] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn channel_drift_history_{i}(v) {{")
         lines.append(f"    let drift = estimate_drift(v, 0.010 + {i} * 0.0001);")
         lines.append(f"    #{{\"channel\": {i}, \"drift_v\": drift}}")
@@ -174,7 +174,7 @@ def gen_combustion_roughness():
     lines.append("}")
     lines.append("if verify_roughness() { log_info(\"[DIAG::ROUGHNESS] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn roughness_window_monitor_{i}(rms) {{")
         lines.append(f"    let rough = compute_roughness_pct(rms, 80.0 + {i} * 0.2);")
         lines.append(f"    #{{\"window\": {i}, \"roughness_pct\": rough}}")
@@ -198,7 +198,7 @@ def gen_efficiency_tracker():
     lines.append("}")
     lines.append("if verify_efficiency() { log_info(\"[DIAG::EFFICIENCY] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn efficiency_sample_{i}(c_act) {{")
         lines.append(f"    let e = calculate_burn_efficiency(c_act, 1800.0 + {i} * 2.0);")
         lines.append(f"    #{{\"sample\": {i}, \"efficiency_pct\": e}}")

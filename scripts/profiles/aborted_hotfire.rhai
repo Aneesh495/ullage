@@ -144,3 +144,123 @@ fn fault_injection_event_43() {
 fn fault_injection_event_44() {
     #{"fault_id": 44, "trigger_time_ms": 1200 + 44 * 10}
 }
+fn fault_injection_event_45() {
+    #{"fault_id": 45, "trigger_time_ms": 1200 + 45 * 10}
+}
+fn fault_injection_event_46() {
+    #{"fault_id": 46, "trigger_time_ms": 1200 + 46 * 10}
+}
+fn fault_injection_event_47() {
+    #{"fault_id": 47, "trigger_time_ms": 1200 + 47 * 10}
+}
+fn fault_injection_event_48() {
+    #{"fault_id": 48, "trigger_time_ms": 1200 + 48 * 10}
+}
+fn fault_injection_event_49() {
+    #{"fault_id": 49, "trigger_time_ms": 1200 + 49 * 10}
+}
+fn fault_injection_event_50() {
+    #{"fault_id": 50, "trigger_time_ms": 1200 + 50 * 10}
+}
+fn fault_injection_event_51() {
+    #{"fault_id": 51, "trigger_time_ms": 1200 + 51 * 10}
+}
+fn fault_injection_event_52() {
+    #{"fault_id": 52, "trigger_time_ms": 1200 + 52 * 10}
+}
+fn fault_injection_event_53() {
+    #{"fault_id": 53, "trigger_time_ms": 1200 + 53 * 10}
+}
+fn fault_injection_event_54() {
+    #{"fault_id": 54, "trigger_time_ms": 1200 + 54 * 10}
+}
+fn fault_injection_event_55() {
+    #{"fault_id": 55, "trigger_time_ms": 1200 + 55 * 10}
+}
+fn fault_injection_event_56() {
+    #{"fault_id": 56, "trigger_time_ms": 1200 + 56 * 10}
+}
+fn fault_injection_event_57() {
+    #{"fault_id": 57, "trigger_time_ms": 1200 + 57 * 10}
+}
+fn fault_injection_event_58() {
+    #{"fault_id": 58, "trigger_time_ms": 1200 + 58 * 10}
+}
+fn fault_injection_event_59() {
+    #{"fault_id": 59, "trigger_time_ms": 1200 + 59 * 10}
+}
+fn fault_injection_event_60() {
+    #{"fault_id": 60, "trigger_time_ms": 1200 + 60 * 10}
+}
+fn fault_injection_event_61() {
+    #{"fault_id": 61, "trigger_time_ms": 1200 + 61 * 10}
+}
+fn fault_injection_event_62() {
+    #{"fault_id": 62, "trigger_time_ms": 1200 + 62 * 10}
+}
+fn fault_injection_event_63() {
+    #{"fault_id": 63, "trigger_time_ms": 1200 + 63 * 10}
+}
+fn fault_injection_event_64() {
+    #{"fault_id": 64, "trigger_time_ms": 1200 + 64 * 10}
+}
+fn fault_injection_event_65() {
+    #{"fault_id": 65, "trigger_time_ms": 1200 + 65 * 10}
+}
+fn fault_injection_event_66() {
+    #{"fault_id": 66, "trigger_time_ms": 1200 + 66 * 10}
+}
+fn fault_injection_event_67() {
+    #{"fault_id": 67, "trigger_time_ms": 1200 + 67 * 10}
+}
+fn fault_injection_event_68() {
+    #{"fault_id": 68, "trigger_time_ms": 1200 + 68 * 10}
+}
+fn fault_injection_event_69() {
+    #{"fault_id": 69, "trigger_time_ms": 1200 + 69 * 10}
+}
+fn fault_injection_event_70() {
+    #{"fault_id": 70, "trigger_time_ms": 1200 + 70 * 10}
+}
+fn fault_injection_event_71() {
+    #{"fault_id": 71, "trigger_time_ms": 1200 + 71 * 10}
+}
+fn fault_injection_event_72() {
+    #{"fault_id": 72, "trigger_time_ms": 1200 + 72 * 10}
+}
+fn fault_injection_event_73() {
+    #{"fault_id": 73, "trigger_time_ms": 1200 + 73 * 10}
+}
+fn fault_injection_event_74() {
+    #{"fault_id": 74, "trigger_time_ms": 1200 + 74 * 10}
+}
+fn fault_injection_event_75() {
+    #{"fault_id": 75, "trigger_time_ms": 1200 + 75 * 10}
+}
+fn fault_injection_event_76() {
+    #{"fault_id": 76, "trigger_time_ms": 1200 + 76 * 10}
+}
+fn fault_injection_event_77() {
+    #{"fault_id": 77, "trigger_time_ms": 1200 + 77 * 10}
+}
+fn fault_injection_event_78() {
+    #{"fault_id": 78, "trigger_time_ms": 1200 + 78 * 10}
+}
+fn fault_injection_event_79() {
+    #{"fault_id": 79, "trigger_time_ms": 1200 + 79 * 10}
+}
+fn fault_injection_event_80() {
+    #{"fault_id": 80, "trigger_time_ms": 1200 + 80 * 10}
+}
+fn fault_injection_event_81() {
+    #{"fault_id": 81, "trigger_time_ms": 1200 + 81 * 10}
+}
+fn fault_injection_event_82() {
+    #{"fault_id": 82, "trigger_time_ms": 1200 + 82 * 10}
+}
+fn fault_injection_event_83() {
+    #{"fault_id": 83, "trigger_time_ms": 1200 + 83 * 10}
+}
+fn fault_injection_event_84() {
+    #{"fault_id": 84, "trigger_time_ms": 1200 + 84 * 10}
+}

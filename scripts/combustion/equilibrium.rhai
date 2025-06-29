@@ -247,3 +247,203 @@ fn equilibrium_slice_44(of, pc) {
     let m = cea_molar_mass_exhaust(of);
     #{"index": 44, "t_flame_k": t, "mw_exhaust": m}
 }
+fn equilibrium_slice_45(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 45 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 45, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_46(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 46 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 46, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_47(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 47 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 47, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_48(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 48 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 48, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_49(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 49 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 49, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_50(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 50 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 50, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_51(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 51 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 51, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_52(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 52 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 52, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_53(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 53 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 53, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_54(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 54 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 54, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_55(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 55 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 55, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_56(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 56 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 56, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_57(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 57 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 57, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_58(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 58 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 58, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_59(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 59 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 59, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_60(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 60 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 60, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_61(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 61 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 61, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_62(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 62 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 62, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_63(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 63 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 63, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_64(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 64 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 64, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_65(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 65 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 65, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_66(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 66 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 66, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_67(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 67 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 67, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_68(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 68 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 68, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_69(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 69 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 69, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_70(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 70 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 70, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_71(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 71 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 71, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_72(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 72 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 72, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_73(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 73 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 73, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_74(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 74 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 74, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_75(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 75 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 75, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_76(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 76 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 76, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_77(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 77 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 77, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_78(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 78 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 78, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_79(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 79 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 79, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_80(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 80 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 80, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_81(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 81 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 81, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_82(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 82 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 82, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_83(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 83 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 83, "t_flame_k": t, "mw_exhaust": m}
+}
+fn equilibrium_slice_84(of, pc) {
+    let t = cea_chamber_temp_k(of, pc + 84 * 0.1);
+    let m = cea_molar_mass_exhaust(of);
+    #{"index": 84, "t_flame_k": t, "mw_exhaust": m}
+}

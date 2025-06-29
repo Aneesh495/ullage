@@ -148,3 +148,123 @@ fn shutdown_timing_node_43() {
 fn shutdown_timing_node_44() {
     #{"node": 44, "delay_ms": 44 * 10}
 }
+fn shutdown_timing_node_45() {
+    #{"node": 45, "delay_ms": 45 * 10}
+}
+fn shutdown_timing_node_46() {
+    #{"node": 46, "delay_ms": 46 * 10}
+}
+fn shutdown_timing_node_47() {
+    #{"node": 47, "delay_ms": 47 * 10}
+}
+fn shutdown_timing_node_48() {
+    #{"node": 48, "delay_ms": 48 * 10}
+}
+fn shutdown_timing_node_49() {
+    #{"node": 49, "delay_ms": 49 * 10}
+}
+fn shutdown_timing_node_50() {
+    #{"node": 50, "delay_ms": 50 * 10}
+}
+fn shutdown_timing_node_51() {
+    #{"node": 51, "delay_ms": 51 * 10}
+}
+fn shutdown_timing_node_52() {
+    #{"node": 52, "delay_ms": 52 * 10}
+}
+fn shutdown_timing_node_53() {
+    #{"node": 53, "delay_ms": 53 * 10}
+}
+fn shutdown_timing_node_54() {
+    #{"node": 54, "delay_ms": 54 * 10}
+}
+fn shutdown_timing_node_55() {
+    #{"node": 55, "delay_ms": 55 * 10}
+}
+fn shutdown_timing_node_56() {
+    #{"node": 56, "delay_ms": 56 * 10}
+}
+fn shutdown_timing_node_57() {
+    #{"node": 57, "delay_ms": 57 * 10}
+}
+fn shutdown_timing_node_58() {
+    #{"node": 58, "delay_ms": 58 * 10}
+}
+fn shutdown_timing_node_59() {
+    #{"node": 59, "delay_ms": 59 * 10}
+}
+fn shutdown_timing_node_60() {
+    #{"node": 60, "delay_ms": 60 * 10}
+}
+fn shutdown_timing_node_61() {
+    #{"node": 61, "delay_ms": 61 * 10}
+}
+fn shutdown_timing_node_62() {
+    #{"node": 62, "delay_ms": 62 * 10}
+}
+fn shutdown_timing_node_63() {
+    #{"node": 63, "delay_ms": 63 * 10}
+}
+fn shutdown_timing_node_64() {
+    #{"node": 64, "delay_ms": 64 * 10}
+}
+fn shutdown_timing_node_65() {
+    #{"node": 65, "delay_ms": 65 * 10}
+}
+fn shutdown_timing_node_66() {
+    #{"node": 66, "delay_ms": 66 * 10}
+}
+fn shutdown_timing_node_67() {
+    #{"node": 67, "delay_ms": 67 * 10}
+}
+fn shutdown_timing_node_68() {
+    #{"node": 68, "delay_ms": 68 * 10}
+}
+fn shutdown_timing_node_69() {
+    #{"node": 69, "delay_ms": 69 * 10}
+}
+fn shutdown_timing_node_70() {
+    #{"node": 70, "delay_ms": 70 * 10}
+}
+fn shutdown_timing_node_71() {
+    #{"node": 71, "delay_ms": 71 * 10}
+}
+fn shutdown_timing_node_72() {
+    #{"node": 72, "delay_ms": 72 * 10}
+}
+fn shutdown_timing_node_73() {
+    #{"node": 73, "delay_ms": 73 * 10}
+}
+fn shutdown_timing_node_74() {
+    #{"node": 74, "delay_ms": 74 * 10}
+}
+fn shutdown_timing_node_75() {
+    #{"node": 75, "delay_ms": 75 * 10}
+}
+fn shutdown_timing_node_76() {
+    #{"node": 76, "delay_ms": 76 * 10}
+}
+fn shutdown_timing_node_77() {
+    #{"node": 77, "delay_ms": 77 * 10}
+}
+fn shutdown_timing_node_78() {
+    #{"node": 78, "delay_ms": 78 * 10}
+}
+fn shutdown_timing_node_79() {
+    #{"node": 79, "delay_ms": 79 * 10}
+}
+fn shutdown_timing_node_80() {
+    #{"node": 80, "delay_ms": 80 * 10}
+}
+fn shutdown_timing_node_81() {
+    #{"node": 81, "delay_ms": 81 * 10}
+}
+fn shutdown_timing_node_82() {
+    #{"node": 82, "delay_ms": 82 * 10}
+}
+fn shutdown_timing_node_83() {
+    #{"node": 83, "delay_ms": 83 * 10}
+}
+fn shutdown_timing_node_84() {
+    #{"node": 84, "delay_ms": 84 * 10}
+}

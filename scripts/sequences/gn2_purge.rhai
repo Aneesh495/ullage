@@ -187,3 +187,163 @@ fn purge_station_flow_44(p_in) {
     let flow = p_in * (0.05 + 44 * 0.001);
     #{"station": 44, "flow_kg_s": flow}
 }
+fn purge_station_flow_45(p_in) {
+    let flow = p_in * (0.05 + 45 * 0.001);
+    #{"station": 45, "flow_kg_s": flow}
+}
+fn purge_station_flow_46(p_in) {
+    let flow = p_in * (0.05 + 46 * 0.001);
+    #{"station": 46, "flow_kg_s": flow}
+}
+fn purge_station_flow_47(p_in) {
+    let flow = p_in * (0.05 + 47 * 0.001);
+    #{"station": 47, "flow_kg_s": flow}
+}
+fn purge_station_flow_48(p_in) {
+    let flow = p_in * (0.05 + 48 * 0.001);
+    #{"station": 48, "flow_kg_s": flow}
+}
+fn purge_station_flow_49(p_in) {
+    let flow = p_in * (0.05 + 49 * 0.001);
+    #{"station": 49, "flow_kg_s": flow}
+}
+fn purge_station_flow_50(p_in) {
+    let flow = p_in * (0.05 + 50 * 0.001);
+    #{"station": 50, "flow_kg_s": flow}
+}
+fn purge_station_flow_51(p_in) {
+    let flow = p_in * (0.05 + 51 * 0.001);
+    #{"station": 51, "flow_kg_s": flow}
+}
+fn purge_station_flow_52(p_in) {
+    let flow = p_in * (0.05 + 52 * 0.001);
+    #{"station": 52, "flow_kg_s": flow}
+}
+fn purge_station_flow_53(p_in) {
+    let flow = p_in * (0.05 + 53 * 0.001);
+    #{"station": 53, "flow_kg_s": flow}
+}
+fn purge_station_flow_54(p_in) {
+    let flow = p_in * (0.05 + 54 * 0.001);
+    #{"station": 54, "flow_kg_s": flow}
+}
+fn purge_station_flow_55(p_in) {
+    let flow = p_in * (0.05 + 55 * 0.001);
+    #{"station": 55, "flow_kg_s": flow}
+}
+fn purge_station_flow_56(p_in) {
+    let flow = p_in * (0.05 + 56 * 0.001);
+    #{"station": 56, "flow_kg_s": flow}
+}
+fn purge_station_flow_57(p_in) {
+    let flow = p_in * (0.05 + 57 * 0.001);
+    #{"station": 57, "flow_kg_s": flow}
+}
+fn purge_station_flow_58(p_in) {
+    let flow = p_in * (0.05 + 58 * 0.001);
+    #{"station": 58, "flow_kg_s": flow}
+}
+fn purge_station_flow_59(p_in) {
+    let flow = p_in * (0.05 + 59 * 0.001);
+    #{"station": 59, "flow_kg_s": flow}
+}
+fn purge_station_flow_60(p_in) {
+    let flow = p_in * (0.05 + 60 * 0.001);
+    #{"station": 60, "flow_kg_s": flow}
+}
+fn purge_station_flow_61(p_in) {
+    let flow = p_in * (0.05 + 61 * 0.001);
+    #{"station": 61, "flow_kg_s": flow}
+}
+fn purge_station_flow_62(p_in) {
+    let flow = p_in * (0.05 + 62 * 0.001);
+    #{"station": 62, "flow_kg_s": flow}
+}
+fn purge_station_flow_63(p_in) {
+    let flow = p_in * (0.05 + 63 * 0.001);
+    #{"station": 63, "flow_kg_s": flow}
+}
+fn purge_station_flow_64(p_in) {
+    let flow = p_in * (0.05 + 64 * 0.001);
+    #{"station": 64, "flow_kg_s": flow}
+}
+fn purge_station_flow_65(p_in) {
+    let flow = p_in * (0.05 + 65 * 0.001);
+    #{"station": 65, "flow_kg_s": flow}
+}
+fn purge_station_flow_66(p_in) {
+    let flow = p_in * (0.05 + 66 * 0.001);
+    #{"station": 66, "flow_kg_s": flow}
+}
+fn purge_station_flow_67(p_in) {
+    let flow = p_in * (0.05 + 67 * 0.001);
+    #{"station": 67, "flow_kg_s": flow}
+}
+fn purge_station_flow_68(p_in) {
+    let flow = p_in * (0.05 + 68 * 0.001);
+    #{"station": 68, "flow_kg_s": flow}
+}
+fn purge_station_flow_69(p_in) {
+    let flow = p_in * (0.05 + 69 * 0.001);
+    #{"station": 69, "flow_kg_s": flow}
+}
+fn purge_station_flow_70(p_in) {
+    let flow = p_in * (0.05 + 70 * 0.001);
+    #{"station": 70, "flow_kg_s": flow}
+}
+fn purge_station_flow_71(p_in) {
+    let flow = p_in * (0.05 + 71 * 0.001);
+    #{"station": 71, "flow_kg_s": flow}
+}
+fn purge_station_flow_72(p_in) {
+    let flow = p_in * (0.05 + 72 * 0.001);
+    #{"station": 72, "flow_kg_s": flow}
+}
+fn purge_station_flow_73(p_in) {
+    let flow = p_in * (0.05 + 73 * 0.001);
+    #{"station": 73, "flow_kg_s": flow}
+}
+fn purge_station_flow_74(p_in) {
+    let flow = p_in * (0.05 + 74 * 0.001);
+    #{"station": 74, "flow_kg_s": flow}
+}
+fn purge_station_flow_75(p_in) {
+    let flow = p_in * (0.05 + 75 * 0.001);
+    #{"station": 75, "flow_kg_s": flow}
+}
+fn purge_station_flow_76(p_in) {
+    let flow = p_in * (0.05 + 76 * 0.001);
+    #{"station": 76, "flow_kg_s": flow}
+}
+fn purge_station_flow_77(p_in) {
+    let flow = p_in * (0.05 + 77 * 0.001);
+    #{"station": 77, "flow_kg_s": flow}
+}
+fn purge_station_flow_78(p_in) {
+    let flow = p_in * (0.05 + 78 * 0.001);
+    #{"station": 78, "flow_kg_s": flow}
+}
+fn purge_station_flow_79(p_in) {
+    let flow = p_in * (0.05 + 79 * 0.001);
+    #{"station": 79, "flow_kg_s": flow}
+}
+fn purge_station_flow_80(p_in) {
+    let flow = p_in * (0.05 + 80 * 0.001);
+    #{"station": 80, "flow_kg_s": flow}
+}
+fn purge_station_flow_81(p_in) {
+    let flow = p_in * (0.05 + 81 * 0.001);
+    #{"station": 81, "flow_kg_s": flow}
+}
+fn purge_station_flow_82(p_in) {
+    let flow = p_in * (0.05 + 82 * 0.001);
+    #{"station": 82, "flow_kg_s": flow}
+}
+fn purge_station_flow_83(p_in) {
+    let flow = p_in * (0.05 + 83 * 0.001);
+    #{"station": 83, "flow_kg_s": flow}
+}
+fn purge_station_flow_84(p_in) {
+    let flow = p_in * (0.05 + 84 * 0.001);
+    #{"station": 84, "flow_kg_s": flow}
+}

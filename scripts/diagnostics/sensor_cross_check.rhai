@@ -187,3 +187,163 @@ fn cross_check_pair_44(a, b) {
     let pass = cross_check_sensors(a, b, 1.0 + 44 * 0.05);
     #{"pair": 44, "pass": pass}
 }
+fn cross_check_pair_45(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 45 * 0.05);
+    #{"pair": 45, "pass": pass}
+}
+fn cross_check_pair_46(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 46 * 0.05);
+    #{"pair": 46, "pass": pass}
+}
+fn cross_check_pair_47(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 47 * 0.05);
+    #{"pair": 47, "pass": pass}
+}
+fn cross_check_pair_48(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 48 * 0.05);
+    #{"pair": 48, "pass": pass}
+}
+fn cross_check_pair_49(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 49 * 0.05);
+    #{"pair": 49, "pass": pass}
+}
+fn cross_check_pair_50(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 50 * 0.05);
+    #{"pair": 50, "pass": pass}
+}
+fn cross_check_pair_51(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 51 * 0.05);
+    #{"pair": 51, "pass": pass}
+}
+fn cross_check_pair_52(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 52 * 0.05);
+    #{"pair": 52, "pass": pass}
+}
+fn cross_check_pair_53(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 53 * 0.05);
+    #{"pair": 53, "pass": pass}
+}
+fn cross_check_pair_54(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 54 * 0.05);
+    #{"pair": 54, "pass": pass}
+}
+fn cross_check_pair_55(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 55 * 0.05);
+    #{"pair": 55, "pass": pass}
+}
+fn cross_check_pair_56(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 56 * 0.05);
+    #{"pair": 56, "pass": pass}
+}
+fn cross_check_pair_57(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 57 * 0.05);
+    #{"pair": 57, "pass": pass}
+}
+fn cross_check_pair_58(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 58 * 0.05);
+    #{"pair": 58, "pass": pass}
+}
+fn cross_check_pair_59(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 59 * 0.05);
+    #{"pair": 59, "pass": pass}
+}
+fn cross_check_pair_60(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 60 * 0.05);
+    #{"pair": 60, "pass": pass}
+}
+fn cross_check_pair_61(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 61 * 0.05);
+    #{"pair": 61, "pass": pass}
+}
+fn cross_check_pair_62(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 62 * 0.05);
+    #{"pair": 62, "pass": pass}
+}
+fn cross_check_pair_63(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 63 * 0.05);
+    #{"pair": 63, "pass": pass}
+}
+fn cross_check_pair_64(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 64 * 0.05);
+    #{"pair": 64, "pass": pass}
+}
+fn cross_check_pair_65(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 65 * 0.05);
+    #{"pair": 65, "pass": pass}
+}
+fn cross_check_pair_66(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 66 * 0.05);
+    #{"pair": 66, "pass": pass}
+}
+fn cross_check_pair_67(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 67 * 0.05);
+    #{"pair": 67, "pass": pass}
+}
+fn cross_check_pair_68(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 68 * 0.05);
+    #{"pair": 68, "pass": pass}
+}
+fn cross_check_pair_69(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 69 * 0.05);
+    #{"pair": 69, "pass": pass}
+}
+fn cross_check_pair_70(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 70 * 0.05);
+    #{"pair": 70, "pass": pass}
+}
+fn cross_check_pair_71(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 71 * 0.05);
+    #{"pair": 71, "pass": pass}
+}
+fn cross_check_pair_72(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 72 * 0.05);
+    #{"pair": 72, "pass": pass}
+}
+fn cross_check_pair_73(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 73 * 0.05);
+    #{"pair": 73, "pass": pass}
+}
+fn cross_check_pair_74(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 74 * 0.05);
+    #{"pair": 74, "pass": pass}
+}
+fn cross_check_pair_75(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 75 * 0.05);
+    #{"pair": 75, "pass": pass}
+}
+fn cross_check_pair_76(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 76 * 0.05);
+    #{"pair": 76, "pass": pass}
+}
+fn cross_check_pair_77(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 77 * 0.05);
+    #{"pair": 77, "pass": pass}
+}
+fn cross_check_pair_78(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 78 * 0.05);
+    #{"pair": 78, "pass": pass}
+}
+fn cross_check_pair_79(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 79 * 0.05);
+    #{"pair": 79, "pass": pass}
+}
+fn cross_check_pair_80(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 80 * 0.05);
+    #{"pair": 80, "pass": pass}
+}
+fn cross_check_pair_81(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 81 * 0.05);
+    #{"pair": 81, "pass": pass}
+}
+fn cross_check_pair_82(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 82 * 0.05);
+    #{"pair": 82, "pass": pass}
+}
+fn cross_check_pair_83(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 83 * 0.05);
+    #{"pair": 83, "pass": pass}
+}
+fn cross_check_pair_84(a, b) {
+    let pass = cross_check_sensors(a, b, 1.0 + 84 * 0.05);
+    #{"pair": 84, "pass": pass}
+}

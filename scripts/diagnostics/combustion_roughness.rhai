@@ -188,3 +188,163 @@ fn roughness_window_monitor_44(rms) {
     let rough = compute_roughness_pct(rms, 80.0 + 44 * 0.2);
     #{"window": 44, "roughness_pct": rough}
 }
+fn roughness_window_monitor_45(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 45 * 0.2);
+    #{"window": 45, "roughness_pct": rough}
+}
+fn roughness_window_monitor_46(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 46 * 0.2);
+    #{"window": 46, "roughness_pct": rough}
+}
+fn roughness_window_monitor_47(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 47 * 0.2);
+    #{"window": 47, "roughness_pct": rough}
+}
+fn roughness_window_monitor_48(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 48 * 0.2);
+    #{"window": 48, "roughness_pct": rough}
+}
+fn roughness_window_monitor_49(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 49 * 0.2);
+    #{"window": 49, "roughness_pct": rough}
+}
+fn roughness_window_monitor_50(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 50 * 0.2);
+    #{"window": 50, "roughness_pct": rough}
+}
+fn roughness_window_monitor_51(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 51 * 0.2);
+    #{"window": 51, "roughness_pct": rough}
+}
+fn roughness_window_monitor_52(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 52 * 0.2);
+    #{"window": 52, "roughness_pct": rough}
+}
+fn roughness_window_monitor_53(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 53 * 0.2);
+    #{"window": 53, "roughness_pct": rough}
+}
+fn roughness_window_monitor_54(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 54 * 0.2);
+    #{"window": 54, "roughness_pct": rough}
+}
+fn roughness_window_monitor_55(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 55 * 0.2);
+    #{"window": 55, "roughness_pct": rough}
+}
+fn roughness_window_monitor_56(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 56 * 0.2);
+    #{"window": 56, "roughness_pct": rough}
+}
+fn roughness_window_monitor_57(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 57 * 0.2);
+    #{"window": 57, "roughness_pct": rough}
+}
+fn roughness_window_monitor_58(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 58 * 0.2);
+    #{"window": 58, "roughness_pct": rough}
+}
+fn roughness_window_monitor_59(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 59 * 0.2);
+    #{"window": 59, "roughness_pct": rough}
+}
+fn roughness_window_monitor_60(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 60 * 0.2);
+    #{"window": 60, "roughness_pct": rough}
+}
+fn roughness_window_monitor_61(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 61 * 0.2);
+    #{"window": 61, "roughness_pct": rough}
+}
+fn roughness_window_monitor_62(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 62 * 0.2);
+    #{"window": 62, "roughness_pct": rough}
+}
+fn roughness_window_monitor_63(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 63 * 0.2);
+    #{"window": 63, "roughness_pct": rough}
+}
+fn roughness_window_monitor_64(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 64 * 0.2);
+    #{"window": 64, "roughness_pct": rough}
+}
+fn roughness_window_monitor_65(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 65 * 0.2);
+    #{"window": 65, "roughness_pct": rough}
+}
+fn roughness_window_monitor_66(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 66 * 0.2);
+    #{"window": 66, "roughness_pct": rough}
+}
+fn roughness_window_monitor_67(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 67 * 0.2);
+    #{"window": 67, "roughness_pct": rough}
+}
+fn roughness_window_monitor_68(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 68 * 0.2);
+    #{"window": 68, "roughness_pct": rough}
+}
+fn roughness_window_monitor_69(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 69 * 0.2);
+    #{"window": 69, "roughness_pct": rough}
+}
+fn roughness_window_monitor_70(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 70 * 0.2);
+    #{"window": 70, "roughness_pct": rough}
+}
+fn roughness_window_monitor_71(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 71 * 0.2);
+    #{"window": 71, "roughness_pct": rough}
+}
+fn roughness_window_monitor_72(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 72 * 0.2);
+    #{"window": 72, "roughness_pct": rough}
+}
+fn roughness_window_monitor_73(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 73 * 0.2);
+    #{"window": 73, "roughness_pct": rough}
+}
+fn roughness_window_monitor_74(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 74 * 0.2);
+    #{"window": 74, "roughness_pct": rough}
+}
+fn roughness_window_monitor_75(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 75 * 0.2);
+    #{"window": 75, "roughness_pct": rough}
+}
+fn roughness_window_monitor_76(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 76 * 0.2);
+    #{"window": 76, "roughness_pct": rough}
+}
+fn roughness_window_monitor_77(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 77 * 0.2);
+    #{"window": 77, "roughness_pct": rough}
+}
+fn roughness_window_monitor_78(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 78 * 0.2);
+    #{"window": 78, "roughness_pct": rough}
+}
+fn roughness_window_monitor_79(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 79 * 0.2);
+    #{"window": 79, "roughness_pct": rough}
+}
+fn roughness_window_monitor_80(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 80 * 0.2);
+    #{"window": 80, "roughness_pct": rough}
+}
+fn roughness_window_monitor_81(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 81 * 0.2);
+    #{"window": 81, "roughness_pct": rough}
+}
+fn roughness_window_monitor_82(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 82 * 0.2);
+    #{"window": 82, "roughness_pct": rough}
+}
+fn roughness_window_monitor_83(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 83 * 0.2);
+    #{"window": 83, "roughness_pct": rough}
+}
+fn roughness_window_monitor_84(rms) {
+    let rough = compute_roughness_pct(rms, 80.0 + 84 * 0.2);
+    #{"window": 84, "roughness_pct": rough}
+}

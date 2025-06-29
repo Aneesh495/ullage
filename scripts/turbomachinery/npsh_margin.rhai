@@ -197,3 +197,163 @@ fn npsh_monitor_node_44(p_in) {
     let npsha = npsh_available_m(p_in + 44 * 0.05, 1.2, 1141.0, 6.0);
     #{"node": 44, "npsh_m": npsha}
 }
+fn npsh_monitor_node_45(p_in) {
+    let npsha = npsh_available_m(p_in + 45 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 45, "npsh_m": npsha}
+}
+fn npsh_monitor_node_46(p_in) {
+    let npsha = npsh_available_m(p_in + 46 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 46, "npsh_m": npsha}
+}
+fn npsh_monitor_node_47(p_in) {
+    let npsha = npsh_available_m(p_in + 47 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 47, "npsh_m": npsha}
+}
+fn npsh_monitor_node_48(p_in) {
+    let npsha = npsh_available_m(p_in + 48 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 48, "npsh_m": npsha}
+}
+fn npsh_monitor_node_49(p_in) {
+    let npsha = npsh_available_m(p_in + 49 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 49, "npsh_m": npsha}
+}
+fn npsh_monitor_node_50(p_in) {
+    let npsha = npsh_available_m(p_in + 50 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 50, "npsh_m": npsha}
+}
+fn npsh_monitor_node_51(p_in) {
+    let npsha = npsh_available_m(p_in + 51 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 51, "npsh_m": npsha}
+}
+fn npsh_monitor_node_52(p_in) {
+    let npsha = npsh_available_m(p_in + 52 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 52, "npsh_m": npsha}
+}
+fn npsh_monitor_node_53(p_in) {
+    let npsha = npsh_available_m(p_in + 53 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 53, "npsh_m": npsha}
+}
+fn npsh_monitor_node_54(p_in) {
+    let npsha = npsh_available_m(p_in + 54 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 54, "npsh_m": npsha}
+}
+fn npsh_monitor_node_55(p_in) {
+    let npsha = npsh_available_m(p_in + 55 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 55, "npsh_m": npsha}
+}
+fn npsh_monitor_node_56(p_in) {
+    let npsha = npsh_available_m(p_in + 56 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 56, "npsh_m": npsha}
+}
+fn npsh_monitor_node_57(p_in) {
+    let npsha = npsh_available_m(p_in + 57 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 57, "npsh_m": npsha}
+}
+fn npsh_monitor_node_58(p_in) {
+    let npsha = npsh_available_m(p_in + 58 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 58, "npsh_m": npsha}
+}
+fn npsh_monitor_node_59(p_in) {
+    let npsha = npsh_available_m(p_in + 59 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 59, "npsh_m": npsha}
+}
+fn npsh_monitor_node_60(p_in) {
+    let npsha = npsh_available_m(p_in + 60 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 60, "npsh_m": npsha}
+}
+fn npsh_monitor_node_61(p_in) {
+    let npsha = npsh_available_m(p_in + 61 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 61, "npsh_m": npsha}
+}
+fn npsh_monitor_node_62(p_in) {
+    let npsha = npsh_available_m(p_in + 62 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 62, "npsh_m": npsha}
+}
+fn npsh_monitor_node_63(p_in) {
+    let npsha = npsh_available_m(p_in + 63 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 63, "npsh_m": npsha}
+}
+fn npsh_monitor_node_64(p_in) {
+    let npsha = npsh_available_m(p_in + 64 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 64, "npsh_m": npsha}
+}
+fn npsh_monitor_node_65(p_in) {
+    let npsha = npsh_available_m(p_in + 65 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 65, "npsh_m": npsha}
+}
+fn npsh_monitor_node_66(p_in) {
+    let npsha = npsh_available_m(p_in + 66 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 66, "npsh_m": npsha}
+}
+fn npsh_monitor_node_67(p_in) {
+    let npsha = npsh_available_m(p_in + 67 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 67, "npsh_m": npsha}
+}
+fn npsh_monitor_node_68(p_in) {
+    let npsha = npsh_available_m(p_in + 68 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 68, "npsh_m": npsha}
+}
+fn npsh_monitor_node_69(p_in) {
+    let npsha = npsh_available_m(p_in + 69 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 69, "npsh_m": npsha}
+}
+fn npsh_monitor_node_70(p_in) {
+    let npsha = npsh_available_m(p_in + 70 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 70, "npsh_m": npsha}
+}
+fn npsh_monitor_node_71(p_in) {
+    let npsha = npsh_available_m(p_in + 71 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 71, "npsh_m": npsha}
+}
+fn npsh_monitor_node_72(p_in) {
+    let npsha = npsh_available_m(p_in + 72 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 72, "npsh_m": npsha}
+}
+fn npsh_monitor_node_73(p_in) {
+    let npsha = npsh_available_m(p_in + 73 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 73, "npsh_m": npsha}
+}
+fn npsh_monitor_node_74(p_in) {
+    let npsha = npsh_available_m(p_in + 74 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 74, "npsh_m": npsha}
+}
+fn npsh_monitor_node_75(p_in) {
+    let npsha = npsh_available_m(p_in + 75 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 75, "npsh_m": npsha}
+}
+fn npsh_monitor_node_76(p_in) {
+    let npsha = npsh_available_m(p_in + 76 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 76, "npsh_m": npsha}
+}
+fn npsh_monitor_node_77(p_in) {
+    let npsha = npsh_available_m(p_in + 77 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 77, "npsh_m": npsha}
+}
+fn npsh_monitor_node_78(p_in) {
+    let npsha = npsh_available_m(p_in + 78 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 78, "npsh_m": npsha}
+}
+fn npsh_monitor_node_79(p_in) {
+    let npsha = npsh_available_m(p_in + 79 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 79, "npsh_m": npsha}
+}
+fn npsh_monitor_node_80(p_in) {
+    let npsha = npsh_available_m(p_in + 80 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 80, "npsh_m": npsha}
+}
+fn npsh_monitor_node_81(p_in) {
+    let npsha = npsh_available_m(p_in + 81 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 81, "npsh_m": npsha}
+}
+fn npsh_monitor_node_82(p_in) {
+    let npsha = npsh_available_m(p_in + 82 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 82, "npsh_m": npsha}
+}
+fn npsh_monitor_node_83(p_in) {
+    let npsha = npsh_available_m(p_in + 83 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 83, "npsh_m": npsha}
+}
+fn npsh_monitor_node_84(p_in) {
+    let npsha = npsh_available_m(p_in + 84 * 0.05, 1.2, 1141.0, 6.0);
+    #{"node": 84, "npsh_m": npsha}
+}

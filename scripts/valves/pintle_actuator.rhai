@@ -191,3 +191,163 @@ fn pintle_travel_node_44(target) {
     let c = compensate_backlash(target, 5.0, 0.02 + 44 * 0.001, -1.0);
     #{"node": 44, "compensated_mm": c}
 }
+fn pintle_travel_node_45(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 45 * 0.001, -1.0);
+    #{"node": 45, "compensated_mm": c}
+}
+fn pintle_travel_node_46(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 46 * 0.001, -1.0);
+    #{"node": 46, "compensated_mm": c}
+}
+fn pintle_travel_node_47(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 47 * 0.001, -1.0);
+    #{"node": 47, "compensated_mm": c}
+}
+fn pintle_travel_node_48(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 48 * 0.001, -1.0);
+    #{"node": 48, "compensated_mm": c}
+}
+fn pintle_travel_node_49(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 49 * 0.001, -1.0);
+    #{"node": 49, "compensated_mm": c}
+}
+fn pintle_travel_node_50(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 50 * 0.001, -1.0);
+    #{"node": 50, "compensated_mm": c}
+}
+fn pintle_travel_node_51(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 51 * 0.001, -1.0);
+    #{"node": 51, "compensated_mm": c}
+}
+fn pintle_travel_node_52(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 52 * 0.001, -1.0);
+    #{"node": 52, "compensated_mm": c}
+}
+fn pintle_travel_node_53(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 53 * 0.001, -1.0);
+    #{"node": 53, "compensated_mm": c}
+}
+fn pintle_travel_node_54(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 54 * 0.001, -1.0);
+    #{"node": 54, "compensated_mm": c}
+}
+fn pintle_travel_node_55(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 55 * 0.001, -1.0);
+    #{"node": 55, "compensated_mm": c}
+}
+fn pintle_travel_node_56(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 56 * 0.001, -1.0);
+    #{"node": 56, "compensated_mm": c}
+}
+fn pintle_travel_node_57(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 57 * 0.001, -1.0);
+    #{"node": 57, "compensated_mm": c}
+}
+fn pintle_travel_node_58(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 58 * 0.001, -1.0);
+    #{"node": 58, "compensated_mm": c}
+}
+fn pintle_travel_node_59(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 59 * 0.001, -1.0);
+    #{"node": 59, "compensated_mm": c}
+}
+fn pintle_travel_node_60(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 60 * 0.001, -1.0);
+    #{"node": 60, "compensated_mm": c}
+}
+fn pintle_travel_node_61(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 61 * 0.001, -1.0);
+    #{"node": 61, "compensated_mm": c}
+}
+fn pintle_travel_node_62(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 62 * 0.001, -1.0);
+    #{"node": 62, "compensated_mm": c}
+}
+fn pintle_travel_node_63(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 63 * 0.001, -1.0);
+    #{"node": 63, "compensated_mm": c}
+}
+fn pintle_travel_node_64(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 64 * 0.001, -1.0);
+    #{"node": 64, "compensated_mm": c}
+}
+fn pintle_travel_node_65(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 65 * 0.001, -1.0);
+    #{"node": 65, "compensated_mm": c}
+}
+fn pintle_travel_node_66(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 66 * 0.001, -1.0);
+    #{"node": 66, "compensated_mm": c}
+}
+fn pintle_travel_node_67(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 67 * 0.001, -1.0);
+    #{"node": 67, "compensated_mm": c}
+}
+fn pintle_travel_node_68(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 68 * 0.001, -1.0);
+    #{"node": 68, "compensated_mm": c}
+}
+fn pintle_travel_node_69(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 69 * 0.001, -1.0);
+    #{"node": 69, "compensated_mm": c}
+}
+fn pintle_travel_node_70(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 70 * 0.001, -1.0);
+    #{"node": 70, "compensated_mm": c}
+}
+fn pintle_travel_node_71(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 71 * 0.001, -1.0);
+    #{"node": 71, "compensated_mm": c}
+}
+fn pintle_travel_node_72(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 72 * 0.001, -1.0);
+    #{"node": 72, "compensated_mm": c}
+}
+fn pintle_travel_node_73(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 73 * 0.001, -1.0);
+    #{"node": 73, "compensated_mm": c}
+}
+fn pintle_travel_node_74(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 74 * 0.001, -1.0);
+    #{"node": 74, "compensated_mm": c}
+}
+fn pintle_travel_node_75(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 75 * 0.001, -1.0);
+    #{"node": 75, "compensated_mm": c}
+}
+fn pintle_travel_node_76(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 76 * 0.001, -1.0);
+    #{"node": 76, "compensated_mm": c}
+}
+fn pintle_travel_node_77(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 77 * 0.001, -1.0);
+    #{"node": 77, "compensated_mm": c}
+}
+fn pintle_travel_node_78(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 78 * 0.001, -1.0);
+    #{"node": 78, "compensated_mm": c}
+}
+fn pintle_travel_node_79(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 79 * 0.001, -1.0);
+    #{"node": 79, "compensated_mm": c}
+}
+fn pintle_travel_node_80(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 80 * 0.001, -1.0);
+    #{"node": 80, "compensated_mm": c}
+}
+fn pintle_travel_node_81(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 81 * 0.001, -1.0);
+    #{"node": 81, "compensated_mm": c}
+}
+fn pintle_travel_node_82(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 82 * 0.001, -1.0);
+    #{"node": 82, "compensated_mm": c}
+}
+fn pintle_travel_node_83(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 83 * 0.001, -1.0);
+    #{"node": 83, "compensated_mm": c}
+}
+fn pintle_travel_node_84(target) {
+    let c = compensate_backlash(target, 5.0, 0.02 + 84 * 0.001, -1.0);
+    #{"node": 84, "compensated_mm": c}
+}

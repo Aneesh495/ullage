@@ -200,3 +200,163 @@ fn cstar_operating_point_44(pc_bar, mdot) {
     let c = delivered_cstar(pc_bar, 0.008 + 44 * 0.0001, mdot);
     #{"point": 44, "cstar_m_s": c}
 }
+fn cstar_operating_point_45(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 45 * 0.0001, mdot);
+    #{"point": 45, "cstar_m_s": c}
+}
+fn cstar_operating_point_46(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 46 * 0.0001, mdot);
+    #{"point": 46, "cstar_m_s": c}
+}
+fn cstar_operating_point_47(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 47 * 0.0001, mdot);
+    #{"point": 47, "cstar_m_s": c}
+}
+fn cstar_operating_point_48(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 48 * 0.0001, mdot);
+    #{"point": 48, "cstar_m_s": c}
+}
+fn cstar_operating_point_49(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 49 * 0.0001, mdot);
+    #{"point": 49, "cstar_m_s": c}
+}
+fn cstar_operating_point_50(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 50 * 0.0001, mdot);
+    #{"point": 50, "cstar_m_s": c}
+}
+fn cstar_operating_point_51(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 51 * 0.0001, mdot);
+    #{"point": 51, "cstar_m_s": c}
+}
+fn cstar_operating_point_52(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 52 * 0.0001, mdot);
+    #{"point": 52, "cstar_m_s": c}
+}
+fn cstar_operating_point_53(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 53 * 0.0001, mdot);
+    #{"point": 53, "cstar_m_s": c}
+}
+fn cstar_operating_point_54(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 54 * 0.0001, mdot);
+    #{"point": 54, "cstar_m_s": c}
+}
+fn cstar_operating_point_55(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 55 * 0.0001, mdot);
+    #{"point": 55, "cstar_m_s": c}
+}
+fn cstar_operating_point_56(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 56 * 0.0001, mdot);
+    #{"point": 56, "cstar_m_s": c}
+}
+fn cstar_operating_point_57(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 57 * 0.0001, mdot);
+    #{"point": 57, "cstar_m_s": c}
+}
+fn cstar_operating_point_58(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 58 * 0.0001, mdot);
+    #{"point": 58, "cstar_m_s": c}
+}
+fn cstar_operating_point_59(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 59 * 0.0001, mdot);
+    #{"point": 59, "cstar_m_s": c}
+}
+fn cstar_operating_point_60(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 60 * 0.0001, mdot);
+    #{"point": 60, "cstar_m_s": c}
+}
+fn cstar_operating_point_61(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 61 * 0.0001, mdot);
+    #{"point": 61, "cstar_m_s": c}
+}
+fn cstar_operating_point_62(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 62 * 0.0001, mdot);
+    #{"point": 62, "cstar_m_s": c}
+}
+fn cstar_operating_point_63(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 63 * 0.0001, mdot);
+    #{"point": 63, "cstar_m_s": c}
+}
+fn cstar_operating_point_64(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 64 * 0.0001, mdot);
+    #{"point": 64, "cstar_m_s": c}
+}
+fn cstar_operating_point_65(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 65 * 0.0001, mdot);
+    #{"point": 65, "cstar_m_s": c}
+}
+fn cstar_operating_point_66(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 66 * 0.0001, mdot);
+    #{"point": 66, "cstar_m_s": c}
+}
+fn cstar_operating_point_67(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 67 * 0.0001, mdot);
+    #{"point": 67, "cstar_m_s": c}
+}
+fn cstar_operating_point_68(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 68 * 0.0001, mdot);
+    #{"point": 68, "cstar_m_s": c}
+}
+fn cstar_operating_point_69(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 69 * 0.0001, mdot);
+    #{"point": 69, "cstar_m_s": c}
+}
+fn cstar_operating_point_70(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 70 * 0.0001, mdot);
+    #{"point": 70, "cstar_m_s": c}
+}
+fn cstar_operating_point_71(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 71 * 0.0001, mdot);
+    #{"point": 71, "cstar_m_s": c}
+}
+fn cstar_operating_point_72(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 72 * 0.0001, mdot);
+    #{"point": 72, "cstar_m_s": c}
+}
+fn cstar_operating_point_73(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 73 * 0.0001, mdot);
+    #{"point": 73, "cstar_m_s": c}
+}
+fn cstar_operating_point_74(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 74 * 0.0001, mdot);
+    #{"point": 74, "cstar_m_s": c}
+}
+fn cstar_operating_point_75(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 75 * 0.0001, mdot);
+    #{"point": 75, "cstar_m_s": c}
+}
+fn cstar_operating_point_76(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 76 * 0.0001, mdot);
+    #{"point": 76, "cstar_m_s": c}
+}
+fn cstar_operating_point_77(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 77 * 0.0001, mdot);
+    #{"point": 77, "cstar_m_s": c}
+}
+fn cstar_operating_point_78(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 78 * 0.0001, mdot);
+    #{"point": 78, "cstar_m_s": c}
+}
+fn cstar_operating_point_79(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 79 * 0.0001, mdot);
+    #{"point": 79, "cstar_m_s": c}
+}
+fn cstar_operating_point_80(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 80 * 0.0001, mdot);
+    #{"point": 80, "cstar_m_s": c}
+}
+fn cstar_operating_point_81(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 81 * 0.0001, mdot);
+    #{"point": 81, "cstar_m_s": c}
+}
+fn cstar_operating_point_82(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 82 * 0.0001, mdot);
+    #{"point": 82, "cstar_m_s": c}
+}
+fn cstar_operating_point_83(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 83 * 0.0001, mdot);
+    #{"point": 83, "cstar_m_s": c}
+}
+fn cstar_operating_point_84(pc_bar, mdot) {
+    let c = delivered_cstar(pc_bar, 0.008 + 84 * 0.0001, mdot);
+    #{"point": 84, "cstar_m_s": c}
+}

@@ -187,3 +187,163 @@ fn ullage_ramp_point_44(t_sec) {
     let p = 5.0 + t_sec * (4.5 + 44 * 0.02);
     #{"step": 44, "target_bar": p}
 }
+fn ullage_ramp_point_45(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 45 * 0.02);
+    #{"step": 45, "target_bar": p}
+}
+fn ullage_ramp_point_46(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 46 * 0.02);
+    #{"step": 46, "target_bar": p}
+}
+fn ullage_ramp_point_47(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 47 * 0.02);
+    #{"step": 47, "target_bar": p}
+}
+fn ullage_ramp_point_48(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 48 * 0.02);
+    #{"step": 48, "target_bar": p}
+}
+fn ullage_ramp_point_49(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 49 * 0.02);
+    #{"step": 49, "target_bar": p}
+}
+fn ullage_ramp_point_50(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 50 * 0.02);
+    #{"step": 50, "target_bar": p}
+}
+fn ullage_ramp_point_51(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 51 * 0.02);
+    #{"step": 51, "target_bar": p}
+}
+fn ullage_ramp_point_52(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 52 * 0.02);
+    #{"step": 52, "target_bar": p}
+}
+fn ullage_ramp_point_53(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 53 * 0.02);
+    #{"step": 53, "target_bar": p}
+}
+fn ullage_ramp_point_54(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 54 * 0.02);
+    #{"step": 54, "target_bar": p}
+}
+fn ullage_ramp_point_55(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 55 * 0.02);
+    #{"step": 55, "target_bar": p}
+}
+fn ullage_ramp_point_56(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 56 * 0.02);
+    #{"step": 56, "target_bar": p}
+}
+fn ullage_ramp_point_57(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 57 * 0.02);
+    #{"step": 57, "target_bar": p}
+}
+fn ullage_ramp_point_58(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 58 * 0.02);
+    #{"step": 58, "target_bar": p}
+}
+fn ullage_ramp_point_59(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 59 * 0.02);
+    #{"step": 59, "target_bar": p}
+}
+fn ullage_ramp_point_60(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 60 * 0.02);
+    #{"step": 60, "target_bar": p}
+}
+fn ullage_ramp_point_61(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 61 * 0.02);
+    #{"step": 61, "target_bar": p}
+}
+fn ullage_ramp_point_62(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 62 * 0.02);
+    #{"step": 62, "target_bar": p}
+}
+fn ullage_ramp_point_63(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 63 * 0.02);
+    #{"step": 63, "target_bar": p}
+}
+fn ullage_ramp_point_64(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 64 * 0.02);
+    #{"step": 64, "target_bar": p}
+}
+fn ullage_ramp_point_65(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 65 * 0.02);
+    #{"step": 65, "target_bar": p}
+}
+fn ullage_ramp_point_66(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 66 * 0.02);
+    #{"step": 66, "target_bar": p}
+}
+fn ullage_ramp_point_67(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 67 * 0.02);
+    #{"step": 67, "target_bar": p}
+}
+fn ullage_ramp_point_68(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 68 * 0.02);
+    #{"step": 68, "target_bar": p}
+}
+fn ullage_ramp_point_69(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 69 * 0.02);
+    #{"step": 69, "target_bar": p}
+}
+fn ullage_ramp_point_70(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 70 * 0.02);
+    #{"step": 70, "target_bar": p}
+}
+fn ullage_ramp_point_71(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 71 * 0.02);
+    #{"step": 71, "target_bar": p}
+}
+fn ullage_ramp_point_72(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 72 * 0.02);
+    #{"step": 72, "target_bar": p}
+}
+fn ullage_ramp_point_73(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 73 * 0.02);
+    #{"step": 73, "target_bar": p}
+}
+fn ullage_ramp_point_74(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 74 * 0.02);
+    #{"step": 74, "target_bar": p}
+}
+fn ullage_ramp_point_75(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 75 * 0.02);
+    #{"step": 75, "target_bar": p}
+}
+fn ullage_ramp_point_76(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 76 * 0.02);
+    #{"step": 76, "target_bar": p}
+}
+fn ullage_ramp_point_77(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 77 * 0.02);
+    #{"step": 77, "target_bar": p}
+}
+fn ullage_ramp_point_78(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 78 * 0.02);
+    #{"step": 78, "target_bar": p}
+}
+fn ullage_ramp_point_79(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 79 * 0.02);
+    #{"step": 79, "target_bar": p}
+}
+fn ullage_ramp_point_80(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 80 * 0.02);
+    #{"step": 80, "target_bar": p}
+}
+fn ullage_ramp_point_81(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 81 * 0.02);
+    #{"step": 81, "target_bar": p}
+}
+fn ullage_ramp_point_82(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 82 * 0.02);
+    #{"step": 82, "target_bar": p}
+}
+fn ullage_ramp_point_83(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 83 * 0.02);
+    #{"step": 83, "target_bar": p}
+}
+fn ullage_ramp_point_84(t_sec) {
+    let p = 5.0 + t_sec * (4.5 + 84 * 0.02);
+    #{"step": 84, "target_bar": p}
+}

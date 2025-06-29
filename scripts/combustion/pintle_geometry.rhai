@@ -240,3 +240,203 @@ fn pintle_geometry_stroke_44(pct) {
     let a = pintle_annular_area_sq_m(0.04, s, 45.0);
     #{"index": 44, "area_sq_m": a}
 }
+fn pintle_geometry_stroke_45(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 45 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 45, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_46(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 46 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 46, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_47(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 47 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 47, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_48(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 48 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 48, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_49(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 49 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 49, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_50(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 50 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 50, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_51(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 51 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 51, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_52(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 52 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 52, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_53(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 53 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 53, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_54(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 54 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 54, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_55(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 55 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 55, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_56(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 56 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 56, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_57(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 57 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 57, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_58(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 58 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 58, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_59(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 59 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 59, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_60(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 60 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 60, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_61(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 61 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 61, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_62(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 62 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 62, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_63(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 63 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 63, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_64(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 64 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 64, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_65(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 65 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 65, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_66(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 66 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 66, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_67(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 67 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 67, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_68(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 68 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 68, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_69(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 69 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 69, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_70(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 70 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 70, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_71(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 71 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 71, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_72(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 72 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 72, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_73(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 73 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 73, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_74(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 74 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 74, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_75(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 75 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 75, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_76(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 76 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 76, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_77(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 77 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 77, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_78(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 78 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 78, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_79(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 79 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 79, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_80(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 80 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 80, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_81(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 81 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 81, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_82(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 82 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 82, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_83(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 83 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 83, "area_sq_m": a}
+}
+fn pintle_geometry_stroke_84(pct) {
+    let s = pintle_stroke_from_throttle(pct, 20.0 + 84 * 0.1);
+    let a = pintle_annular_area_sq_m(0.04, s, 45.0);
+    #{"index": 84, "area_sq_m": a}
+}

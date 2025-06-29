@@ -499,3 +499,553 @@ fn math_series_expansion_term_34(x, order) {
     }
     val
 }
+// Math expansion function block 35
+fn math_series_expansion_term_35(x, order) {
+    let factor = 35 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 36
+fn math_series_expansion_term_36(x, order) {
+    let factor = 36 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 37
+fn math_series_expansion_term_37(x, order) {
+    let factor = 37 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 38
+fn math_series_expansion_term_38(x, order) {
+    let factor = 38 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 39
+fn math_series_expansion_term_39(x, order) {
+    let factor = 39 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 40
+fn math_series_expansion_term_40(x, order) {
+    let factor = 40 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 41
+fn math_series_expansion_term_41(x, order) {
+    let factor = 41 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 42
+fn math_series_expansion_term_42(x, order) {
+    let factor = 42 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 43
+fn math_series_expansion_term_43(x, order) {
+    let factor = 43 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 44
+fn math_series_expansion_term_44(x, order) {
+    let factor = 44 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 45
+fn math_series_expansion_term_45(x, order) {
+    let factor = 45 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 46
+fn math_series_expansion_term_46(x, order) {
+    let factor = 46 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 47
+fn math_series_expansion_term_47(x, order) {
+    let factor = 47 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 48
+fn math_series_expansion_term_48(x, order) {
+    let factor = 48 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 49
+fn math_series_expansion_term_49(x, order) {
+    let factor = 49 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 50
+fn math_series_expansion_term_50(x, order) {
+    let factor = 50 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 51
+fn math_series_expansion_term_51(x, order) {
+    let factor = 51 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 52
+fn math_series_expansion_term_52(x, order) {
+    let factor = 52 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 53
+fn math_series_expansion_term_53(x, order) {
+    let factor = 53 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 54
+fn math_series_expansion_term_54(x, order) {
+    let factor = 54 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 55
+fn math_series_expansion_term_55(x, order) {
+    let factor = 55 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 56
+fn math_series_expansion_term_56(x, order) {
+    let factor = 56 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 57
+fn math_series_expansion_term_57(x, order) {
+    let factor = 57 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 58
+fn math_series_expansion_term_58(x, order) {
+    let factor = 58 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 59
+fn math_series_expansion_term_59(x, order) {
+    let factor = 59 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 60
+fn math_series_expansion_term_60(x, order) {
+    let factor = 60 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 61
+fn math_series_expansion_term_61(x, order) {
+    let factor = 61 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 62
+fn math_series_expansion_term_62(x, order) {
+    let factor = 62 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 63
+fn math_series_expansion_term_63(x, order) {
+    let factor = 63 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 64
+fn math_series_expansion_term_64(x, order) {
+    let factor = 64 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 65
+fn math_series_expansion_term_65(x, order) {
+    let factor = 65 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 66
+fn math_series_expansion_term_66(x, order) {
+    let factor = 66 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 67
+fn math_series_expansion_term_67(x, order) {
+    let factor = 67 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 68
+fn math_series_expansion_term_68(x, order) {
+    let factor = 68 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 69
+fn math_series_expansion_term_69(x, order) {
+    let factor = 69 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 70
+fn math_series_expansion_term_70(x, order) {
+    let factor = 70 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 71
+fn math_series_expansion_term_71(x, order) {
+    let factor = 71 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 72
+fn math_series_expansion_term_72(x, order) {
+    let factor = 72 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 73
+fn math_series_expansion_term_73(x, order) {
+    let factor = 73 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 74
+fn math_series_expansion_term_74(x, order) {
+    let factor = 74 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 75
+fn math_series_expansion_term_75(x, order) {
+    let factor = 75 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 76
+fn math_series_expansion_term_76(x, order) {
+    let factor = 76 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 77
+fn math_series_expansion_term_77(x, order) {
+    let factor = 77 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 78
+fn math_series_expansion_term_78(x, order) {
+    let factor = 78 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 79
+fn math_series_expansion_term_79(x, order) {
+    let factor = 79 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 80
+fn math_series_expansion_term_80(x, order) {
+    let factor = 80 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 81
+fn math_series_expansion_term_81(x, order) {
+    let factor = 81 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 82
+fn math_series_expansion_term_82(x, order) {
+    let factor = 82 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 83
+fn math_series_expansion_term_83(x, order) {
+    let factor = 83 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}
+// Math expansion function block 84
+fn math_series_expansion_term_84(x, order) {
+    let factor = 84 * 1.0;
+    let val = 1.0;
+    let k = 1;
+    while k <= order {
+        val += (x * factor) / (k * 1.0);
+        k += 1;
+    }
+    val
+}

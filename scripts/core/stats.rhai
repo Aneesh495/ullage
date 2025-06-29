@@ -228,3 +228,303 @@ fn stats_windowed_moment_34(arr, power) {
     for x in arr { let d = x - m; sum_p += (d + 34 * 0.01) * power; }
     sum_p / (arr.len() * 1.0)
 }
+fn stats_windowed_moment_35(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 35 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_36(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 36 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_37(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 37 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_38(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 38 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_39(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 39 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_40(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 40 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_41(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 41 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_42(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 42 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_43(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 43 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_44(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 44 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_45(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 45 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_46(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 46 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_47(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 47 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_48(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 48 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_49(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 49 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_50(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 50 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_51(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 51 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_52(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 52 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_53(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 53 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_54(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 54 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_55(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 55 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_56(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 56 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_57(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 57 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_58(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 58 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_59(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 59 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_60(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 60 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_61(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 61 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_62(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 62 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_63(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 63 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_64(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 64 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_65(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 65 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_66(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 66 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_67(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 67 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_68(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 68 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_69(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 69 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_70(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 70 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_71(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 71 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_72(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 72 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_73(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 73 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_74(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 74 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_75(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 75 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_76(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 76 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_77(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 77 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_78(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 78 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_79(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 79 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_80(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 80 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_81(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 81 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_82(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 82 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_83(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 83 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}
+fn stats_windowed_moment_84(arr, power) {
+    let m = stats_mean(arr);
+    let sum_p = 0.0;
+    for x in arr { let d = x - m; sum_p += (d + 84 * 0.01) * power; }
+    sum_p / (arr.len() * 1.0)
+}

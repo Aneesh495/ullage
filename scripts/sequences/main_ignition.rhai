@@ -150,3 +150,123 @@ fn ignition_ladder_stage_43() {
 fn ignition_ladder_stage_44() {
     #{"stage": 44, "timing_ms": -500 + 44 * 25}
 }
+fn ignition_ladder_stage_45() {
+    #{"stage": 45, "timing_ms": -500 + 45 * 25}
+}
+fn ignition_ladder_stage_46() {
+    #{"stage": 46, "timing_ms": -500 + 46 * 25}
+}
+fn ignition_ladder_stage_47() {
+    #{"stage": 47, "timing_ms": -500 + 47 * 25}
+}
+fn ignition_ladder_stage_48() {
+    #{"stage": 48, "timing_ms": -500 + 48 * 25}
+}
+fn ignition_ladder_stage_49() {
+    #{"stage": 49, "timing_ms": -500 + 49 * 25}
+}
+fn ignition_ladder_stage_50() {
+    #{"stage": 50, "timing_ms": -500 + 50 * 25}
+}
+fn ignition_ladder_stage_51() {
+    #{"stage": 51, "timing_ms": -500 + 51 * 25}
+}
+fn ignition_ladder_stage_52() {
+    #{"stage": 52, "timing_ms": -500 + 52 * 25}
+}
+fn ignition_ladder_stage_53() {
+    #{"stage": 53, "timing_ms": -500 + 53 * 25}
+}
+fn ignition_ladder_stage_54() {
+    #{"stage": 54, "timing_ms": -500 + 54 * 25}
+}
+fn ignition_ladder_stage_55() {
+    #{"stage": 55, "timing_ms": -500 + 55 * 25}
+}
+fn ignition_ladder_stage_56() {
+    #{"stage": 56, "timing_ms": -500 + 56 * 25}
+}
+fn ignition_ladder_stage_57() {
+    #{"stage": 57, "timing_ms": -500 + 57 * 25}
+}
+fn ignition_ladder_stage_58() {
+    #{"stage": 58, "timing_ms": -500 + 58 * 25}
+}
+fn ignition_ladder_stage_59() {
+    #{"stage": 59, "timing_ms": -500 + 59 * 25}
+}
+fn ignition_ladder_stage_60() {
+    #{"stage": 60, "timing_ms": -500 + 60 * 25}
+}
+fn ignition_ladder_stage_61() {
+    #{"stage": 61, "timing_ms": -500 + 61 * 25}
+}
+fn ignition_ladder_stage_62() {
+    #{"stage": 62, "timing_ms": -500 + 62 * 25}
+}
+fn ignition_ladder_stage_63() {
+    #{"stage": 63, "timing_ms": -500 + 63 * 25}
+}
+fn ignition_ladder_stage_64() {
+    #{"stage": 64, "timing_ms": -500 + 64 * 25}
+}
+fn ignition_ladder_stage_65() {
+    #{"stage": 65, "timing_ms": -500 + 65 * 25}
+}
+fn ignition_ladder_stage_66() {
+    #{"stage": 66, "timing_ms": -500 + 66 * 25}
+}
+fn ignition_ladder_stage_67() {
+    #{"stage": 67, "timing_ms": -500 + 67 * 25}
+}
+fn ignition_ladder_stage_68() {
+    #{"stage": 68, "timing_ms": -500 + 68 * 25}
+}
+fn ignition_ladder_stage_69() {
+    #{"stage": 69, "timing_ms": -500 + 69 * 25}
+}
+fn ignition_ladder_stage_70() {
+    #{"stage": 70, "timing_ms": -500 + 70 * 25}
+}
+fn ignition_ladder_stage_71() {
+    #{"stage": 71, "timing_ms": -500 + 71 * 25}
+}
+fn ignition_ladder_stage_72() {
+    #{"stage": 72, "timing_ms": -500 + 72 * 25}
+}
+fn ignition_ladder_stage_73() {
+    #{"stage": 73, "timing_ms": -500 + 73 * 25}
+}
+fn ignition_ladder_stage_74() {
+    #{"stage": 74, "timing_ms": -500 + 74 * 25}
+}
+fn ignition_ladder_stage_75() {
+    #{"stage": 75, "timing_ms": -500 + 75 * 25}
+}
+fn ignition_ladder_stage_76() {
+    #{"stage": 76, "timing_ms": -500 + 76 * 25}
+}
+fn ignition_ladder_stage_77() {
+    #{"stage": 77, "timing_ms": -500 + 77 * 25}
+}
+fn ignition_ladder_stage_78() {
+    #{"stage": 78, "timing_ms": -500 + 78 * 25}
+}
+fn ignition_ladder_stage_79() {
+    #{"stage": 79, "timing_ms": -500 + 79 * 25}
+}
+fn ignition_ladder_stage_80() {
+    #{"stage": 80, "timing_ms": -500 + 80 * 25}
+}
+fn ignition_ladder_stage_81() {
+    #{"stage": 81, "timing_ms": -500 + 81 * 25}
+}
+fn ignition_ladder_stage_82() {
+    #{"stage": 82, "timing_ms": -500 + 82 * 25}
+}
+fn ignition_ladder_stage_83() {
+    #{"stage": 83, "timing_ms": -500 + 83 * 25}
+}
+fn ignition_ladder_stage_84() {
+    #{"stage": 84, "timing_ms": -500 + 84 * 25}
+}

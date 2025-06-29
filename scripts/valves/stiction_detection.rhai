@@ -191,3 +191,163 @@ fn stiction_scan_node_44(dp) {
     let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 44 * 0.1);
     #{"node": 44, "stiction": s}
 }
+fn stiction_scan_node_45(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 45 * 0.1);
+    #{"node": 45, "stiction": s}
+}
+fn stiction_scan_node_46(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 46 * 0.1);
+    #{"node": 46, "stiction": s}
+}
+fn stiction_scan_node_47(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 47 * 0.1);
+    #{"node": 47, "stiction": s}
+}
+fn stiction_scan_node_48(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 48 * 0.1);
+    #{"node": 48, "stiction": s}
+}
+fn stiction_scan_node_49(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 49 * 0.1);
+    #{"node": 49, "stiction": s}
+}
+fn stiction_scan_node_50(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 50 * 0.1);
+    #{"node": 50, "stiction": s}
+}
+fn stiction_scan_node_51(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 51 * 0.1);
+    #{"node": 51, "stiction": s}
+}
+fn stiction_scan_node_52(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 52 * 0.1);
+    #{"node": 52, "stiction": s}
+}
+fn stiction_scan_node_53(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 53 * 0.1);
+    #{"node": 53, "stiction": s}
+}
+fn stiction_scan_node_54(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 54 * 0.1);
+    #{"node": 54, "stiction": s}
+}
+fn stiction_scan_node_55(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 55 * 0.1);
+    #{"node": 55, "stiction": s}
+}
+fn stiction_scan_node_56(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 56 * 0.1);
+    #{"node": 56, "stiction": s}
+}
+fn stiction_scan_node_57(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 57 * 0.1);
+    #{"node": 57, "stiction": s}
+}
+fn stiction_scan_node_58(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 58 * 0.1);
+    #{"node": 58, "stiction": s}
+}
+fn stiction_scan_node_59(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 59 * 0.1);
+    #{"node": 59, "stiction": s}
+}
+fn stiction_scan_node_60(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 60 * 0.1);
+    #{"node": 60, "stiction": s}
+}
+fn stiction_scan_node_61(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 61 * 0.1);
+    #{"node": 61, "stiction": s}
+}
+fn stiction_scan_node_62(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 62 * 0.1);
+    #{"node": 62, "stiction": s}
+}
+fn stiction_scan_node_63(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 63 * 0.1);
+    #{"node": 63, "stiction": s}
+}
+fn stiction_scan_node_64(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 64 * 0.1);
+    #{"node": 64, "stiction": s}
+}
+fn stiction_scan_node_65(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 65 * 0.1);
+    #{"node": 65, "stiction": s}
+}
+fn stiction_scan_node_66(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 66 * 0.1);
+    #{"node": 66, "stiction": s}
+}
+fn stiction_scan_node_67(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 67 * 0.1);
+    #{"node": 67, "stiction": s}
+}
+fn stiction_scan_node_68(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 68 * 0.1);
+    #{"node": 68, "stiction": s}
+}
+fn stiction_scan_node_69(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 69 * 0.1);
+    #{"node": 69, "stiction": s}
+}
+fn stiction_scan_node_70(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 70 * 0.1);
+    #{"node": 70, "stiction": s}
+}
+fn stiction_scan_node_71(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 71 * 0.1);
+    #{"node": 71, "stiction": s}
+}
+fn stiction_scan_node_72(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 72 * 0.1);
+    #{"node": 72, "stiction": s}
+}
+fn stiction_scan_node_73(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 73 * 0.1);
+    #{"node": 73, "stiction": s}
+}
+fn stiction_scan_node_74(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 74 * 0.1);
+    #{"node": 74, "stiction": s}
+}
+fn stiction_scan_node_75(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 75 * 0.1);
+    #{"node": 75, "stiction": s}
+}
+fn stiction_scan_node_76(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 76 * 0.1);
+    #{"node": 76, "stiction": s}
+}
+fn stiction_scan_node_77(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 77 * 0.1);
+    #{"node": 77, "stiction": s}
+}
+fn stiction_scan_node_78(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 78 * 0.1);
+    #{"node": 78, "stiction": s}
+}
+fn stiction_scan_node_79(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 79 * 0.1);
+    #{"node": 79, "stiction": s}
+}
+fn stiction_scan_node_80(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 80 * 0.1);
+    #{"node": 80, "stiction": s}
+}
+fn stiction_scan_node_81(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 81 * 0.1);
+    #{"node": 81, "stiction": s}
+}
+fn stiction_scan_node_82(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 82 * 0.1);
+    #{"node": 82, "stiction": s}
+}
+fn stiction_scan_node_83(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 83 * 0.1);
+    #{"node": 83, "stiction": s}
+}
+fn stiction_scan_node_84(dp) {
+    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + 84 * 0.1);
+    #{"node": 84, "stiction": s}
+}

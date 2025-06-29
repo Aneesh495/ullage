@@ -45,7 +45,7 @@ def gen_redline_matrix():
     lines.append("}")
     lines.append("if verify_redline_matrix() { log_info(\"[SAFETY::REDLINE_MATRIX] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn adaptive_boundary_channel_{i}(phase, throttle) {{")
         lines.append(f"    let r = get_envelope_redlines(phase, throttle);")
         lines.append(f"    #{{\"channel\": {i}, \"pc_limit\": r.pc_max_bar + {i} * 0.1}}")
@@ -74,7 +74,7 @@ def gen_limit_evaluator():
     lines.append("}")
     lines.append("if verify_limit_evaluator() { log_info(\"[SAFETY::LIMIT_EVALUATOR] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn limit_check_station_{i}(val) {{")
         lines.append(f"    let r = evaluate_limit(val, 0.0, 100.0 + {i} * 0.5, 0, 2);")
         lines.append(f"    #{{\"station\": {i}, \"tripped\": r.tripped}}")
@@ -111,7 +111,7 @@ def gen_dual_voting():
     lines.append("}")
     lines.append("if verify_dual_voting() { log_info(\"[SAFETY::DUAL_VOTING] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn voting_channel_group_{i}(s1, s2, s3) {{")
         lines.append(f"    let r = vote_2oo3(s1, s2, s3, 2.0 + {i} * 0.05);")
         lines.append(f"    #{{\"group\": {i}, \"voted_val\": r.val}}")
@@ -145,7 +145,7 @@ def gen_trip_latches():
     lines.append("}")
     lines.append("if verify_trip_latches() { log_info(\"[SAFETY::TRIP_LATCHES] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn trip_register_bank_{i}(val, ts) {{")
         lines.append(f"    let l = #{{\"is_set\": false, \"parameter\": \"\", \"trip_val\": 0.0, \"timestamp_ns\": 0}};")
         lines.append(f"    let r = latch_first_trip(l, \"CH_{i}\", val, ts);")
@@ -184,7 +184,7 @@ def gen_abort_trajectories():
     lines.append("}")
     lines.append("if verify_abort_trajectories() { log_info(\"[SAFETY::ABORT_TRAJECTORIES] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn abort_trajectory_node_{i}(typ) {{")
         lines.append(f"    let s = get_abort_valve_schedule(typ);")
         lines.append(f"    #{{\"node\": {i}, \"action_count\": s.len()}}")
@@ -214,7 +214,7 @@ def gen_purge_matrix():
     lines.append("}")
     lines.append("if verify_purge_matrix() { log_info(\"[SAFETY::PURGE_MATRIX] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn gn2_purge_orifice_{i}(p_bar) {{")
         lines.append(f"    let q = purge_manifold_mass_flow(p_bar + {i} * 0.2, 0.0002);")
         lines.append(f"    #{{\"orifice\": {i}, \"purge_kg_s\": q}}")
@@ -239,7 +239,7 @@ def gen_fire_suppression():
     lines.append("}")
     lines.append("if verify_fire_suppression() { log_info(\"[SAFETY::FIRE_SUPPRESSION] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn deluge_zone_{i}(p_header) {{")
         lines.append(f"    let flow = deluge_water_flow_gpm(p_header, 24 + {i}, 14.0);")
         lines.append(f"    #{{\"zone\": {i}, \"flow_gpm\": flow}}")
@@ -263,7 +263,7 @@ def gen_recovery_policies():
     lines.append("}")
     lines.append("if verify_recovery_policies() { log_info(\"[SAFETY::RECOVERY_POLICIES] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn safing_checkpoint_{i}(p_chamber) {{")
         lines.append(f"    let s = is_stand_safed(p_chamber, 2.0, 2.0, 0.0, 0.0);")
         lines.append(f"    #{{\"check\": {i}, \"safe\": s}}")

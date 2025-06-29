@@ -201,3 +201,163 @@ fn abort_trajectory_node_44(typ) {
     let s = get_abort_valve_schedule(typ);
     #{"node": 44, "action_count": s.len()}
 }
+fn abort_trajectory_node_45(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 45, "action_count": s.len()}
+}
+fn abort_trajectory_node_46(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 46, "action_count": s.len()}
+}
+fn abort_trajectory_node_47(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 47, "action_count": s.len()}
+}
+fn abort_trajectory_node_48(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 48, "action_count": s.len()}
+}
+fn abort_trajectory_node_49(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 49, "action_count": s.len()}
+}
+fn abort_trajectory_node_50(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 50, "action_count": s.len()}
+}
+fn abort_trajectory_node_51(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 51, "action_count": s.len()}
+}
+fn abort_trajectory_node_52(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 52, "action_count": s.len()}
+}
+fn abort_trajectory_node_53(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 53, "action_count": s.len()}
+}
+fn abort_trajectory_node_54(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 54, "action_count": s.len()}
+}
+fn abort_trajectory_node_55(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 55, "action_count": s.len()}
+}
+fn abort_trajectory_node_56(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 56, "action_count": s.len()}
+}
+fn abort_trajectory_node_57(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 57, "action_count": s.len()}
+}
+fn abort_trajectory_node_58(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 58, "action_count": s.len()}
+}
+fn abort_trajectory_node_59(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 59, "action_count": s.len()}
+}
+fn abort_trajectory_node_60(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 60, "action_count": s.len()}
+}
+fn abort_trajectory_node_61(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 61, "action_count": s.len()}
+}
+fn abort_trajectory_node_62(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 62, "action_count": s.len()}
+}
+fn abort_trajectory_node_63(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 63, "action_count": s.len()}
+}
+fn abort_trajectory_node_64(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 64, "action_count": s.len()}
+}
+fn abort_trajectory_node_65(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 65, "action_count": s.len()}
+}
+fn abort_trajectory_node_66(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 66, "action_count": s.len()}
+}
+fn abort_trajectory_node_67(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 67, "action_count": s.len()}
+}
+fn abort_trajectory_node_68(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 68, "action_count": s.len()}
+}
+fn abort_trajectory_node_69(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 69, "action_count": s.len()}
+}
+fn abort_trajectory_node_70(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 70, "action_count": s.len()}
+}
+fn abort_trajectory_node_71(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 71, "action_count": s.len()}
+}
+fn abort_trajectory_node_72(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 72, "action_count": s.len()}
+}
+fn abort_trajectory_node_73(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 73, "action_count": s.len()}
+}
+fn abort_trajectory_node_74(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 74, "action_count": s.len()}
+}
+fn abort_trajectory_node_75(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 75, "action_count": s.len()}
+}
+fn abort_trajectory_node_76(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 76, "action_count": s.len()}
+}
+fn abort_trajectory_node_77(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 77, "action_count": s.len()}
+}
+fn abort_trajectory_node_78(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 78, "action_count": s.len()}
+}
+fn abort_trajectory_node_79(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 79, "action_count": s.len()}
+}
+fn abort_trajectory_node_80(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 80, "action_count": s.len()}
+}
+fn abort_trajectory_node_81(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 81, "action_count": s.len()}
+}
+fn abort_trajectory_node_82(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 82, "action_count": s.len()}
+}
+fn abort_trajectory_node_83(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 83, "action_count": s.len()}
+}
+fn abort_trajectory_node_84(typ) {
+    let s = get_abort_valve_schedule(typ);
+    #{"node": 84, "action_count": s.len()}
+}

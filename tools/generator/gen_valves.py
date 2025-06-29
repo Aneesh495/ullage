@@ -36,7 +36,7 @@ def gen_valve_controller():
     lines.append("}")
     lines.append("if verify_valve_controller() { log_info(\"[VALVES::CONTROLLER] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn valve_pid_tuning_bank_{i}(sp, pv) {{")
         lines.append(f"    let st = #{{ \"integral\": 0.0, \"prev_error\": 0.0, \"i_max\": 50.0, \"out_min\": 0.0, \"out_max\": 100.0 }};")
         lines.append(f"    let r = pid_step(sp, pv, 2.0 + {i} * 0.05, 0.5, 0.1, 0.01, st);")
@@ -61,7 +61,7 @@ def gen_response_profiler():
     lines.append("}")
     lines.append("if verify_response_profiler() { log_info(\"[VALVES::PROFILER] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn response_profile_curve_{i}(t_ms) {{")
         lines.append(f"    let pos = smoothstep(0.0, 100.0 + {i} * 2.0, t_ms);")
         lines.append(f"    #{{\"profile\": {i}, \"pos_pct\": pos * 100.0}}")
@@ -89,7 +89,7 @@ def gen_stiction_detection():
     lines.append("}")
     lines.append("if verify_stiction() { log_info(\"[VALVES::STICTION] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn stiction_scan_node_{i}(dp) {{")
         lines.append(f"    let s = detect_valve_stiction(100.0, 0.0, dp, 5.0 + {i} * 0.1);")
         lines.append(f"    #{{\"node\": {i}, \"stiction\": s}}")
@@ -116,7 +116,7 @@ def gen_pneumatic_actuator():
     lines.append("}")
     lines.append("if verify_pneumatic() { log_info(\"[VALVES::PNEUMATIC] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn pneumatic_stroke_step_{i}(p_bar) {{")
         lines.append(f"    let f = pneumatic_net_force_n(p_bar, 0.01, 1000.0, 10000.0, {i} * 0.001);")
         lines.append(f"    #{{\"step\": {i}, \"net_force_n\": f}}")
@@ -142,7 +142,7 @@ def gen_hydraulic_servo():
     lines.append("}")
     lines.append("if verify_hydraulic_servo() { log_info(\"[VALVES::HYDRAULIC_SERVO] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn servo_response_slice_{i}(spool) {{")
         lines.append(f"    let q = servo_flow_rate_lpm(spool, 70.0 + {i} * 1.0, 40.0, 70.0);")
         lines.append(f"    #{{\"slice\": {i}, \"flow_lpm\": q}}")
@@ -170,7 +170,7 @@ def gen_pintle_actuator():
     lines.append("}")
     lines.append("if verify_pintle_actuator() { log_info(\"[VALVES::PINTLE_ACTUATOR] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn pintle_travel_node_{i}(target) {{")
         lines.append(f"    let c = compensate_backlash(target, 5.0, 0.02 + {i} * 0.001, -1.0);")
         lines.append(f"    #{{\"node\": {i}, \"compensated_mm\": c}}")
@@ -196,7 +196,7 @@ def gen_seal_decay():
     lines.append("}")
     lines.append("if verify_seal_decay() { log_info(\"[VALVES::SEAL_DECAY] Verification passed.\"); }")
 
-    for i in range(1, 45):
+    for i in range(1, 85):
         lines.append(f"fn seal_decay_channel_{i}(time_s) {{")
         lines.append(f"    let q = leak_rate_sccm(1000.0, 30.0, 29.98 - {i} * 0.001, time_s);")
         lines.append(f"    #{{\"ch\": {i}, \"leak_sccm\": q}}")

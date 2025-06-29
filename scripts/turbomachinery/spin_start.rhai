@@ -188,3 +188,163 @@ fn spin_start_timestep_44(torque) {
     let a = spin_start_acceleration(torque, 30.0 + 44 * 0.5, 0.05);
     #{"step": 44, "alpha_rad_s2": a}
 }
+fn spin_start_timestep_45(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 45 * 0.5, 0.05);
+    #{"step": 45, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_46(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 46 * 0.5, 0.05);
+    #{"step": 46, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_47(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 47 * 0.5, 0.05);
+    #{"step": 47, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_48(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 48 * 0.5, 0.05);
+    #{"step": 48, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_49(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 49 * 0.5, 0.05);
+    #{"step": 49, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_50(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 50 * 0.5, 0.05);
+    #{"step": 50, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_51(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 51 * 0.5, 0.05);
+    #{"step": 51, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_52(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 52 * 0.5, 0.05);
+    #{"step": 52, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_53(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 53 * 0.5, 0.05);
+    #{"step": 53, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_54(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 54 * 0.5, 0.05);
+    #{"step": 54, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_55(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 55 * 0.5, 0.05);
+    #{"step": 55, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_56(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 56 * 0.5, 0.05);
+    #{"step": 56, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_57(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 57 * 0.5, 0.05);
+    #{"step": 57, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_58(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 58 * 0.5, 0.05);
+    #{"step": 58, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_59(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 59 * 0.5, 0.05);
+    #{"step": 59, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_60(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 60 * 0.5, 0.05);
+    #{"step": 60, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_61(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 61 * 0.5, 0.05);
+    #{"step": 61, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_62(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 62 * 0.5, 0.05);
+    #{"step": 62, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_63(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 63 * 0.5, 0.05);
+    #{"step": 63, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_64(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 64 * 0.5, 0.05);
+    #{"step": 64, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_65(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 65 * 0.5, 0.05);
+    #{"step": 65, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_66(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 66 * 0.5, 0.05);
+    #{"step": 66, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_67(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 67 * 0.5, 0.05);
+    #{"step": 67, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_68(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 68 * 0.5, 0.05);
+    #{"step": 68, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_69(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 69 * 0.5, 0.05);
+    #{"step": 69, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_70(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 70 * 0.5, 0.05);
+    #{"step": 70, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_71(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 71 * 0.5, 0.05);
+    #{"step": 71, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_72(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 72 * 0.5, 0.05);
+    #{"step": 72, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_73(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 73 * 0.5, 0.05);
+    #{"step": 73, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_74(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 74 * 0.5, 0.05);
+    #{"step": 74, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_75(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 75 * 0.5, 0.05);
+    #{"step": 75, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_76(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 76 * 0.5, 0.05);
+    #{"step": 76, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_77(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 77 * 0.5, 0.05);
+    #{"step": 77, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_78(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 78 * 0.5, 0.05);
+    #{"step": 78, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_79(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 79 * 0.5, 0.05);
+    #{"step": 79, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_80(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 80 * 0.5, 0.05);
+    #{"step": 80, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_81(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 81 * 0.5, 0.05);
+    #{"step": 81, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_82(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 82 * 0.5, 0.05);
+    #{"step": 82, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_83(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 83 * 0.5, 0.05);
+    #{"step": 83, "alpha_rad_s2": a}
+}
+fn spin_start_timestep_84(torque) {
+    let a = spin_start_acceleration(torque, 30.0 + 84 * 0.5, 0.05);
+    #{"step": 84, "alpha_rad_s2": a}
+}

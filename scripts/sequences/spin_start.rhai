@@ -187,3 +187,163 @@ fn spool_rpm_profile_44(t_s) {
     let rpm = t_s * (15000.0 + 44 * 100.0);
     #{"step": 44, "rpm": rpm}
 }
+fn spool_rpm_profile_45(t_s) {
+    let rpm = t_s * (15000.0 + 45 * 100.0);
+    #{"step": 45, "rpm": rpm}
+}
+fn spool_rpm_profile_46(t_s) {
+    let rpm = t_s * (15000.0 + 46 * 100.0);
+    #{"step": 46, "rpm": rpm}
+}
+fn spool_rpm_profile_47(t_s) {
+    let rpm = t_s * (15000.0 + 47 * 100.0);
+    #{"step": 47, "rpm": rpm}
+}
+fn spool_rpm_profile_48(t_s) {
+    let rpm = t_s * (15000.0 + 48 * 100.0);
+    #{"step": 48, "rpm": rpm}
+}
+fn spool_rpm_profile_49(t_s) {
+    let rpm = t_s * (15000.0 + 49 * 100.0);
+    #{"step": 49, "rpm": rpm}
+}
+fn spool_rpm_profile_50(t_s) {
+    let rpm = t_s * (15000.0 + 50 * 100.0);
+    #{"step": 50, "rpm": rpm}
+}
+fn spool_rpm_profile_51(t_s) {
+    let rpm = t_s * (15000.0 + 51 * 100.0);
+    #{"step": 51, "rpm": rpm}
+}
+fn spool_rpm_profile_52(t_s) {
+    let rpm = t_s * (15000.0 + 52 * 100.0);
+    #{"step": 52, "rpm": rpm}
+}
+fn spool_rpm_profile_53(t_s) {
+    let rpm = t_s * (15000.0 + 53 * 100.0);
+    #{"step": 53, "rpm": rpm}
+}
+fn spool_rpm_profile_54(t_s) {
+    let rpm = t_s * (15000.0 + 54 * 100.0);
+    #{"step": 54, "rpm": rpm}
+}
+fn spool_rpm_profile_55(t_s) {
+    let rpm = t_s * (15000.0 + 55 * 100.0);
+    #{"step": 55, "rpm": rpm}
+}
+fn spool_rpm_profile_56(t_s) {
+    let rpm = t_s * (15000.0 + 56 * 100.0);
+    #{"step": 56, "rpm": rpm}
+}
+fn spool_rpm_profile_57(t_s) {
+    let rpm = t_s * (15000.0 + 57 * 100.0);
+    #{"step": 57, "rpm": rpm}
+}
+fn spool_rpm_profile_58(t_s) {
+    let rpm = t_s * (15000.0 + 58 * 100.0);
+    #{"step": 58, "rpm": rpm}
+}
+fn spool_rpm_profile_59(t_s) {
+    let rpm = t_s * (15000.0 + 59 * 100.0);
+    #{"step": 59, "rpm": rpm}
+}
+fn spool_rpm_profile_60(t_s) {
+    let rpm = t_s * (15000.0 + 60 * 100.0);
+    #{"step": 60, "rpm": rpm}
+}
+fn spool_rpm_profile_61(t_s) {
+    let rpm = t_s * (15000.0 + 61 * 100.0);
+    #{"step": 61, "rpm": rpm}
+}
+fn spool_rpm_profile_62(t_s) {
+    let rpm = t_s * (15000.0 + 62 * 100.0);
+    #{"step": 62, "rpm": rpm}
+}
+fn spool_rpm_profile_63(t_s) {
+    let rpm = t_s * (15000.0 + 63 * 100.0);
+    #{"step": 63, "rpm": rpm}
+}
+fn spool_rpm_profile_64(t_s) {
+    let rpm = t_s * (15000.0 + 64 * 100.0);
+    #{"step": 64, "rpm": rpm}
+}
+fn spool_rpm_profile_65(t_s) {
+    let rpm = t_s * (15000.0 + 65 * 100.0);
+    #{"step": 65, "rpm": rpm}
+}
+fn spool_rpm_profile_66(t_s) {
+    let rpm = t_s * (15000.0 + 66 * 100.0);
+    #{"step": 66, "rpm": rpm}
+}
+fn spool_rpm_profile_67(t_s) {
+    let rpm = t_s * (15000.0 + 67 * 100.0);
+    #{"step": 67, "rpm": rpm}
+}
+fn spool_rpm_profile_68(t_s) {
+    let rpm = t_s * (15000.0 + 68 * 100.0);
+    #{"step": 68, "rpm": rpm}
+}
+fn spool_rpm_profile_69(t_s) {
+    let rpm = t_s * (15000.0 + 69 * 100.0);
+    #{"step": 69, "rpm": rpm}
+}
+fn spool_rpm_profile_70(t_s) {
+    let rpm = t_s * (15000.0 + 70 * 100.0);
+    #{"step": 70, "rpm": rpm}
+}
+fn spool_rpm_profile_71(t_s) {
+    let rpm = t_s * (15000.0 + 71 * 100.0);
+    #{"step": 71, "rpm": rpm}
+}
+fn spool_rpm_profile_72(t_s) {
+    let rpm = t_s * (15000.0 + 72 * 100.0);
+    #{"step": 72, "rpm": rpm}
+}
+fn spool_rpm_profile_73(t_s) {
+    let rpm = t_s * (15000.0 + 73 * 100.0);
+    #{"step": 73, "rpm": rpm}
+}
+fn spool_rpm_profile_74(t_s) {
+    let rpm = t_s * (15000.0 + 74 * 100.0);
+    #{"step": 74, "rpm": rpm}
+}
+fn spool_rpm_profile_75(t_s) {
+    let rpm = t_s * (15000.0 + 75 * 100.0);
+    #{"step": 75, "rpm": rpm}
+}
+fn spool_rpm_profile_76(t_s) {
+    let rpm = t_s * (15000.0 + 76 * 100.0);
+    #{"step": 76, "rpm": rpm}
+}
+fn spool_rpm_profile_77(t_s) {
+    let rpm = t_s * (15000.0 + 77 * 100.0);
+    #{"step": 77, "rpm": rpm}
+}
+fn spool_rpm_profile_78(t_s) {
+    let rpm = t_s * (15000.0 + 78 * 100.0);
+    #{"step": 78, "rpm": rpm}
+}
+fn spool_rpm_profile_79(t_s) {
+    let rpm = t_s * (15000.0 + 79 * 100.0);
+    #{"step": 79, "rpm": rpm}
+}
+fn spool_rpm_profile_80(t_s) {
+    let rpm = t_s * (15000.0 + 80 * 100.0);
+    #{"step": 80, "rpm": rpm}
+}
+fn spool_rpm_profile_81(t_s) {
+    let rpm = t_s * (15000.0 + 81 * 100.0);
+    #{"step": 81, "rpm": rpm}
+}
+fn spool_rpm_profile_82(t_s) {
+    let rpm = t_s * (15000.0 + 82 * 100.0);
+    #{"step": 82, "rpm": rpm}
+}
+fn spool_rpm_profile_83(t_s) {
+    let rpm = t_s * (15000.0 + 83 * 100.0);
+    #{"step": 83, "rpm": rpm}
+}
+fn spool_rpm_profile_84(t_s) {
+    let rpm = t_s * (15000.0 + 84 * 100.0);
+    #{"step": 84, "rpm": rpm}
+}

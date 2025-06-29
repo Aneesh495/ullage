@@ -189,3 +189,163 @@ fn boiling_regime_point_44(delta_t_wall) {
     let q_flux = 5000.0 * (delta_t_wall + 44 * 0.5).powf(1.8);
     #{"node": 44, "heat_flux_w_m2": q_flux}
 }
+fn boiling_regime_point_45(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 45 * 0.5).powf(1.8);
+    #{"node": 45, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_46(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 46 * 0.5).powf(1.8);
+    #{"node": 46, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_47(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 47 * 0.5).powf(1.8);
+    #{"node": 47, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_48(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 48 * 0.5).powf(1.8);
+    #{"node": 48, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_49(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 49 * 0.5).powf(1.8);
+    #{"node": 49, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_50(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 50 * 0.5).powf(1.8);
+    #{"node": 50, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_51(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 51 * 0.5).powf(1.8);
+    #{"node": 51, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_52(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 52 * 0.5).powf(1.8);
+    #{"node": 52, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_53(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 53 * 0.5).powf(1.8);
+    #{"node": 53, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_54(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 54 * 0.5).powf(1.8);
+    #{"node": 54, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_55(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 55 * 0.5).powf(1.8);
+    #{"node": 55, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_56(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 56 * 0.5).powf(1.8);
+    #{"node": 56, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_57(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 57 * 0.5).powf(1.8);
+    #{"node": 57, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_58(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 58 * 0.5).powf(1.8);
+    #{"node": 58, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_59(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 59 * 0.5).powf(1.8);
+    #{"node": 59, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_60(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 60 * 0.5).powf(1.8);
+    #{"node": 60, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_61(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 61 * 0.5).powf(1.8);
+    #{"node": 61, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_62(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 62 * 0.5).powf(1.8);
+    #{"node": 62, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_63(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 63 * 0.5).powf(1.8);
+    #{"node": 63, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_64(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 64 * 0.5).powf(1.8);
+    #{"node": 64, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_65(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 65 * 0.5).powf(1.8);
+    #{"node": 65, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_66(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 66 * 0.5).powf(1.8);
+    #{"node": 66, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_67(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 67 * 0.5).powf(1.8);
+    #{"node": 67, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_68(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 68 * 0.5).powf(1.8);
+    #{"node": 68, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_69(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 69 * 0.5).powf(1.8);
+    #{"node": 69, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_70(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 70 * 0.5).powf(1.8);
+    #{"node": 70, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_71(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 71 * 0.5).powf(1.8);
+    #{"node": 71, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_72(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 72 * 0.5).powf(1.8);
+    #{"node": 72, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_73(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 73 * 0.5).powf(1.8);
+    #{"node": 73, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_74(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 74 * 0.5).powf(1.8);
+    #{"node": 74, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_75(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 75 * 0.5).powf(1.8);
+    #{"node": 75, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_76(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 76 * 0.5).powf(1.8);
+    #{"node": 76, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_77(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 77 * 0.5).powf(1.8);
+    #{"node": 77, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_78(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 78 * 0.5).powf(1.8);
+    #{"node": 78, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_79(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 79 * 0.5).powf(1.8);
+    #{"node": 79, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_80(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 80 * 0.5).powf(1.8);
+    #{"node": 80, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_81(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 81 * 0.5).powf(1.8);
+    #{"node": 81, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_82(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 82 * 0.5).powf(1.8);
+    #{"node": 82, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_83(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 83 * 0.5).powf(1.8);
+    #{"node": 83, "heat_flux_w_m2": q_flux}
+}
+fn boiling_regime_point_84(delta_t_wall) {
+    let q_flux = 5000.0 * (delta_t_wall + 84 * 0.5).powf(1.8);
+    #{"node": 84, "heat_flux_w_m2": q_flux}
+}

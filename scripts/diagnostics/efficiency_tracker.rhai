@@ -187,3 +187,163 @@ fn efficiency_sample_44(c_act) {
     let e = calculate_burn_efficiency(c_act, 1800.0 + 44 * 2.0);
     #{"sample": 44, "efficiency_pct": e}
 }
+fn efficiency_sample_45(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 45 * 2.0);
+    #{"sample": 45, "efficiency_pct": e}
+}
+fn efficiency_sample_46(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 46 * 2.0);
+    #{"sample": 46, "efficiency_pct": e}
+}
+fn efficiency_sample_47(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 47 * 2.0);
+    #{"sample": 47, "efficiency_pct": e}
+}
+fn efficiency_sample_48(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 48 * 2.0);
+    #{"sample": 48, "efficiency_pct": e}
+}
+fn efficiency_sample_49(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 49 * 2.0);
+    #{"sample": 49, "efficiency_pct": e}
+}
+fn efficiency_sample_50(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 50 * 2.0);
+    #{"sample": 50, "efficiency_pct": e}
+}
+fn efficiency_sample_51(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 51 * 2.0);
+    #{"sample": 51, "efficiency_pct": e}
+}
+fn efficiency_sample_52(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 52 * 2.0);
+    #{"sample": 52, "efficiency_pct": e}
+}
+fn efficiency_sample_53(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 53 * 2.0);
+    #{"sample": 53, "efficiency_pct": e}
+}
+fn efficiency_sample_54(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 54 * 2.0);
+    #{"sample": 54, "efficiency_pct": e}
+}
+fn efficiency_sample_55(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 55 * 2.0);
+    #{"sample": 55, "efficiency_pct": e}
+}
+fn efficiency_sample_56(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 56 * 2.0);
+    #{"sample": 56, "efficiency_pct": e}
+}
+fn efficiency_sample_57(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 57 * 2.0);
+    #{"sample": 57, "efficiency_pct": e}
+}
+fn efficiency_sample_58(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 58 * 2.0);
+    #{"sample": 58, "efficiency_pct": e}
+}
+fn efficiency_sample_59(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 59 * 2.0);
+    #{"sample": 59, "efficiency_pct": e}
+}
+fn efficiency_sample_60(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 60 * 2.0);
+    #{"sample": 60, "efficiency_pct": e}
+}
+fn efficiency_sample_61(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 61 * 2.0);
+    #{"sample": 61, "efficiency_pct": e}
+}
+fn efficiency_sample_62(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 62 * 2.0);
+    #{"sample": 62, "efficiency_pct": e}
+}
+fn efficiency_sample_63(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 63 * 2.0);
+    #{"sample": 63, "efficiency_pct": e}
+}
+fn efficiency_sample_64(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 64 * 2.0);
+    #{"sample": 64, "efficiency_pct": e}
+}
+fn efficiency_sample_65(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 65 * 2.0);
+    #{"sample": 65, "efficiency_pct": e}
+}
+fn efficiency_sample_66(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 66 * 2.0);
+    #{"sample": 66, "efficiency_pct": e}
+}
+fn efficiency_sample_67(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 67 * 2.0);
+    #{"sample": 67, "efficiency_pct": e}
+}
+fn efficiency_sample_68(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 68 * 2.0);
+    #{"sample": 68, "efficiency_pct": e}
+}
+fn efficiency_sample_69(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 69 * 2.0);
+    #{"sample": 69, "efficiency_pct": e}
+}
+fn efficiency_sample_70(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 70 * 2.0);
+    #{"sample": 70, "efficiency_pct": e}
+}
+fn efficiency_sample_71(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 71 * 2.0);
+    #{"sample": 71, "efficiency_pct": e}
+}
+fn efficiency_sample_72(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 72 * 2.0);
+    #{"sample": 72, "efficiency_pct": e}
+}
+fn efficiency_sample_73(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 73 * 2.0);
+    #{"sample": 73, "efficiency_pct": e}
+}
+fn efficiency_sample_74(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 74 * 2.0);
+    #{"sample": 74, "efficiency_pct": e}
+}
+fn efficiency_sample_75(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 75 * 2.0);
+    #{"sample": 75, "efficiency_pct": e}
+}
+fn efficiency_sample_76(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 76 * 2.0);
+    #{"sample": 76, "efficiency_pct": e}
+}
+fn efficiency_sample_77(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 77 * 2.0);
+    #{"sample": 77, "efficiency_pct": e}
+}
+fn efficiency_sample_78(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 78 * 2.0);
+    #{"sample": 78, "efficiency_pct": e}
+}
+fn efficiency_sample_79(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 79 * 2.0);
+    #{"sample": 79, "efficiency_pct": e}
+}
+fn efficiency_sample_80(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 80 * 2.0);
+    #{"sample": 80, "efficiency_pct": e}
+}
+fn efficiency_sample_81(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 81 * 2.0);
+    #{"sample": 81, "efficiency_pct": e}
+}
+fn efficiency_sample_82(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 82 * 2.0);
+    #{"sample": 82, "efficiency_pct": e}
+}
+fn efficiency_sample_83(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 83 * 2.0);
+    #{"sample": 83, "efficiency_pct": e}
+}
+fn efficiency_sample_84(c_act) {
+    let e = calculate_burn_efficiency(c_act, 1800.0 + 84 * 2.0);
+    #{"sample": 84, "efficiency_pct": e}
+}
