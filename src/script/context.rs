@@ -1,11 +1,9 @@
 //! Shared runtime context between Rust host engine and Rhai automation scripts
 
 use crate::common::types::HealthFlags;
-use crate::hardware::hal::StandHal;
-use crate::safety::interlock::{AbortReason, SafetyInterlock};
+use crate::safety::interlock::SafetyInterlock;
 use crate::safety::redline::RedlineRule;
 use std::collections::HashMap;
-use std::sync::{Arc, Mutex};
 
 /// Global state accessible to Rhai scripts during automated hot-fire runs
 #[derive(Debug, Clone)]
@@ -52,5 +50,5 @@ impl ScriptExecutionContext {
     }
 }
 
-pub type SharedContext = Arc<Mutex<ScriptExecutionContext>>;
-pub type SharedHal = Arc<Mutex<StandHal>>;
+pub type SharedContext = std::sync::Arc<std::sync::Mutex<ScriptExecutionContext>>;
+pub type SharedHal = std::sync::Arc<std::sync::Mutex<crate::hardware::hal::StandHal>>;

@@ -3,7 +3,7 @@
 use crate::script::bindings::register_bindings;
 use crate::script::context::{ScriptExecutionContext, SharedContext, SharedHal};
 use crate::script::modules::ScriptModuleLoader;
-use rhai::{Engine, Scope, AST};
+use rhai::{Engine, Scope};
 use std::path::Path;
 use std::sync::{Arc, Mutex};
 
@@ -19,7 +19,7 @@ impl UllageScriptEngine {
     pub fn new<P: AsRef<Path>>(scripts_dir: P) -> Self {
         let mut engine = Engine::new();
 
-        // Configure deterministic execution limits to prevent infinite loops or memory bombs
+        // Configure deterministic execution limits to prevent infinite loops or memory exhaustion
         engine.set_max_expr_depths(64, 64);
         engine.set_max_call_levels(64);
         engine.set_max_operations(500_000); // 500k operations fuel budget
@@ -39,7 +39,7 @@ impl UllageScriptEngine {
         }
     }
 
-    pub fn eval<T: Clone + 'static>(&self, script: &str) -> Result<T, String> {
+    pub fn eval<T: Clone + Send + Sync + 'static>(&self, script: &str) -> Result<T, String> {
         let mut scope = Scope::new();
         self.engine
             .eval_with_scope::<T>(&mut scope, script)
